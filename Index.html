@@ -5,16 +5,265 @@
 <head>
     <meta charset="utf-8" />
     <title>Quarantine Boredom...</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./styles/bootstrap.min.css">
+    <script src="./scripts/jquery.min.js"></script>
+    <script src="./scripts/bootstrap.min.js"></script>
+    <script src="./scripts/Chart.bundle.js"></script>
+    <script src="./scripts/moment.min.js"></script>
+
     <style>
-        canvas {
-            height: 30em;
-            max-height: 30em;
+
+        .jumbotron {
+            padding-top: 10px !important;
+            padding-bottom: 10px !important;
         }
     </style>
+
 </head>
-<body>
-    <h1>Hello World - 4th best place on the internet</h1>
-    <p>I'm hosted with GitHub Pages.</p>
+<body class="container">
+    <div class="jumbotron jumbotron-fluid">
+        <p class="lead">
+            Covid-19 Data Visualization with Chart JS
+        </p>
+        <hr>
+
+    </div>
+
+
+    <div class="row">
+        <div class="col-md-4">
+            <form>
+                <label for="selState">Select State 1:</label>
+                <select class="form-control" id="selState" onchange="selStateHandler()">
+                </select>
+            </form>
+        </div>
+        <div class="col-md-4">
+            <form>
+                <label for="selState2">Select State 2:</label>
+                <select class="form-control" id="selState2" onchange="selStateHandler()">
+                </select>
+            </form>
+        </div>
+        <div class="col-md-4">
+            <form>
+                <label for="selMeasure">Select Measure:</label>
+                <select class="form-control" id="selMeasure" onchange="selMeasureHandler()">
+                    <option>Confirmed Cases</option>
+                    <option>Deaths</option>
+                </select>
+            </form>
+        </div>
+    </div>
+    <div class="content-box" style="width:100%;">
+        <canvas id="canvas"></canvas>
+    </div>
+
+    <!-- Footer -->
+    <div class="jumbotron jumbotron-fluid">
+        <p>
+            Using data published by 2019 Novel Coronavirus COVID-19 Data Repository <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins CSSE</a>.
+        </p>
+    </div>
+    <!-- Footer -->
+
+    <br>
+    <br>
+    <script>
+
+        var jsondata, labels, data_confirmed, data_deaths, ctx, config, chart, querydata, idx, idx2, us_states, us_states_names;
+
+        window.chartColors = {
+            red: 'rgb(255, 99, 132)',
+            orange: 'rgb(255, 159, 64)',
+            yellow: 'rgb(255, 205, 86)',
+            green: 'rgb(75, 192, 192)',
+            blue: 'rgb(54, 162, 235)',
+            purple: 'rgb(153, 102, 255)',
+            grey: 'rgb(201, 203, 207)',
+            state1: 'rgb(32, 55, 100)',
+            state2: 'rgb(198, 89, 17)',
+        };
+
+        function test() { alert("Test") };
+
+        function getIndex(stateName) {
+
+            for (var x = 0; x <= jsondata.length; x++) {
+                if (jsondata[x].state == stateName) {
+                    return x;
+                };
+            };
+            return -1;
+        };
+
+        function updateConfirmedChart(idx,idx2,measure) {
+
+            var chartTitle, y1Label, data1, data2;
+            var dates = [];
+
+            labels = jsondata[idx].report.map(function (e) {
+                return e.Date;
+            });
+            for (let i = 0; i < labels.length; i++) {
+                let date = moment(labels[i]).format('YYYY-MM-DD');
+                console.log("date", date);
+                dates.push(date)
+                console.log("newDateArray", this.dates);
+            };
+
+
+            data_confirmed = jsondata[idx].report.map(function (e) {
+                return e.Confirmed;
+            });
+            data_deaths = jsondata[idx].report.map(function (e) {
+                return e.Deaths;
+            });
+            data1 = jsondata[idx].report.map(function (e) {
+                if (measure == "Confirmed Cases") { return e.Confirmed };
+                if (measure == "Deaths") { return e.Deaths };
+            });
+            data2 = jsondata[idx2].report.map(function (e) {
+                if (measure == "Confirmed Cases") { return e.Confirmed };
+                if (measure == "Deaths") { return e.Deaths };
+            });
+
+            chartTitle = 'Covid-19: ' + measure;
+
+            if (chart != null) {
+                chart.destroy();
+            };
+
+            ctx = canvas.getContext('2d');
+            config = {
+                type: 'line',
+                data: {
+                    labels: dates,
+                    datasets: [{
+                        label: document.getElementById("selState").value,
+                        fill: false,
+                        data: data1,
+                        backgroundColor: window.chartColors.state1,
+                        borderColor: window.chartColors.state1
+                    },
+                    {
+                    label: document.getElementById("selState2").value,
+                        fill: false,
+                        data: data2,
+                        backgroundColor: window.chartColors.state2,
+                        borderColor: window.chartColors.state2
+                    }]
+                },
+                options: {
+                    
+                    responsive: true,
+                    title: {
+                        display: true,
+                        text: chartTitle
+                    },
+
+                    scales: {
+                        xAxes: [{
+                            type: 'time',
+                            time: {
+                                unit: 'day'
+                            }
+                        }],
+                        yAxes: [{
+                            scaleLabel: {
+                                display: true,
+                                labelString: measure
+                            }
+                        }]
+                    }
+                }
+            };
+
+            chart = new Chart(ctx, config);
+
+        };
+
+        function selStateHandler() {
+
+            var x = document.getElementById("selState").value;
+            idx = getIndex(x);
+
+            var y = document.getElementById("selState2").value;
+            idx2 = getIndex(y);
+
+            var measure = document.getElementById("selMeasure").value;
+
+            updateConfirmedChart(idx, idx2, measure);
+        };
+
+        function selMeasureHandler() {
+            var x = document.getElementById("selState").value;
+            idx = getIndex(x);
+
+            var y = document.getElementById("selState2").value;
+            idx2 = getIndex(y);
+
+            var measure = document.getElementById("selMeasure").value;
+
+            updateConfirmedChart(idx, idx2, measure);
+        };
+
+
+        window.onload = function () {
+
+            var default1 = 53; //Virginia
+            var default2 = 24; //Maryland
+
+            us_states = $.getJSON('https://raw.githubusercontent.com/btfogarty/covid-19/master/data/us_states.json', function () {
+
+                us_states_names = us_states.responseJSON;
+                var dd = document.getElementById("selState")
+                var dd2 = document.getElementById("selState2")
+
+                for (var i = 0; i <= us_states_names.length; i++) {
+                    //console.log(us_states_names[i].state)
+                    if (i == default1) {
+                        dd.innerHTML = dd.innerHTML +
+                            '<option selected>' + us_states_names[i].state + '</option>'
+                    }
+                    else {
+                        dd.innerHTML = dd.innerHTML +
+                            '<option>' + us_states_names[i].state + '</option>'
+                    };
+
+                    if (i == default2) {
+                        dd2.innerHTML = dd2.innerHTML +
+                            '<option selected>' + us_states_names[i].state + '</option>'
+                    }
+                    else {
+                        dd2.innerHTML = dd2.innerHTML +
+                            '<option>' + us_states_names[i].state + '</option>'
+                    };
+
+                };
+
+                
+
+            });
+
+            //Get data for the charts
+            querydata = $.getJSON("https://raw.githubusercontent.com/btfogarty/covid-19/master/data/covid_states_data.json", function () {
+
+                jsondata = querydata.responseJSON;
+                var x = document.getElementById("selState").value;
+                idx = getIndex(x);
+                x = document.getElementById("selState2").value;
+                idx2 = getIndex(x);
+                var measure = document.getElementById("selMeasure").value;
+                updateConfirmedChart(idx,idx2,measure);
+            });
+
+
+        };
+
+        
+    </script>
+
 </body>
 </html>
