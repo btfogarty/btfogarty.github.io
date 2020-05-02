@@ -13,7 +13,6 @@
     <script src="./scripts/moment.min.js"></script>
 
     <style>
-
         .jumbotron {
             padding-top: 10px !important;
             padding-bottom: 10px !important;
@@ -56,10 +55,19 @@
             </form>
         </div>
     </div>
-    <div class="content-box" style="width:100%;">
-        <canvas id="canvas"></canvas>
+    <div class="countainer">
+        <div class="row">
+            <canvas id="canvas" width="600" height="200"></canvas>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <canvas id="bar1"></canvas>
+            </div>
+            <div class="col-lg-6">
+                <canvas id="bar2"></canvas>
+            </div>
+        </div>
     </div>
-
     <!-- Footer -->
     <div class="jumbotron jumbotron-fluid">
         <p>
@@ -73,6 +81,7 @@
     <script>
 
         var jsondata, labels, data_confirmed, data_deaths, ctx, config, chart, querydata, idx, idx2, us_states, us_states_names;
+        var barChart1Data, barChart2Data, barChart1, barChart2;
 
         window.chartColors = {
             red: 'rgb(255, 99, 132)',
@@ -100,7 +109,7 @@
 
         function updateConfirmedChart(idx,idx2,measure) {
 
-            var chartTitle, y1Label, data1, data2;
+            var chartTitle, data1, data2;
             var dates = [];
 
             labels = jsondata[idx].report.map(function (e) {
@@ -108,18 +117,9 @@
             });
             for (let i = 0; i < labels.length; i++) {
                 let date = moment(labels[i]).format('YYYY-MM-DD');
-                console.log("date", date);
                 dates.push(date)
-                console.log("newDateArray", this.dates);
             };
 
-
-            data_confirmed = jsondata[idx].report.map(function (e) {
-                return e.Confirmed;
-            });
-            data_deaths = jsondata[idx].report.map(function (e) {
-                return e.Deaths;
-            });
             data1 = jsondata[idx].report.map(function (e) {
                 if (measure == "Confirmed Cases") { return e.Confirmed };
                 if (measure == "Deaths") { return e.Deaths };
@@ -151,13 +151,11 @@
                     label: document.getElementById("selState2").value,
                         fill: false,
                         data: data2,
-                        backgroundColor: window.chartColors.state2,
-                        borderColor: window.chartColors.state2
+                        backgroundColor: window.chartColors.blue,
+                        borderColor: window.chartColors.blue
                     }]
                 },
                 options: {
-                    
-                    responsive: true,
                     title: {
                         display: true,
                         text: chartTitle
@@ -195,6 +193,9 @@
             var measure = document.getElementById("selMeasure").value;
 
             updateConfirmedChart(idx, idx2, measure);
+            //Update Bar charts;
+            updateBar1(idx, idx2);
+            updateBar2(idx, idx2);
         };
 
         function selMeasureHandler() {
@@ -209,6 +210,157 @@
             updateConfirmedChart(idx, idx2, measure);
         };
 
+        function updateBar1(idx, idx2) {
+
+            var chartTitle, data1, data2;
+            var dates = [];
+
+            labels = jsondata[idx].report.map(function (e) {
+                return e.Date;
+            });
+            for (let i = 0; i < labels.length; i++) {
+                let date = moment(labels[i]).format('YYYY-MM-DD');
+                dates.push(date)
+            };
+
+            data1 = jsondata[idx].report.map(function (e) {
+                return e.Daily_Confirmed;
+            });
+            data2 = jsondata[idx2].report.map(function (e) {
+                return e.Daily_Confirmed;
+            });
+
+            chartTitle = 'Covid-19: Daily New Cases';
+
+            if (barChart1 != null) {
+                barChart1.destroy();
+            };
+
+            barChart1Data = {
+                labels: labels,
+                datasets: [{
+                    label: document.getElementById("selState").value,
+                    backgroundColor: window.chartColors.state1,
+                    borderColor: window.chartColors.state1,
+                    borderWidth: 1,
+                    data: data1
+                }, {
+                    label: document.getElementById("selState2").value,
+                    backgroundColor: window.chartColors.blue,
+                    borderColor: window.chartColors.blue,
+                    borderWidth: 1,
+                    data: data2
+                }]
+
+            };
+
+            //Update bar chart 1
+            ctx = document.getElementById('bar1').getContext('2d');
+            barChart1 = new Chart(ctx, {
+                type: 'bar',
+                data: barChart1Data,
+                options: {
+                    responsive: true,
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: 'Daily New Cases'
+                    },
+                    scales: {
+                        xAxes: [{
+                            type: 'time',
+                            time: {
+                                unit: 'day'
+                            }
+                        }],
+                        yAxes: [{
+                            scaleLabel: {
+                                display: true,
+                                labelString: 'Confirmed Cases'
+                            }
+                        }]
+                    }
+                }
+            });
+        }
+
+        function updateBar2(idx, idx2) {
+
+            var chartTitle, data1, data2;
+            var dates = [];
+
+            labels = jsondata[idx].report.map(function (e) {
+                return e.Date;
+            });
+            for (let i = 0; i < labels.length; i++) {
+                let date = moment(labels[i]).format('YYYY-MM-DD');
+                dates.push(date)
+            };
+
+            data1 = jsondata[idx2].report.map(function (e) {
+                return e.Daily_Deaths;
+            });
+            data2 = jsondata[idx2].report.map(function (e) {
+                return e.Daily_Deaths;
+            });
+
+            chartTitle = 'Covid-19: Daily Deaths';
+
+            if (barChart2 != null) {
+                barChart2.destroy();
+            };
+
+            barChart2Data = {
+                labels: labels,
+                datasets: [{
+                    label: document.getElementById("selState").value,
+                    backgroundColor: window.chartColors.state1,
+                    borderColor: window.chartColors.state1,
+                    borderWidth: 1,
+                    data: data1
+                }, {
+                    label: document.getElementById("selState2").value,
+                    backgroundColor: window.chartColors.blue,
+                    borderColor: window.chartColors.blue,
+                    borderWidth: 1,
+                    data: data2
+                }]
+
+            };
+
+            //Update bar chart 2
+            ctx = document.getElementById('bar2').getContext('2d');
+            barChart2 = new Chart(ctx, {
+                type: 'bar',
+                data: barChart2Data,
+                options: {
+                    responsive: true,
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: 'Daily Deaths'
+                    },
+                    scales: {
+                        xAxes: [{
+                            type: 'time',
+                            time: {
+                                unit: 'day'
+                            }
+                        }],
+                        yAxes: [{
+                            scaleLabel: {
+                                display: true,
+                                labelString: 'Deaths'
+                            }
+                        }]
+                    }
+                }
+            });
+        }
 
         window.onload = function () {
 
@@ -243,8 +395,6 @@
 
                 };
 
-                
-
             });
 
             //Get data for the charts
@@ -256,9 +406,13 @@
                 x = document.getElementById("selState2").value;
                 idx2 = getIndex(x);
                 var measure = document.getElementById("selMeasure").value;
-                updateConfirmedChart(idx,idx2,measure);
-            });
+                updateConfirmedChart(idx, idx2, measure);
 
+                //Update Bar charts;
+                updateBar1(idx, idx2);
+                updateBar2(idx, idx2);
+
+            });
 
         };
 
