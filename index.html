@@ -50,7 +50,11 @@
                 <label for="selMeasure">Select Measure:</label>
                 <select class="form-control" id="selMeasure" onchange="selMeasureHandler()">
                     <option>Confirmed Cases</option>
+                    <option>Confirmed Cases - 3 day Avg</option>
+                    <option>Confirmed Cases - 5 day Avg</option>
                     <option>Deaths</option>
+                    <option>Deaths - 3 day Avg</option>
+                    <option>Deaths - 5 day Avg</option>
                 </select>
             </form>
         </div>
@@ -367,7 +371,7 @@
             var default1 = 53; //Virginia
             var default2 = 24; //Maryland
 
-            us_states = $.getJSON('https://raw.githubusercontent.com/btfogarty/covid-19/master/data/us_states.json', function () {
+            us_states = $.getJSON('./data/us_states.json', function () {
 
                 us_states_names = us_states.responseJSON;
                 var dd = document.getElementById("selState")
@@ -398,7 +402,7 @@
             });
 
             //Get data for the charts
-            querydata = $.getJSON("https://raw.githubusercontent.com/btfogarty/covid-19/master/data/covid_states_data.json", function () {
+            querydata = $.getJSON("./data/covid_states_data.json", function () {
 
                 jsondata = querydata.responseJSON;
                 var x = document.getElementById("selState").value;
