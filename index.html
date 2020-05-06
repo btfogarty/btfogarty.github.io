@@ -125,12 +125,34 @@
             };
 
             data1 = jsondata[idx].report.map(function (e) {
-                if (measure == "Confirmed Cases") { return e.Confirmed };
-                if (measure == "Deaths") { return e.Deaths };
+                if (measure == "Confirmed Cases") {
+                    return e.Confirmed
+                } else if (measure == "Deaths") {
+                    return e.Deaths
+                } else if (measure == "Confirmed Cases - 3 day Avg") {
+                    return e.Confirmed_3day
+                } else if (measure == "Confirmed Cases - 5 day Avg") {
+                    return e.Confirmed_5day
+                } else if (measure == "Deaths - 3 day Avg") {
+                    return e.Deaths_3day
+                } else if (measure == "Deaths - 5 day Avg") {
+                    return e.Deaths_5day
+                };
             });
             data2 = jsondata[idx2].report.map(function (e) {
-                if (measure == "Confirmed Cases") { return e.Confirmed };
-                if (measure == "Deaths") { return e.Deaths };
+                if (measure == "Confirmed Cases") {
+                    return e.Confirmed
+                } else if (measure == "Deaths") {
+                    return e.Deaths
+                } else if (measure == "Confirmed Cases - 3 day Avg") {
+                    return e.Confirmed_3day
+                } else if (measure == "Confirmed Cases - 5 day Avg") {
+                    return e.Confirmed_5day
+                } else if (measure == "Deaths - 3 day Avg") {
+                    return e.Deaths_3day
+                } else if (measure == "Deaths - 5 day Avg") {
+                    return e.Deaths_5day
+                };
             });
 
             chartTitle = 'Covid-19: ' + measure;
