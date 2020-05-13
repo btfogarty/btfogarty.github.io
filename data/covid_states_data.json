@@ -112,7 +112,8 @@
 				{"Date":"05/08/2020", "Confirmed":9385, "Deaths":383, "Daily_Confirmed":339.0, "Daily_Deaths":14.0, "Confirmed_3day":316.0, "Confirmed_5day":299.4, "Deaths_3day":22.667, "Deaths_5day":18.6},
 				{"Date":"05/09/2020", "Confirmed":9668, "Deaths":390, "Daily_Confirmed":283.0, "Daily_Deaths":7.0, "Confirmed_3day":325.667, "Confirmed_5day":311.2, "Deaths_3day":15.667, "Deaths_5day":18.4},
 				{"Date":"05/10/2020", "Confirmed":9889, "Deaths":393, "Daily_Confirmed":221.0, "Daily_Deaths":3.0, "Confirmed_3day":281.0, "Confirmed_5day":290.4, "Deaths_3day":8.0, "Deaths_5day":15.6},
-				{"Date":"05/11/2020", "Confirmed":10164, "Deaths":403, "Daily_Confirmed":275.0, "Daily_Deaths":10.0, "Confirmed_3day":259.667, "Confirmed_5day":294.6, "Deaths_3day":6.667, "Deaths_5day":12.0 }
+				{"Date":"05/11/2020", "Confirmed":10164, "Deaths":403, "Daily_Confirmed":275.0, "Daily_Deaths":10.0, "Confirmed_3day":259.667, "Confirmed_5day":294.6, "Deaths_3day":6.667, "Deaths_5day":12.0},
+				{"Date":"05/12/2020", "Confirmed":10464, "Deaths":435, "Daily_Confirmed":300.0, "Daily_Deaths":32.0, "Confirmed_3day":265.333, "Confirmed_5day":283.6, "Deaths_3day":15.0, "Deaths_5day":13.2 }
 			]
 	},
 	{"state":"Alaska",
@@ -228,7 +229,8 @@
 				{"Date":"05/08/2020", "Confirmed":377, "Deaths":10, "Daily_Confirmed":3.0, "Daily_Deaths":0.0, "Confirmed_3day":2.0, "Confirmed_5day":1.8, "Deaths_3day":0.333, "Deaths_5day":0.2},
 				{"Date":"05/09/2020", "Confirmed":378, "Deaths":10, "Daily_Confirmed":1.0, "Daily_Deaths":0.0, "Confirmed_3day":2.0, "Confirmed_5day":1.6, "Deaths_3day":0.0, "Deaths_5day":0.2},
 				{"Date":"05/10/2020", "Confirmed":379, "Deaths":10, "Daily_Confirmed":1.0, "Daily_Deaths":0.0, "Confirmed_3day":1.667, "Confirmed_5day":1.6, "Deaths_3day":0.0, "Deaths_5day":0.2},
-				{"Date":"05/11/2020", "Confirmed":379, "Deaths":10, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.667, "Confirmed_5day":1.4, "Deaths_3day":0.0, "Deaths_5day":0.0 }
+				{"Date":"05/11/2020", "Confirmed":379, "Deaths":10, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.667, "Confirmed_5day":1.4, "Deaths_3day":0.0, "Deaths_5day":0.0},
+				{"Date":"05/12/2020", "Confirmed":383, "Deaths":10, "Daily_Confirmed":4.0, "Daily_Deaths":0.0, "Confirmed_3day":1.667, "Confirmed_5day":1.8, "Deaths_3day":0.0, "Deaths_5day":0.0 }
 			]
 	},
 	{"state":"American Samoa",
@@ -344,7 +346,8 @@
 				{"Date":"05/08/2020", "Confirmed":0, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/09/2020", "Confirmed":0, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/10/2020", "Confirmed":0, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
-				{"Date":"05/11/2020", "Confirmed":0, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0 }
+				{"Date":"05/11/2020", "Confirmed":0, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
+				{"Date":"05/12/2020", "Confirmed":0, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0 }
 			]
 	},
 	{"state":"Arizona",
@@ -460,7 +463,8 @@
 				{"Date":"05/08/2020", "Confirmed":10526, "Deaths":517, "Daily_Confirmed":581.0, "Daily_Deaths":67.0, "Confirmed_3day":407.0, "Confirmed_5day":377.2, "Deaths_3day":40.667, "Deaths_5day":31.0},
 				{"Date":"05/09/2020", "Confirmed":10960, "Deaths":532, "Daily_Confirmed":434.0, "Daily_Deaths":15.0, "Confirmed_3day":417.667, "Confirmed_5day":407.2, "Deaths_3day":35.333, "Deaths_5day":34.0},
 				{"Date":"05/10/2020", "Confirmed":11119, "Deaths":536, "Daily_Confirmed":159.0, "Daily_Deaths":4.0, "Confirmed_3day":391.333, "Confirmed_5day":362.8, "Deaths_3day":28.667, "Deaths_5day":28.2},
-				{"Date":"05/11/2020", "Confirmed":11383, "Deaths":542, "Daily_Confirmed":264.0, "Daily_Deaths":6.0, "Confirmed_3day":285.667, "Confirmed_5day":335.2, "Deaths_3day":8.333, "Deaths_5day":23.2 }
+				{"Date":"05/11/2020", "Confirmed":11383, "Deaths":542, "Daily_Confirmed":264.0, "Daily_Deaths":6.0, "Confirmed_3day":285.667, "Confirmed_5day":335.2, "Deaths_3day":8.333, "Deaths_5day":23.2},
+				{"Date":"05/12/2020", "Confirmed":11736, "Deaths":562, "Daily_Confirmed":353.0, "Daily_Deaths":20.0, "Confirmed_3day":258.667, "Confirmed_5day":358.2, "Deaths_3day":10.0, "Deaths_5day":22.4 }
 			]
 	},
 	{"state":"Arkansas",
@@ -576,7 +580,8 @@
 				{"Date":"05/08/2020", "Confirmed":3747, "Deaths":88, "Daily_Confirmed":44.0, "Daily_Deaths":1.0, "Confirmed_3day":74.0, "Confirmed_5day":62.0, "Deaths_3day":1.667, "Deaths_5day":2.4},
 				{"Date":"05/09/2020", "Confirmed":3747, "Deaths":88, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":45.333, "Confirmed_5day":51.2, "Deaths_3day":0.333, "Deaths_5day":1.6},
 				{"Date":"05/10/2020", "Confirmed":4012, "Deaths":91, "Daily_Confirmed":265.0, "Daily_Deaths":3.0, "Confirmed_3day":103.0, "Confirmed_5day":97.4, "Deaths_3day":1.333, "Deaths_5day":1.6},
-				{"Date":"05/11/2020", "Confirmed":4043, "Deaths":94, "Daily_Confirmed":31.0, "Daily_Deaths":3.0, "Confirmed_3day":98.667, "Confirmed_5day":86.4, "Deaths_3day":2.0, "Deaths_5day":1.4 }
+				{"Date":"05/11/2020", "Confirmed":4043, "Deaths":94, "Daily_Confirmed":31.0, "Daily_Deaths":3.0, "Confirmed_3day":98.667, "Confirmed_5day":86.4, "Deaths_3day":2.0, "Deaths_5day":1.4},
+				{"Date":"05/12/2020", "Confirmed":4164, "Deaths":95, "Daily_Confirmed":121.0, "Daily_Deaths":1.0, "Confirmed_3day":139.0, "Confirmed_5day":92.2, "Deaths_3day":2.333, "Deaths_5day":1.6 }
 			]
 	},
 	{"state":"California",
@@ -692,7 +697,8 @@
 				{"Date":"05/08/2020", "Confirmed":63779, "Deaths":2613, "Daily_Confirmed":1631.0, "Daily_Deaths":78.0, "Confirmed_3day":1774.333, "Confirmed_5day":1775.2, "Deaths_3day":77.333, "Deaths_5day":79.4},
 				{"Date":"05/09/2020", "Confirmed":66558, "Deaths":2687, "Daily_Confirmed":2779.0, "Daily_Deaths":74.0, "Confirmed_3day":1980.667, "Confirmed_5day":2134.8, "Deaths_3day":74.333, "Deaths_5day":81.8},
 				{"Date":"05/10/2020", "Confirmed":67600, "Deaths":2716, "Daily_Confirmed":1042.0, "Daily_Deaths":29.0, "Confirmed_3day":1817.333, "Confirmed_5day":1828.8, "Deaths_3day":60.333, "Deaths_5day":67.0},
-				{"Date":"05/11/2020", "Confirmed":69329, "Deaths":2779, "Daily_Confirmed":1729.0, "Daily_Deaths":63.0, "Confirmed_3day":1850.0, "Confirmed_5day":1742.6, "Deaths_3day":55.333, "Deaths_5day":63.0 }
+				{"Date":"05/11/2020", "Confirmed":69329, "Deaths":2779, "Daily_Confirmed":1729.0, "Daily_Deaths":63.0, "Confirmed_3day":1850.0, "Confirmed_5day":1742.6, "Deaths_3day":55.333, "Deaths_5day":63.0},
+				{"Date":"05/12/2020", "Confirmed":70978, "Deaths":2879, "Daily_Confirmed":1649.0, "Daily_Deaths":100.0, "Confirmed_3day":1473.333, "Confirmed_5day":1766.0, "Deaths_3day":64.0, "Deaths_5day":68.8 }
 			]
 	},
 	{"state":"Colorado",
@@ -808,7 +814,8 @@
 				{"Date":"05/08/2020", "Confirmed":18827, "Deaths":960, "Daily_Confirmed":457.0, "Daily_Deaths":16.0, "Confirmed_3day":486.667, "Confirmed_5day":438.4, "Deaths_3day":19.0, "Deaths_5day":23.6},
 				{"Date":"05/09/2020", "Confirmed":19375, "Deaths":967, "Daily_Confirmed":548.0, "Daily_Deaths":7.0, "Confirmed_3day":514.333, "Confirmed_5day":491.4, "Deaths_3day":16.0, "Deaths_5day":23.2},
 				{"Date":"05/10/2020", "Confirmed":19703, "Deaths":971, "Daily_Confirmed":328.0, "Daily_Deaths":4.0, "Confirmed_3day":444.333, "Confirmed_5day":467.2, "Deaths_3day":9.0, "Deaths_5day":13.6},
-				{"Date":"05/11/2020", "Confirmed":19879, "Deaths":987, "Daily_Confirmed":176.0, "Daily_Deaths":16.0, "Confirmed_3day":350.667, "Confirmed_5day":409.4, "Deaths_3day":9.0, "Deaths_5day":13.6 }
+				{"Date":"05/11/2020", "Confirmed":19879, "Deaths":987, "Daily_Confirmed":176.0, "Daily_Deaths":16.0, "Confirmed_3day":350.667, "Confirmed_5day":409.4, "Deaths_3day":9.0, "Deaths_5day":13.6},
+				{"Date":"05/12/2020", "Confirmed":20157, "Deaths":1010, "Daily_Confirmed":278.0, "Daily_Deaths":23.0, "Confirmed_3day":260.667, "Confirmed_5day":357.4, "Deaths_3day":14.333, "Deaths_5day":13.2 }
 			]
 	},
 	{"state":"Connecticut",
@@ -924,7 +931,8 @@
 				{"Date":"05/08/2020", "Confirmed":32411, "Deaths":2874, "Daily_Confirmed":627.0, "Daily_Deaths":77.0, "Confirmed_3day":596.667, "Confirmed_5day":624.8, "Deaths_3day":80.333, "Deaths_5day":87.6},
 				{"Date":"05/09/2020", "Confirmed":32984, "Deaths":2932, "Daily_Confirmed":573.0, "Daily_Deaths":58.0, "Confirmed_3day":663.0, "Confirmed_5day":602.2, "Deaths_3day":71.333, "Deaths_5day":75.2},
 				{"Date":"05/10/2020", "Confirmed":33554, "Deaths":2967, "Daily_Confirmed":570.0, "Daily_Deaths":35.0, "Confirmed_3day":590.0, "Confirmed_5day":586.6, "Deaths_3day":56.667, "Deaths_5day":66.8},
-				{"Date":"05/11/2020", "Confirmed":33765, "Deaths":3008, "Daily_Confirmed":211.0, "Daily_Deaths":41.0, "Confirmed_3day":451.333, "Confirmed_5day":554.0, "Deaths_3day":44.667, "Deaths_5day":58.0 }
+				{"Date":"05/11/2020", "Confirmed":33765, "Deaths":3008, "Daily_Confirmed":211.0, "Daily_Deaths":41.0, "Confirmed_3day":451.333, "Confirmed_5day":554.0, "Deaths_3day":44.667, "Deaths_5day":58.0},
+				{"Date":"05/12/2020", "Confirmed":34333, "Deaths":3041, "Daily_Confirmed":568.0, "Daily_Deaths":33.0, "Confirmed_3day":449.667, "Confirmed_5day":509.8, "Deaths_3day":36.333, "Deaths_5day":48.8 }
 			]
 	},
 	{"state":"Delaware",
@@ -1040,7 +1048,8 @@
 				{"Date":"05/08/2020", "Confirmed":6111, "Deaths":213, "Daily_Confirmed":172.0, "Daily_Deaths":11.0, "Confirmed_3day":246.667, "Confirmed_5day":180.6, "Deaths_3day":8.667, "Deaths_5day":7.2},
 				{"Date":"05/09/2020", "Confirmed":6277, "Deaths":221, "Daily_Confirmed":166.0, "Daily_Deaths":8.0, "Confirmed_3day":166.333, "Confirmed_5day":197.8, "Deaths_3day":9.333, "Deaths_5day":7.8},
 				{"Date":"05/10/2020", "Confirmed":6277, "Deaths":221, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":112.667, "Confirmed_5day":181.2, "Deaths_3day":6.333, "Deaths_5day":6.8},
-				{"Date":"05/11/2020", "Confirmed":6565, "Deaths":225, "Daily_Confirmed":288.0, "Daily_Deaths":4.0, "Confirmed_3day":151.333, "Confirmed_5day":157.4, "Deaths_3day":4.0, "Deaths_5day":6.4 }
+				{"Date":"05/11/2020", "Confirmed":6565, "Deaths":225, "Daily_Confirmed":288.0, "Daily_Deaths":4.0, "Confirmed_3day":151.333, "Confirmed_5day":157.4, "Deaths_3day":4.0, "Deaths_5day":6.4},
+				{"Date":"05/12/2020", "Confirmed":6741, "Deaths":237, "Daily_Confirmed":176.0, "Daily_Deaths":12.0, "Confirmed_3day":154.667, "Confirmed_5day":160.4, "Deaths_3day":5.333, "Deaths_5day":7.0 }
 			]
 	},
 	{"state":"Diamond Princess",
@@ -1156,7 +1165,8 @@
 				{"Date":"05/08/2020", "Confirmed":49, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/09/2020", "Confirmed":49, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/10/2020", "Confirmed":49, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
-				{"Date":"05/11/2020", "Confirmed":49, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0 }
+				{"Date":"05/11/2020", "Confirmed":49, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
+				{"Date":"05/12/2020", "Confirmed":49, "Deaths":0, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0 }
 			]
 	},
 	{"state":"District of Columbia",
@@ -1272,7 +1282,8 @@
 				{"Date":"05/08/2020", "Confirmed":5899, "Deaths":304, "Daily_Confirmed":245.0, "Daily_Deaths":19.0, "Confirmed_3day":192.333, "Confirmed_5day":176.6, "Deaths_3day":13.333, "Deaths_5day":10.6},
 				{"Date":"05/09/2020", "Confirmed":6102, "Deaths":311, "Daily_Confirmed":203.0, "Daily_Deaths":7.0, "Confirmed_3day":213.667, "Confirmed_5day":186.4, "Deaths_3day":11.333, "Deaths_5day":10.6},
 				{"Date":"05/10/2020", "Confirmed":6272, "Deaths":323, "Daily_Confirmed":170.0, "Daily_Deaths":12.0, "Confirmed_3day":206.0, "Confirmed_5day":190.0, "Deaths_3day":12.667, "Deaths_5day":11.8},
-				{"Date":"05/11/2020", "Confirmed":6389, "Deaths":328, "Daily_Confirmed":117.0, "Daily_Deaths":5.0, "Confirmed_3day":163.333, "Confirmed_5day":185.6, "Deaths_3day":8.0, "Deaths_5day":10.2 }
+				{"Date":"05/11/2020", "Confirmed":6389, "Deaths":328, "Daily_Confirmed":117.0, "Daily_Deaths":5.0, "Confirmed_3day":163.333, "Confirmed_5day":185.6, "Deaths_3day":8.0, "Deaths_5day":10.2},
+				{"Date":"05/12/2020", "Confirmed":6485, "Deaths":336, "Daily_Confirmed":96.0, "Daily_Deaths":8.0, "Confirmed_3day":127.667, "Confirmed_5day":166.2, "Deaths_3day":8.333, "Deaths_5day":10.2 }
 			]
 	},
 	{"state":"Florida",
@@ -1388,7 +1399,8 @@
 				{"Date":"05/08/2020", "Confirmed":39199, "Deaths":1669, "Daily_Confirmed":371.0, "Daily_Deaths":69.0, "Confirmed_3day":586.667, "Confirmed_5day":624.2, "Deaths_3day":66.0, "Deaths_5day":58.0},
 				{"Date":"05/09/2020", "Confirmed":40001, "Deaths":1715, "Daily_Confirmed":802.0, "Daily_Deaths":46.0, "Confirmed_3day":666.333, "Confirmed_5day":620.8, "Deaths_3day":58.667, "Deaths_5day":63.2},
 				{"Date":"05/10/2020", "Confirmed":40596, "Deaths":1721, "Daily_Confirmed":595.0, "Daily_Deaths":6.0, "Confirmed_3day":589.333, "Confirmed_5day":631.4, "Deaths_3day":40.333, "Deaths_5day":50.0},
-				{"Date":"05/11/2020", "Confirmed":40982, "Deaths":1735, "Daily_Confirmed":386.0, "Daily_Deaths":14.0, "Confirmed_3day":594.333, "Confirmed_5day":596.0, "Deaths_3day":22.0, "Deaths_5day":39.2 }
+				{"Date":"05/11/2020", "Confirmed":40982, "Deaths":1735, "Daily_Confirmed":386.0, "Daily_Deaths":14.0, "Confirmed_3day":594.333, "Confirmed_5day":596.0, "Deaths_3day":22.0, "Deaths_5day":39.2},
+				{"Date":"05/12/2020", "Confirmed":41923, "Deaths":1779, "Daily_Confirmed":941.0, "Daily_Deaths":44.0, "Confirmed_3day":640.667, "Confirmed_5day":619.0, "Deaths_3day":21.333, "Deaths_5day":35.8 }
 			]
 	},
 	{"state":"Georgia",
@@ -1504,7 +1516,8 @@
 				{"Date":"05/08/2020", "Confirmed":32181, "Deaths":1400, "Daily_Confirmed":563.0, "Daily_Deaths":45.0, "Confirmed_3day":727.667, "Confirmed_5day":703.2, "Deaths_3day":33.667, "Deaths_5day":43.2},
 				{"Date":"05/09/2020", "Confirmed":32588, "Deaths":1403, "Daily_Confirmed":407.0, "Daily_Deaths":3.0, "Confirmed_3day":615.0, "Confirmed_5day":627.4, "Deaths_3day":25.333, "Deaths_5day":31.4},
 				{"Date":"05/10/2020", "Confirmed":33580, "Deaths":1406, "Daily_Confirmed":992.0, "Daily_Deaths":3.0, "Confirmed_3day":654.0, "Confirmed_5day":716.4, "Deaths_3day":17.0, "Deaths_5day":21.4},
-				{"Date":"05/11/2020", "Confirmed":34002, "Deaths":1444, "Daily_Confirmed":422.0, "Daily_Deaths":38.0, "Confirmed_3day":607.0, "Confirmed_5day":651.8, "Deaths_3day":14.667, "Deaths_5day":23.4 }
+				{"Date":"05/11/2020", "Confirmed":34002, "Deaths":1444, "Daily_Confirmed":422.0, "Daily_Deaths":38.0, "Confirmed_3day":607.0, "Confirmed_5day":651.8, "Deaths_3day":14.667, "Deaths_5day":23.4},
+				{"Date":"05/12/2020", "Confirmed":34924, "Deaths":1498, "Daily_Confirmed":922.0, "Daily_Deaths":54.0, "Confirmed_3day":778.667, "Confirmed_5day":661.2, "Deaths_3day":31.667, "Deaths_5day":28.6 }
 			]
 	},
 	{"state":"Grand Princess",
@@ -1620,7 +1633,8 @@
 				{"Date":"05/08/2020", "Confirmed":103, "Deaths":3, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/09/2020", "Confirmed":103, "Deaths":3, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/10/2020", "Confirmed":103, "Deaths":3, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
-				{"Date":"05/11/2020", "Confirmed":103, "Deaths":3, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0 }
+				{"Date":"05/11/2020", "Confirmed":103, "Deaths":3, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
+				{"Date":"05/12/2020", "Confirmed":103, "Deaths":3, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.0, "Deaths_3day":0.0, "Deaths_5day":0.0 }
 			]
 	},
 	{"state":"Guam",
@@ -1736,7 +1750,8 @@
 				{"Date":"05/08/2020", "Confirmed":151, "Deaths":5, "Daily_Confirmed":2.0, "Daily_Deaths":0.0, "Confirmed_3day":2.0, "Confirmed_5day":1.2, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/09/2020", "Confirmed":151, "Deaths":5, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.667, "Confirmed_5day":1.2, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/10/2020", "Confirmed":151, "Deaths":5, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.667, "Confirmed_5day":1.2, "Deaths_3day":0.0, "Deaths_5day":0.0},
-				{"Date":"05/11/2020", "Confirmed":151, "Deaths":5, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.4, "Deaths_3day":0.0, "Deaths_5day":0.0 }
+				{"Date":"05/11/2020", "Confirmed":151, "Deaths":5, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.0, "Confirmed_5day":0.4, "Deaths_3day":0.0, "Deaths_5day":0.0},
+				{"Date":"05/12/2020", "Confirmed":152, "Deaths":5, "Daily_Confirmed":1.0, "Daily_Deaths":0.0, "Confirmed_3day":0.333, "Confirmed_5day":0.6, "Deaths_3day":0.0, "Deaths_5day":0.0 }
 			]
 	},
 	{"state":"Hawaii",
@@ -1852,7 +1867,8 @@
 				{"Date":"05/08/2020", "Confirmed":629, "Deaths":17, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":1.333, "Confirmed_5day":1.8, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/09/2020", "Confirmed":631, "Deaths":17, "Daily_Confirmed":2.0, "Daily_Deaths":0.0, "Confirmed_3day":1.667, "Confirmed_5day":2.0, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/10/2020", "Confirmed":632, "Deaths":17, "Daily_Confirmed":1.0, "Daily_Deaths":0.0, "Confirmed_3day":1.0, "Confirmed_5day":1.4, "Deaths_3day":0.0, "Deaths_5day":0.0},
-				{"Date":"05/11/2020", "Confirmed":634, "Deaths":17, "Daily_Confirmed":2.0, "Daily_Deaths":0.0, "Confirmed_3day":1.667, "Confirmed_5day":1.6, "Deaths_3day":0.0, "Deaths_5day":0.0 }
+				{"Date":"05/11/2020", "Confirmed":634, "Deaths":17, "Daily_Confirmed":2.0, "Daily_Deaths":0.0, "Confirmed_3day":1.667, "Confirmed_5day":1.6, "Deaths_3day":0.0, "Deaths_5day":0.0},
+				{"Date":"05/12/2020", "Confirmed":635, "Deaths":17, "Daily_Confirmed":1.0, "Daily_Deaths":0.0, "Confirmed_3day":1.333, "Confirmed_5day":1.2, "Deaths_3day":0.0, "Deaths_5day":0.0 }
 			]
 	},
 	{"state":"Idaho",
@@ -1968,7 +1984,8 @@
 				{"Date":"05/08/2020", "Confirmed":2178, "Deaths":67, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":17.0, "Confirmed_5day":23.4, "Deaths_3day":0.667, "Deaths_5day":0.6},
 				{"Date":"05/09/2020", "Confirmed":2205, "Deaths":67, "Daily_Confirmed":27.0, "Daily_Deaths":0.0, "Confirmed_3day":15.667, "Confirmed_5day":19.8, "Deaths_3day":0.333, "Deaths_5day":0.6},
 				{"Date":"05/10/2020", "Confirmed":2230, "Deaths":67, "Daily_Confirmed":25.0, "Daily_Deaths":0.0, "Confirmed_3day":17.333, "Confirmed_5day":20.6, "Deaths_3day":0.0, "Deaths_5day":0.4},
-				{"Date":"05/11/2020", "Confirmed":2260, "Deaths":70, "Daily_Confirmed":30.0, "Daily_Deaths":3.0, "Confirmed_3day":27.333, "Confirmed_5day":20.4, "Deaths_3day":1.0, "Deaths_5day":0.8 }
+				{"Date":"05/11/2020", "Confirmed":2260, "Deaths":70, "Daily_Confirmed":30.0, "Daily_Deaths":3.0, "Confirmed_3day":27.333, "Confirmed_5day":20.4, "Deaths_3day":1.0, "Deaths_5day":0.8},
+				{"Date":"05/12/2020", "Confirmed":2293, "Deaths":69, "Daily_Confirmed":33.0, "Daily_Deaths":-1.0, "Confirmed_3day":29.333, "Confirmed_5day":23.0, "Deaths_3day":0.667, "Deaths_5day":0.4 }
 			]
 	},
 	{"state":"Illinois",
@@ -2084,7 +2101,8 @@
 				{"Date":"05/08/2020", "Confirmed":73760, "Deaths":3241, "Daily_Confirmed":2889.0, "Daily_Deaths":130.0, "Confirmed_3day":2623.667, "Confirmed_5day":2452.2, "Deaths_3day":135.667, "Deaths_5day":124.6},
 				{"Date":"05/09/2020", "Confirmed":76085, "Deaths":3349, "Daily_Confirmed":2325.0, "Daily_Deaths":108.0, "Confirmed_3day":2617.667, "Confirmed_5day":2461.6, "Deaths_3day":125.0, "Deaths_5day":138.0},
 				{"Date":"05/10/2020", "Confirmed":77741, "Deaths":3406, "Daily_Confirmed":1656.0, "Daily_Deaths":57.0, "Confirmed_3day":2290.0, "Confirmed_5day":2370.4, "Deaths_3day":98.333, "Deaths_5day":114.4},
-				{"Date":"05/11/2020", "Confirmed":79007, "Deaths":3459, "Daily_Confirmed":1266.0, "Daily_Deaths":53.0, "Confirmed_3day":1749.0, "Confirmed_5day":2155.0, "Deaths_3day":72.667, "Deaths_5day":97.0 }
+				{"Date":"05/11/2020", "Confirmed":79007, "Deaths":3459, "Daily_Confirmed":1266.0, "Daily_Deaths":53.0, "Confirmed_3day":1749.0, "Confirmed_5day":2155.0, "Deaths_3day":72.667, "Deaths_5day":97.0},
+				{"Date":"05/12/2020", "Confirmed":83021, "Deaths":3601, "Daily_Confirmed":4014.0, "Daily_Deaths":142.0, "Confirmed_3day":2312.0, "Confirmed_5day":2430.0, "Deaths_3day":84.0, "Deaths_5day":98.0 }
 			]
 	},
 	{"state":"Indiana",
@@ -2200,7 +2218,8 @@
 				{"Date":"05/08/2020", "Confirmed":23146, "Deaths":1447, "Daily_Confirmed":643.0, "Daily_Deaths":33.0, "Confirmed_3day":704.333, "Confirmed_5day":642.6, "Deaths_3day":78.667, "Deaths_5day":63.0},
 				{"Date":"05/09/2020", "Confirmed":23732, "Deaths":1490, "Daily_Confirmed":586.0, "Daily_Deaths":43.0, "Confirmed_3day":620.667, "Confirmed_5day":645.0, "Deaths_3day":37.667, "Deaths_5day":67.8},
 				{"Date":"05/10/2020", "Confirmed":24126, "Deaths":1508, "Daily_Confirmed":394.0, "Daily_Deaths":18.0, "Confirmed_3day":541.0, "Confirmed_5day":618.6, "Deaths_3day":31.333, "Deaths_5day":59.4},
-				{"Date":"05/11/2020", "Confirmed":24627, "Deaths":1540, "Daily_Confirmed":501.0, "Daily_Deaths":32.0, "Confirmed_3day":493.667, "Confirmed_5day":551.4, "Deaths_3day":31.0, "Deaths_5day":32.6 }
+				{"Date":"05/11/2020", "Confirmed":24627, "Deaths":1540, "Daily_Confirmed":501.0, "Daily_Deaths":32.0, "Confirmed_3day":493.667, "Confirmed_5day":551.4, "Deaths_3day":31.0, "Deaths_5day":32.6},
+				{"Date":"05/12/2020", "Confirmed":25127, "Deaths":1578, "Daily_Confirmed":500.0, "Daily_Deaths":38.0, "Confirmed_3day":465.0, "Confirmed_5day":524.8, "Deaths_3day":29.333, "Deaths_5day":32.8 }
 			]
 	},
 	{"state":"Iowa",
@@ -2316,7 +2335,8 @@
 				{"Date":"05/08/2020", "Confirmed":11457, "Deaths":243, "Daily_Confirmed":398.0, "Daily_Deaths":12.0, "Confirmed_3day":448.667, "Confirmed_5day":456.4, "Deaths_3day":12.0, "Deaths_5day":11.8},
 				{"Date":"05/09/2020", "Confirmed":11671, "Deaths":252, "Daily_Confirmed":214.0, "Daily_Deaths":9.0, "Confirmed_3day":422.333, "Confirmed_5day":393.6, "Deaths_3day":11.0, "Deaths_5day":12.8},
 				{"Date":"05/10/2020", "Confirmed":11959, "Deaths":265, "Daily_Confirmed":288.0, "Daily_Deaths":13.0, "Confirmed_3day":300.0, "Confirmed_5day":369.6, "Deaths_3day":11.333, "Deaths_5day":11.6},
-				{"Date":"05/11/2020", "Confirmed":12373, "Deaths":271, "Daily_Confirmed":414.0, "Daily_Deaths":6.0, "Confirmed_3day":305.333, "Confirmed_5day":393.8, "Deaths_3day":9.333, "Deaths_5day":10.4 }
+				{"Date":"05/11/2020", "Confirmed":12373, "Deaths":271, "Daily_Confirmed":414.0, "Daily_Deaths":6.0, "Confirmed_3day":305.333, "Confirmed_5day":393.8, "Deaths_3day":9.333, "Deaths_5day":10.4},
+				{"Date":"05/12/2020", "Confirmed":12912, "Deaths":289, "Daily_Confirmed":539.0, "Daily_Deaths":18.0, "Confirmed_3day":413.667, "Confirmed_5day":370.6, "Deaths_3day":12.333, "Deaths_5day":11.6 }
 			]
 	},
 	{"state":"Kansas",
@@ -2432,7 +2452,8 @@
 				{"Date":"05/08/2020", "Confirmed":6667, "Deaths":168, "Daily_Confirmed":335.0, "Daily_Deaths":3.0, "Confirmed_3day":339.667, "Confirmed_5day":302.2, "Deaths_3day":2.333, "Deaths_5day":4.8},
 				{"Date":"05/09/2020", "Confirmed":6829, "Deaths":174, "Daily_Confirmed":162.0, "Daily_Deaths":6.0, "Confirmed_3day":278.667, "Confirmed_5day":289.2, "Deaths_3day":3.333, "Deaths_5day":3.6},
 				{"Date":"05/10/2020", "Confirmed":6951, "Deaths":174, "Daily_Confirmed":122.0, "Daily_Deaths":0.0, "Confirmed_3day":206.333, "Confirmed_5day":260.6, "Deaths_3day":3.0, "Deaths_5day":2.6},
-				{"Date":"05/11/2020", "Confirmed":7159, "Deaths":180, "Daily_Confirmed":208.0, "Daily_Deaths":6.0, "Confirmed_3day":164.0, "Confirmed_5day":233.2, "Deaths_3day":4.0, "Deaths_5day":3.2 }
+				{"Date":"05/11/2020", "Confirmed":7159, "Deaths":180, "Daily_Confirmed":208.0, "Daily_Deaths":6.0, "Confirmed_3day":164.0, "Confirmed_5day":233.2, "Deaths_3day":4.0, "Deaths_5day":3.2},
+				{"Date":"05/12/2020", "Confirmed":7240, "Deaths":184, "Daily_Confirmed":81.0, "Daily_Deaths":4.0, "Confirmed_3day":137.0, "Confirmed_5day":181.6, "Deaths_3day":3.333, "Deaths_5day":3.8 }
 			]
 	},
 	{"state":"Kentucky",
@@ -2548,7 +2569,8 @@
 				{"Date":"05/08/2020", "Confirmed":6288, "Deaths":298, "Daily_Confirmed":159.0, "Daily_Deaths":4.0, "Confirmed_3day":155.333, "Confirmed_5day":231.6, "Deaths_3day":7.667, "Deaths_5day":9.0},
 				{"Date":"05/09/2020", "Confirmed":6440, "Deaths":304, "Daily_Confirmed":152.0, "Daily_Deaths":6.0, "Confirmed_3day":168.667, "Confirmed_5day":239.0, "Deaths_3day":7.0, "Deaths_5day":8.6},
 				{"Date":"05/10/2020", "Confirmed":6440, "Deaths":304, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":103.667, "Confirmed_5day":123.6, "Deaths_3day":3.333, "Deaths_5day":5.8},
-				{"Date":"05/11/2020", "Confirmed":6677, "Deaths":311, "Daily_Confirmed":237.0, "Daily_Deaths":7.0, "Confirmed_3day":129.667, "Confirmed_5day":148.6, "Deaths_3day":4.333, "Deaths_5day":5.6 }
+				{"Date":"05/11/2020", "Confirmed":6677, "Deaths":311, "Daily_Confirmed":237.0, "Daily_Deaths":7.0, "Confirmed_3day":129.667, "Confirmed_5day":148.6, "Deaths_3day":4.333, "Deaths_5day":5.6},
+				{"Date":"05/12/2020", "Confirmed":6853, "Deaths":321, "Daily_Confirmed":176.0, "Daily_Deaths":10.0, "Confirmed_3day":137.667, "Confirmed_5day":144.8, "Deaths_3day":5.667, "Deaths_5day":5.4 }
 			]
 	},
 	{"state":"Louisiana",
@@ -2664,7 +2686,8 @@
 				{"Date":"05/08/2020", "Confirmed":30855, "Deaths":2227, "Daily_Confirmed":203.0, "Daily_Deaths":19.0, "Confirmed_3day":286.333, "Confirmed_5day":303.0, "Deaths_3day":37.333, "Deaths_5day":43.0},
 				{"Date":"05/09/2020", "Confirmed":31417, "Deaths":2267, "Daily_Confirmed":562.0, "Daily_Deaths":40.0, "Confirmed_3day":339.333, "Confirmed_5day":348.8, "Deaths_3day":33.333, "Deaths_5day":40.6},
 				{"Date":"05/10/2020", "Confirmed":31600, "Deaths":2286, "Daily_Confirmed":183.0, "Daily_Deaths":19.0, "Confirmed_3day":316.0, "Confirmed_5day":320.8, "Deaths_3day":26.0, "Deaths_5day":34.2},
-				{"Date":"05/11/2020", "Confirmed":31815, "Deaths":2308, "Daily_Confirmed":215.0, "Daily_Deaths":22.0, "Confirmed_3day":320.0, "Confirmed_5day":283.2, "Deaths_3day":27.0, "Deaths_5day":28.2 }
+				{"Date":"05/11/2020", "Confirmed":31815, "Deaths":2308, "Daily_Confirmed":215.0, "Daily_Deaths":22.0, "Confirmed_3day":320.0, "Confirmed_5day":283.2, "Deaths_3day":27.0, "Deaths_5day":28.2},
+				{"Date":"05/12/2020", "Confirmed":32050, "Deaths":2347, "Daily_Confirmed":235.0, "Daily_Deaths":39.0, "Confirmed_3day":211.0, "Confirmed_5day":279.6, "Deaths_3day":26.667, "Deaths_5day":27.8 }
 			]
 	},
 	{"state":"Maine",
@@ -2780,7 +2803,8 @@
 				{"Date":"05/08/2020", "Confirmed":1374, "Deaths":63, "Daily_Confirmed":44.0, "Daily_Deaths":1.0, "Confirmed_3day":49.333, "Confirmed_5day":37.8, "Deaths_3day":0.667, "Deaths_5day":1.2},
 				{"Date":"05/09/2020", "Confirmed":1408, "Deaths":64, "Daily_Confirmed":34.0, "Daily_Deaths":1.0, "Confirmed_3day":51.333, "Confirmed_5day":40.6, "Deaths_3day":0.667, "Deaths_5day":1.4},
 				{"Date":"05/10/2020", "Confirmed":1436, "Deaths":64, "Daily_Confirmed":28.0, "Daily_Deaths":0.0, "Confirmed_3day":35.333, "Confirmed_5day":42.0, "Deaths_3day":0.667, "Deaths_5day":0.6},
-				{"Date":"05/11/2020", "Confirmed":1462, "Deaths":65, "Daily_Confirmed":26.0, "Daily_Deaths":1.0, "Confirmed_3day":29.333, "Confirmed_5day":41.6, "Deaths_3day":0.667, "Deaths_5day":0.6 }
+				{"Date":"05/11/2020", "Confirmed":1462, "Deaths":65, "Daily_Confirmed":26.0, "Daily_Deaths":1.0, "Confirmed_3day":29.333, "Confirmed_5day":41.6, "Deaths_3day":0.667, "Deaths_5day":0.6},
+				{"Date":"05/12/2020", "Confirmed":1477, "Deaths":65, "Daily_Confirmed":15.0, "Daily_Deaths":0.0, "Confirmed_3day":23.0, "Confirmed_5day":29.4, "Deaths_3day":0.333, "Deaths_5day":0.6 }
 			]
 	},
 	{"state":"Maryland",
@@ -2896,7 +2920,8 @@
 				{"Date":"05/08/2020", "Confirmed":30485, "Deaths":1560, "Daily_Confirmed":1111.0, "Daily_Deaths":57.0, "Confirmed_3day":1122.667, "Confirmed_5day":1004.6, "Deaths_3day":56.667, "Deaths_5day":55.8},
 				{"Date":"05/09/2020", "Confirmed":31534, "Deaths":1614, "Daily_Confirmed":1049.0, "Daily_Deaths":54.0, "Confirmed_3day":1123.667, "Confirmed_5day":1025.2, "Deaths_3day":59.0, "Deaths_5day":59.4},
 				{"Date":"05/10/2020", "Confirmed":32587, "Deaths":1644, "Daily_Confirmed":1053.0, "Daily_Deaths":30.0, "Confirmed_3day":1071.0, "Confirmed_5day":1094.0, "Deaths_3day":47.0, "Deaths_5day":50.8},
-				{"Date":"05/11/2020", "Confirmed":33373, "Deaths":1683, "Daily_Confirmed":786.0, "Daily_Deaths":39.0, "Confirmed_3day":962.667, "Confirmed_5day":1042.0, "Deaths_3day":41.0, "Deaths_5day":49.2 }
+				{"Date":"05/11/2020", "Confirmed":33373, "Deaths":1683, "Daily_Confirmed":786.0, "Daily_Deaths":39.0, "Confirmed_3day":962.667, "Confirmed_5day":1042.0, "Deaths_3day":41.0, "Deaths_5day":49.2},
+				{"Date":"05/12/2020", "Confirmed":34061, "Deaths":1756, "Daily_Confirmed":688.0, "Daily_Deaths":73.0, "Confirmed_3day":842.333, "Confirmed_5day":937.4, "Deaths_3day":47.333, "Deaths_5day":50.6 }
 			]
 	},
 	{"state":"Massachusetts",
@@ -3012,7 +3037,8 @@
 				{"Date":"05/08/2020", "Confirmed":75333, "Deaths":4702, "Daily_Confirmed":1612.0, "Daily_Deaths":150.0, "Confirmed_3day":1687.333, "Confirmed_5day":1449.2, "Deaths_3day":163.333, "Deaths_5day":139.6},
 				{"Date":"05/09/2020", "Confirmed":76743, "Deaths":4840, "Daily_Confirmed":1410.0, "Daily_Deaths":138.0, "Confirmed_3day":1572.667, "Confirmed_5day":1531.2, "Deaths_3day":140.0, "Deaths_5day":150.0},
 				{"Date":"05/10/2020", "Confirmed":77793, "Deaths":4979, "Daily_Confirmed":1050.0, "Daily_Deaths":139.0, "Confirmed_3day":1357.333, "Confirmed_5day":1504.4, "Deaths_3day":142.333, "Deaths_5day":153.4},
-				{"Date":"05/11/2020", "Confirmed":78462, "Deaths":5108, "Daily_Confirmed":669.0, "Daily_Deaths":129.0, "Confirmed_3day":1043.0, "Confirmed_5day":1287.4, "Deaths_3day":135.333, "Deaths_5day":137.6 }
+				{"Date":"05/11/2020", "Confirmed":78462, "Deaths":5108, "Daily_Confirmed":669.0, "Daily_Deaths":129.0, "Confirmed_3day":1043.0, "Confirmed_5day":1287.4, "Deaths_3day":135.333, "Deaths_5day":137.6},
+				{"Date":"05/12/2020", "Confirmed":79332, "Deaths":5141, "Daily_Confirmed":870.0, "Daily_Deaths":33.0, "Confirmed_3day":863.0, "Confirmed_5day":1122.2, "Deaths_3day":100.333, "Deaths_5day":117.8 }
 			]
 	},
 	{"state":"Michigan",
@@ -3128,7 +3154,8 @@
 				{"Date":"05/08/2020", "Confirmed":46386, "Deaths":4399, "Daily_Confirmed":641.0, "Daily_Deaths":54.0, "Confirmed_3day":645.0, "Confirmed_5day":517.0, "Deaths_3day":72.0, "Deaths_5day":69.2},
 				{"Date":"05/09/2020", "Confirmed":46815, "Deaths":4530, "Daily_Confirmed":429.0, "Daily_Deaths":131.0, "Confirmed_3day":545.333, "Confirmed_5day":565.0, "Deaths_3day":91.333, "Deaths_5day":78.2},
 				{"Date":"05/10/2020", "Confirmed":47182, "Deaths":4555, "Daily_Confirmed":367.0, "Daily_Deaths":25.0, "Confirmed_3day":479.0, "Confirmed_5day":546.2, "Deaths_3day":70.0, "Deaths_5day":74.4},
-				{"Date":"05/11/2020", "Confirmed":47552, "Deaths":4584, "Daily_Confirmed":370.0, "Daily_Deaths":29.0, "Confirmed_3day":388.667, "Confirmed_5day":474.6, "Deaths_3day":61.667, "Deaths_5day":65.6 }
+				{"Date":"05/11/2020", "Confirmed":47552, "Deaths":4584, "Daily_Confirmed":370.0, "Daily_Deaths":29.0, "Confirmed_3day":388.667, "Confirmed_5day":474.6, "Deaths_3day":61.667, "Deaths_5day":65.6},
+				{"Date":"05/12/2020", "Confirmed":48021, "Deaths":4674, "Daily_Confirmed":469.0, "Daily_Deaths":90.0, "Confirmed_3day":402.0, "Confirmed_5day":455.2, "Deaths_3day":48.0, "Deaths_5day":65.8 }
 			]
 	},
 	{"state":"Minnesota",
@@ -3244,7 +3271,8 @@
 				{"Date":"05/08/2020", "Confirmed":10088, "Deaths":534, "Daily_Confirmed":723.0, "Daily_Deaths":26.0, "Confirmed_3day":745.667, "Confirmed_5day":685.0, "Deaths_3day":26.333, "Deaths_5day":23.2},
 				{"Date":"05/09/2020", "Confirmed":10790, "Deaths":558, "Daily_Confirmed":702.0, "Daily_Deaths":24.0, "Confirmed_3day":737.0, "Confirmed_5day":711.2, "Deaths_3day":24.333, "Deaths_5day":26.2},
 				{"Date":"05/10/2020", "Confirmed":11271, "Deaths":578, "Daily_Confirmed":481.0, "Daily_Deaths":20.0, "Confirmed_3day":635.333, "Confirmed_5day":684.0, "Deaths_3day":23.333, "Deaths_5day":24.6},
-				{"Date":"05/11/2020", "Confirmed":11799, "Deaths":591, "Daily_Confirmed":528.0, "Daily_Deaths":13.0, "Confirmed_3day":570.333, "Confirmed_5day":644.0, "Deaths_3day":19.0, "Deaths_5day":21.2 }
+				{"Date":"05/11/2020", "Confirmed":11799, "Deaths":591, "Daily_Confirmed":528.0, "Daily_Deaths":13.0, "Confirmed_3day":570.333, "Confirmed_5day":644.0, "Deaths_3day":19.0, "Deaths_5day":21.2},
+				{"Date":"05/12/2020", "Confirmed":12494, "Deaths":614, "Daily_Confirmed":695.0, "Daily_Deaths":23.0, "Confirmed_3day":568.0, "Confirmed_5day":625.8, "Deaths_3day":18.667, "Deaths_5day":21.2 }
 			]
 	},
 	{"state":"Mississippi",
@@ -3360,7 +3388,8 @@
 				{"Date":"05/08/2020", "Confirmed":9090, "Deaths":409, "Daily_Confirmed":404.0, "Daily_Deaths":13.0, "Confirmed_3day":294.333, "Confirmed_5day":308.0, "Deaths_3day":22.333, "Deaths_5day":21.2},
 				{"Date":"05/09/2020", "Confirmed":9378, "Deaths":421, "Daily_Confirmed":288.0, "Daily_Deaths":12.0, "Confirmed_3day":318.0, "Confirmed_5day":300.2, "Deaths_3day":15.667, "Deaths_5day":22.2},
 				{"Date":"05/10/2020", "Confirmed":9501, "Deaths":430, "Daily_Confirmed":123.0, "Daily_Deaths":9.0, "Confirmed_3day":271.667, "Confirmed_5day":258.8, "Deaths_3day":11.333, "Deaths_5day":17.6},
-				{"Date":"05/11/2020", "Confirmed":9674, "Deaths":435, "Daily_Confirmed":173.0, "Daily_Deaths":5.0, "Confirmed_3day":194.667, "Confirmed_5day":250.0, "Deaths_3day":8.667, "Deaths_5day":12.2 }
+				{"Date":"05/11/2020", "Confirmed":9674, "Deaths":435, "Daily_Confirmed":173.0, "Daily_Deaths":5.0, "Confirmed_3day":194.667, "Confirmed_5day":250.0, "Deaths_3day":8.667, "Deaths_5day":12.2},
+				{"Date":"05/12/2020", "Confirmed":9908, "Deaths":457, "Daily_Confirmed":234.0, "Daily_Deaths":22.0, "Confirmed_3day":176.667, "Confirmed_5day":244.4, "Deaths_3day":12.0, "Deaths_5day":12.2 }
 			]
 	},
 	{"state":"Missouri",
@@ -3476,7 +3505,8 @@
 				{"Date":"05/08/2020", "Confirmed":9733, "Deaths":483, "Daily_Confirmed":152.0, "Daily_Deaths":34.0, "Confirmed_3day":204.0, "Confirmed_5day":223.0, "Deaths_3day":24.667, "Deaths_5day":20.4},
 				{"Date":"05/09/2020", "Confirmed":9911, "Deaths":494, "Daily_Confirmed":178.0, "Daily_Deaths":11.0, "Confirmed_3day":196.0, "Confirmed_5day":193.0, "Deaths_3day":22.0, "Deaths_5day":21.6},
 				{"Date":"05/10/2020", "Confirmed":10068, "Deaths":503, "Daily_Confirmed":157.0, "Daily_Deaths":9.0, "Confirmed_3day":162.333, "Confirmed_5day":189.4, "Deaths_3day":18.0, "Deaths_5day":18.8},
-				{"Date":"05/11/2020", "Confirmed":10157, "Deaths":514, "Daily_Confirmed":89.0, "Daily_Deaths":11.0, "Confirmed_3day":141.333, "Confirmed_5day":166.8, "Deaths_3day":10.333, "Deaths_5day":17.2 }
+				{"Date":"05/11/2020", "Confirmed":10157, "Deaths":514, "Daily_Confirmed":89.0, "Daily_Deaths":11.0, "Confirmed_3day":141.333, "Confirmed_5day":166.8, "Deaths_3day":10.333, "Deaths_5day":17.2},
+				{"Date":"05/12/2020", "Confirmed":10269, "Deaths":529, "Daily_Confirmed":112.0, "Daily_Deaths":15.0, "Confirmed_3day":119.333, "Confirmed_5day":137.6, "Deaths_3day":11.667, "Deaths_5day":16.0 }
 			]
 	},
 	{"state":"Montana",
@@ -3592,7 +3622,8 @@
 				{"Date":"05/08/2020", "Confirmed":458, "Deaths":16, "Daily_Confirmed":2.0, "Daily_Deaths":0.0, "Confirmed_3day":0.667, "Confirmed_5day":0.6, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/09/2020", "Confirmed":458, "Deaths":16, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.667, "Confirmed_5day":0.2, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/10/2020", "Confirmed":458, "Deaths":16, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.667, "Confirmed_5day":0.4, "Deaths_3day":0.0, "Deaths_5day":0.0},
-				{"Date":"05/11/2020", "Confirmed":459, "Deaths":16, "Daily_Confirmed":1.0, "Daily_Deaths":0.0, "Confirmed_3day":0.333, "Confirmed_5day":0.6, "Deaths_3day":0.0, "Deaths_5day":0.0 }
+				{"Date":"05/11/2020", "Confirmed":459, "Deaths":16, "Daily_Confirmed":1.0, "Daily_Deaths":0.0, "Confirmed_3day":0.333, "Confirmed_5day":0.6, "Deaths_3day":0.0, "Deaths_5day":0.0},
+				{"Date":"05/12/2020", "Confirmed":461, "Deaths":16, "Daily_Confirmed":2.0, "Daily_Deaths":0.0, "Confirmed_3day":1.0, "Confirmed_5day":1.0, "Deaths_3day":0.0, "Deaths_5day":0.0 }
 			]
 	},
 	{"state":"Nebraska",
@@ -3708,7 +3739,8 @@
 				{"Date":"05/08/2020", "Confirmed":7818, "Deaths":90, "Daily_Confirmed":484.0, "Daily_Deaths":-1.0, "Confirmed_3day":481.667, "Confirmed_5day":431.4, "Deaths_3day":4.0, "Deaths_5day":2.4},
 				{"Date":"05/09/2020", "Confirmed":8093, "Deaths":90, "Daily_Confirmed":275.0, "Daily_Deaths":0.0, "Confirmed_3day":468.0, "Confirmed_5day":411.2, "Deaths_3day":4.0, "Deaths_5day":2.4},
 				{"Date":"05/10/2020", "Confirmed":8171, "Deaths":90, "Daily_Confirmed":78.0, "Daily_Deaths":0.0, "Confirmed_3day":279.0, "Confirmed_5day":359.6, "Deaths_3day":-0.333, "Deaths_5day":2.4},
-				{"Date":"05/11/2020", "Confirmed":8407, "Deaths":98, "Daily_Confirmed":236.0, "Daily_Deaths":8.0, "Confirmed_3day":196.333, "Confirmed_5day":343.6, "Deaths_3day":2.667, "Deaths_5day":4.0 }
+				{"Date":"05/11/2020", "Confirmed":8407, "Deaths":98, "Daily_Confirmed":236.0, "Daily_Deaths":8.0, "Confirmed_3day":196.333, "Confirmed_5day":343.6, "Deaths_3day":2.667, "Deaths_5day":4.0},
+				{"Date":"05/12/2020", "Confirmed":8532, "Deaths":100, "Daily_Confirmed":125.0, "Daily_Deaths":2.0, "Confirmed_3day":146.333, "Confirmed_5day":239.6, "Deaths_3day":3.333, "Deaths_5day":1.8 }
 			]
 	},
 	{"state":"Nevada",
@@ -3824,7 +3856,8 @@
 				{"Date":"05/08/2020", "Confirmed":5920, "Deaths":294, "Daily_Confirmed":65.0, "Daily_Deaths":-3.0, "Confirmed_3day":86.667, "Confirmed_5day":89.6, "Deaths_3day":8.0, "Deaths_5day":7.2},
 				{"Date":"05/09/2020", "Confirmed":6171, "Deaths":313, "Daily_Confirmed":251.0, "Daily_Deaths":19.0, "Confirmed_3day":143.333, "Confirmed_5day":108.2, "Deaths_3day":8.0, "Deaths_5day":9.6},
 				{"Date":"05/10/2020", "Confirmed":6120, "Deaths":310, "Daily_Confirmed":-51.0, "Daily_Deaths":-3.0, "Confirmed_3day":88.333, "Confirmed_5day":92.0, "Deaths_3day":4.333, "Deaths_5day":8.0},
-				{"Date":"05/11/2020", "Confirmed":6152, "Deaths":312, "Daily_Confirmed":32.0, "Daily_Deaths":2.0, "Confirmed_3day":77.333, "Confirmed_5day":82.2, "Deaths_3day":6.0, "Deaths_5day":4.6 }
+				{"Date":"05/11/2020", "Confirmed":6152, "Deaths":312, "Daily_Confirmed":32.0, "Daily_Deaths":2.0, "Confirmed_3day":77.333, "Confirmed_5day":82.2, "Deaths_3day":6.0, "Deaths_5day":4.6},
+				{"Date":"05/12/2020", "Confirmed":6313, "Deaths":321, "Daily_Confirmed":161.0, "Daily_Deaths":9.0, "Confirmed_3day":47.333, "Confirmed_5day":91.6, "Deaths_3day":2.667, "Deaths_5day":4.8 }
 			]
 	},
 	{"state":"New Hampshire",
@@ -3940,7 +3973,8 @@
 				{"Date":"05/08/2020", "Confirmed":2947, "Deaths":121, "Daily_Confirmed":104.0, "Daily_Deaths":7.0, "Confirmed_3day":103.667, "Confirmed_5day":85.8, "Deaths_3day":9.667, "Deaths_5day":7.0},
 				{"Date":"05/09/2020", "Confirmed":3011, "Deaths":131, "Daily_Confirmed":64.0, "Daily_Deaths":10.0, "Confirmed_3day":90.0, "Confirmed_5day":84.6, "Deaths_3day":13.0, "Deaths_5day":9.0},
 				{"Date":"05/10/2020", "Confirmed":3071, "Deaths":133, "Daily_Confirmed":60.0, "Daily_Deaths":2.0, "Confirmed_3day":76.0, "Confirmed_5day":87.0, "Deaths_3day":6.333, "Deaths_5day":8.2},
-				{"Date":"05/11/2020", "Confirmed":3160, "Deaths":133, "Daily_Confirmed":89.0, "Daily_Deaths":0.0, "Confirmed_3day":71.0, "Confirmed_5day":83.8, "Deaths_3day":4.0, "Deaths_5day":8.2 }
+				{"Date":"05/11/2020", "Confirmed":3160, "Deaths":133, "Daily_Confirmed":89.0, "Daily_Deaths":0.0, "Confirmed_3day":71.0, "Confirmed_5day":83.8, "Deaths_3day":4.0, "Deaths_5day":8.2},
+				{"Date":"05/12/2020", "Confirmed":3239, "Deaths":142, "Daily_Confirmed":79.0, "Daily_Deaths":9.0, "Confirmed_3day":76.0, "Confirmed_5day":79.2, "Deaths_3day":3.667, "Deaths_5day":5.6 }
 			]
 	},
 	{"state":"New Jersey",
@@ -4056,7 +4090,8 @@
 				{"Date":"05/08/2020", "Confirmed":135840, "Deaths":8960, "Daily_Confirmed":1849.0, "Daily_Deaths":153.0, "Confirmed_3day":1749.0, "Confirmed_5day":1819.2, "Deaths_3day":238.667, "Deaths_5day":217.8},
 				{"Date":"05/09/2020", "Confirmed":137397, "Deaths":9116, "Daily_Confirmed":1557.0, "Daily_Deaths":156.0, "Confirmed_3day":1835.667, "Confirmed_5day":1825.6, "Deaths_3day":189.0, "Deaths_5day":241.2},
 				{"Date":"05/10/2020", "Confirmed":138754, "Deaths":9256, "Daily_Confirmed":1357.0, "Daily_Deaths":140.0, "Confirmed_3day":1587.667, "Confirmed_5day":1632.2, "Deaths_3day":149.667, "Deaths_5day":202.4},
-				{"Date":"05/11/2020", "Confirmed":140206, "Deaths":9340, "Daily_Confirmed":1452.0, "Daily_Deaths":84.0, "Confirmed_3day":1455.333, "Confirmed_5day":1663.2, "Deaths_3day":126.667, "Deaths_5day":158.2 }
+				{"Date":"05/11/2020", "Confirmed":140206, "Deaths":9340, "Daily_Confirmed":1452.0, "Daily_Deaths":84.0, "Confirmed_3day":1455.333, "Confirmed_5day":1663.2, "Deaths_3day":126.667, "Deaths_5day":158.2},
+				{"Date":"05/12/2020", "Confirmed":140917, "Deaths":9531, "Daily_Confirmed":711.0, "Daily_Deaths":191.0, "Confirmed_3day":1173.333, "Confirmed_5day":1385.2, "Deaths_3day":138.333, "Deaths_5day":144.8 }
 			]
 	},
 	{"state":"New Mexico",
@@ -4172,7 +4207,8 @@
 				{"Date":"05/08/2020", "Confirmed":4673, "Deaths":181, "Daily_Confirmed":180.0, "Daily_Deaths":9.0, "Confirmed_3day":178.333, "Confirmed_5day":164.6, "Deaths_3day":6.333, "Deaths_5day":6.0},
 				{"Date":"05/09/2020", "Confirmed":4778, "Deaths":191, "Daily_Confirmed":105.0, "Daily_Deaths":10.0, "Confirmed_3day":162.333, "Confirmed_5day":149.4, "Deaths_3day":7.333, "Deaths_5day":7.0},
 				{"Date":"05/10/2020", "Confirmed":4863, "Deaths":200, "Daily_Confirmed":85.0, "Daily_Deaths":9.0, "Confirmed_3day":123.333, "Confirmed_5day":145.0, "Deaths_3day":9.333, "Deaths_5day":7.6},
-				{"Date":"05/11/2020", "Confirmed":5069, "Deaths":208, "Daily_Confirmed":206.0, "Daily_Deaths":8.0, "Confirmed_3day":132.0, "Confirmed_5day":155.6, "Deaths_3day":9.0, "Deaths_5day":7.8 }
+				{"Date":"05/11/2020", "Confirmed":5069, "Deaths":208, "Daily_Confirmed":206.0, "Daily_Deaths":8.0, "Confirmed_3day":132.0, "Confirmed_5day":155.6, "Deaths_3day":9.0, "Deaths_5day":7.8},
+				{"Date":"05/12/2020", "Confirmed":5212, "Deaths":219, "Daily_Confirmed":143.0, "Daily_Deaths":11.0, "Confirmed_3day":144.667, "Confirmed_5day":143.8, "Deaths_3day":9.333, "Deaths_5day":9.4 }
 			]
 	},
 	{"state":"New York",
@@ -4288,7 +4324,8 @@
 				{"Date":"05/08/2020", "Confirmed":330407, "Deaths":26243, "Daily_Confirmed":2938.0, "Daily_Deaths":99.0, "Confirmed_3day":3071.667, "Confirmed_5day":2798.4, "Deaths_3day":373.0, "Deaths_5day":307.0},
 				{"Date":"05/09/2020", "Confirmed":333122, "Deaths":26612, "Daily_Confirmed":2715.0, "Daily_Deaths":369.0, "Confirmed_3day":3048.0, "Confirmed_5day":2833.8, "Deaths_3day":329.667, "Deaths_5day":322.6},
 				{"Date":"05/10/2020", "Confirmed":335395, "Deaths":26641, "Daily_Confirmed":2273.0, "Daily_Deaths":29.0, "Confirmed_3day":2642.0, "Confirmed_5day":2840.6, "Deaths_3day":165.667, "Deaths_5day":303.4},
-				{"Date":"05/11/2020", "Confirmed":337055, "Deaths":26988, "Daily_Confirmed":1660.0, "Daily_Deaths":347.0, "Confirmed_3day":2216.0, "Confirmed_5day":2615.4, "Deaths_3day":248.333, "Deaths_5day":273.0 }
+				{"Date":"05/11/2020", "Confirmed":337055, "Deaths":26988, "Daily_Confirmed":1660.0, "Daily_Deaths":347.0, "Confirmed_3day":2216.0, "Confirmed_5day":2615.4, "Deaths_3day":248.333, "Deaths_5day":273.0},
+				{"Date":"05/12/2020", "Confirmed":338485, "Deaths":27284, "Daily_Confirmed":1430.0, "Daily_Deaths":296.0, "Confirmed_3day":1787.667, "Confirmed_5day":2203.2, "Deaths_3day":224.0, "Deaths_5day":228.0 }
 			]
 	},
 	{"state":"North Carolina",
@@ -4404,7 +4441,8 @@
 				{"Date":"05/08/2020", "Confirmed":14006, "Deaths":530, "Daily_Confirmed":466.0, "Daily_Deaths":17.0, "Confirmed_3day":498.667, "Confirmed_5day":447.2, "Deaths_3day":19.333, "Deaths_5day":19.2},
 				{"Date":"05/09/2020", "Confirmed":14478, "Deaths":551, "Daily_Confirmed":472.0, "Daily_Deaths":21.0, "Confirmed_3day":475.0, "Confirmed_5day":501.4, "Deaths_3day":19.667, "Deaths_5day":21.8},
 				{"Date":"05/10/2020", "Confirmed":14938, "Deaths":564, "Daily_Confirmed":460.0, "Daily_Deaths":13.0, "Confirmed_3day":466.0, "Confirmed_5day":485.6, "Deaths_3day":17.0, "Deaths_5day":18.4},
-				{"Date":"05/11/2020", "Confirmed":15274, "Deaths":575, "Daily_Confirmed":336.0, "Daily_Deaths":11.0, "Confirmed_3day":422.667, "Confirmed_5day":444.2, "Deaths_3day":15.0, "Deaths_5day":16.6 }
+				{"Date":"05/11/2020", "Confirmed":15274, "Deaths":575, "Daily_Confirmed":336.0, "Daily_Deaths":11.0, "Confirmed_3day":422.667, "Confirmed_5day":444.2, "Deaths_3day":15.0, "Deaths_5day":16.6},
+				{"Date":"05/12/2020", "Confirmed":15622, "Deaths":600, "Daily_Confirmed":348.0, "Daily_Deaths":25.0, "Confirmed_3day":381.333, "Confirmed_5day":416.4, "Deaths_3day":16.333, "Deaths_5day":17.4 }
 			]
 	},
 	{"state":"North Dakota",
@@ -4520,7 +4558,8 @@
 				{"Date":"05/08/2020", "Confirmed":1425, "Deaths":33, "Daily_Confirmed":54.0, "Daily_Deaths":2.0, "Confirmed_3day":53.0, "Confirmed_5day":46.8, "Deaths_3day":2.667, "Deaths_5day":1.6},
 				{"Date":"05/09/2020", "Confirmed":1464, "Deaths":35, "Daily_Confirmed":39.0, "Daily_Deaths":2.0, "Confirmed_3day":47.0, "Confirmed_5day":47.8, "Deaths_3day":1.333, "Deaths_5day":2.0},
 				{"Date":"05/10/2020", "Confirmed":1491, "Deaths":35, "Daily_Confirmed":27.0, "Daily_Deaths":0.0, "Confirmed_3day":40.0, "Confirmed_5day":45.0, "Deaths_3day":1.333, "Deaths_5day":2.0},
-				{"Date":"05/11/2020", "Confirmed":1518, "Deaths":36, "Daily_Confirmed":27.0, "Daily_Deaths":1.0, "Confirmed_3day":31.0, "Confirmed_5day":39.0, "Deaths_3day":1.0, "Deaths_5day":1.0 }
+				{"Date":"05/11/2020", "Confirmed":1518, "Deaths":36, "Daily_Confirmed":27.0, "Daily_Deaths":1.0, "Confirmed_3day":31.0, "Confirmed_5day":39.0, "Deaths_3day":1.0, "Deaths_5day":1.0},
+				{"Date":"05/12/2020", "Confirmed":1571, "Deaths":38, "Daily_Confirmed":53.0, "Daily_Deaths":2.0, "Confirmed_3day":35.667, "Confirmed_5day":40.0, "Deaths_3day":1.0, "Deaths_5day":1.4 }
 			]
 	},
 	{"state":"Northern Mariana Islands",
@@ -4636,7 +4675,8 @@
 				{"Date":"05/08/2020", "Confirmed":15, "Deaths":2, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.333, "Confirmed_5day":0.2, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/09/2020", "Confirmed":16, "Deaths":2, "Daily_Confirmed":1.0, "Daily_Deaths":0.0, "Confirmed_3day":0.333, "Confirmed_5day":0.4, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/10/2020", "Confirmed":16, "Deaths":2, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.333, "Confirmed_5day":0.4, "Deaths_3day":0.0, "Deaths_5day":0.0},
-				{"Date":"05/11/2020", "Confirmed":19, "Deaths":2, "Daily_Confirmed":3.0, "Daily_Deaths":0.0, "Confirmed_3day":1.333, "Confirmed_5day":0.8, "Deaths_3day":0.0, "Deaths_5day":0.0 }
+				{"Date":"05/11/2020", "Confirmed":19, "Deaths":2, "Daily_Confirmed":3.0, "Daily_Deaths":0.0, "Confirmed_3day":1.333, "Confirmed_5day":0.8, "Deaths_3day":0.0, "Deaths_5day":0.0},
+				{"Date":"05/12/2020", "Confirmed":19, "Deaths":2, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":1.0, "Confirmed_5day":0.8, "Deaths_3day":0.0, "Deaths_5day":0.0 }
 			]
 	},
 	{"state":"Ohio",
@@ -4752,7 +4792,8 @@
 				{"Date":"05/08/2020", "Confirmed":23016, "Deaths":1306, "Daily_Confirmed":885.0, "Daily_Deaths":35.0, "Confirmed_3day":682.333, "Confirmed_5day":620.4, "Deaths_3day":57.0, "Deaths_5day":53.4},
 				{"Date":"05/09/2020", "Confirmed":23697, "Deaths":1331, "Daily_Confirmed":681.0, "Daily_Deaths":25.0, "Confirmed_3day":707.0, "Confirmed_5day":644.6, "Deaths_3day":35.333, "Deaths_5day":54.8},
 				{"Date":"05/10/2020", "Confirmed":24081, "Deaths":1341, "Daily_Confirmed":384.0, "Daily_Deaths":10.0, "Confirmed_3day":650.0, "Confirmed_5day":622.4, "Deaths_3day":23.333, "Deaths_5day":41.2},
-				{"Date":"05/11/2020", "Confirmed":24777, "Deaths":1357, "Daily_Confirmed":696.0, "Daily_Deaths":16.0, "Confirmed_3day":587.0, "Confirmed_5day":640.2, "Deaths_3day":17.0, "Deaths_5day":26.4 }
+				{"Date":"05/11/2020", "Confirmed":24777, "Deaths":1357, "Daily_Confirmed":696.0, "Daily_Deaths":16.0, "Confirmed_3day":587.0, "Confirmed_5day":640.2, "Deaths_3day":17.0, "Deaths_5day":26.4},
+				{"Date":"05/12/2020", "Confirmed":25250, "Deaths":1436, "Daily_Confirmed":473.0, "Daily_Deaths":79.0, "Confirmed_3day":517.667, "Confirmed_5day":623.8, "Deaths_3day":35.0, "Deaths_5day":33.0 }
 			]
 	},
 	{"state":"Oklahoma",
@@ -4868,7 +4909,8 @@
 				{"Date":"05/08/2020", "Confirmed":4424, "Deaths":266, "Daily_Confirmed":94.0, "Daily_Deaths":6.0, "Confirmed_3day":99.0, "Confirmed_5day":90.4, "Deaths_3day":6.333, "Deaths_5day":5.6},
 				{"Date":"05/09/2020", "Confirmed":4490, "Deaths":270, "Daily_Confirmed":66.0, "Daily_Deaths":4.0, "Confirmed_3day":96.0, "Confirmed_5day":89.2, "Deaths_3day":5.667, "Deaths_5day":6.4},
 				{"Date":"05/10/2020", "Confirmed":4589, "Deaths":272, "Daily_Confirmed":99.0, "Daily_Deaths":2.0, "Confirmed_3day":86.333, "Confirmed_5day":92.4, "Deaths_3day":4.0, "Deaths_5day":5.0},
-				{"Date":"05/11/2020", "Confirmed":4613, "Deaths":274, "Daily_Confirmed":24.0, "Daily_Deaths":2.0, "Confirmed_3day":63.0, "Confirmed_5day":82.2, "Deaths_3day":2.667, "Deaths_5day":4.2 }
+				{"Date":"05/11/2020", "Confirmed":4613, "Deaths":274, "Daily_Confirmed":24.0, "Daily_Deaths":2.0, "Confirmed_3day":63.0, "Confirmed_5day":82.2, "Deaths_3day":2.667, "Deaths_5day":4.2},
+				{"Date":"05/12/2020", "Confirmed":4732, "Deaths":278, "Daily_Confirmed":119.0, "Daily_Deaths":4.0, "Confirmed_3day":80.667, "Confirmed_5day":80.4, "Deaths_3day":2.667, "Deaths_5day":3.6 }
 			]
 	},
 	{"state":"Oregon",
@@ -4984,7 +5026,8 @@
 				{"Date":"05/08/2020", "Confirmed":3068, "Deaths":124, "Daily_Confirmed":79.0, "Daily_Deaths":3.0, "Confirmed_3day":76.333, "Confirmed_5day":77.6, "Deaths_3day":3.667, "Deaths_5day":3.0},
 				{"Date":"05/09/2020", "Confirmed":3160, "Deaths":127, "Daily_Confirmed":92.0, "Daily_Deaths":3.0, "Confirmed_3day":81.333, "Confirmed_5day":80.2, "Deaths_3day":4.0, "Deaths_5day":3.6},
 				{"Date":"05/10/2020", "Confirmed":3228, "Deaths":127, "Daily_Confirmed":68.0, "Daily_Deaths":0.0, "Confirmed_3day":79.667, "Confirmed_5day":77.8, "Deaths_3day":2.0, "Deaths_5day":2.8},
-				{"Date":"05/11/2020", "Confirmed":3286, "Deaths":130, "Daily_Confirmed":58.0, "Daily_Deaths":3.0, "Confirmed_3day":72.667, "Confirmed_5day":74.0, "Deaths_3day":2.0, "Deaths_5day":3.0 }
+				{"Date":"05/11/2020", "Confirmed":3286, "Deaths":130, "Daily_Confirmed":58.0, "Daily_Deaths":3.0, "Confirmed_3day":72.667, "Confirmed_5day":74.0, "Deaths_3day":2.0, "Deaths_5day":3.0},
+				{"Date":"05/12/2020", "Confirmed":3358, "Deaths":130, "Daily_Confirmed":72.0, "Daily_Deaths":0.0, "Confirmed_3day":66.0, "Confirmed_5day":73.8, "Deaths_3day":1.0, "Deaths_5day":1.8 }
 			]
 	},
 	{"state":"Pennsylvania",
@@ -5100,7 +5143,8 @@
 				{"Date":"05/08/2020", "Confirmed":57371, "Deaths":3715, "Daily_Confirmed":1415.0, "Daily_Deaths":126.0, "Confirmed_3day":1169.0, "Confirmed_5day":1229.2, "Deaths_3day":178.667, "Deaths_5day":199.0},
 				{"Date":"05/09/2020", "Confirmed":58560, "Deaths":3779, "Daily_Confirmed":1189.0, "Daily_Deaths":64.0, "Confirmed_3day":1253.333, "Confirmed_5day":1148.8, "Deaths_3day":144.667, "Deaths_5day":188.2},
 				{"Date":"05/10/2020", "Confirmed":59939, "Deaths":3806, "Daily_Confirmed":1379.0, "Daily_Deaths":27.0, "Confirmed_3day":1327.667, "Confirmed_5day":1215.0, "Deaths_3day":72.333, "Deaths_5day":125.4},
-				{"Date":"05/11/2020", "Confirmed":60459, "Deaths":3832, "Daily_Confirmed":520.0, "Daily_Deaths":26.0, "Confirmed_3day":1029.333, "Confirmed_5day":1131.8, "Deaths_3day":39.0, "Deaths_5day":97.4 }
+				{"Date":"05/11/2020", "Confirmed":60459, "Deaths":3832, "Daily_Confirmed":520.0, "Daily_Deaths":26.0, "Confirmed_3day":1029.333, "Confirmed_5day":1131.8, "Deaths_3day":39.0, "Deaths_5day":97.4},
+				{"Date":"05/12/2020", "Confirmed":61310, "Deaths":3914, "Daily_Confirmed":851.0, "Daily_Deaths":82.0, "Confirmed_3day":916.667, "Confirmed_5day":1070.8, "Deaths_3day":45.0, "Deaths_5day":65.0 }
 			]
 	},
 	{"state":"Puerto Rico",
@@ -5216,7 +5260,8 @@
 				{"Date":"05/08/2020", "Confirmed":2156, "Deaths":107, "Daily_Confirmed":125.0, "Daily_Deaths":5.0, "Confirmed_3day":77.333, "Confirmed_5day":69.6, "Deaths_3day":2.667, "Deaths_5day":2.0},
 				{"Date":"05/09/2020", "Confirmed":2173, "Deaths":108, "Daily_Confirmed":17.0, "Daily_Deaths":1.0, "Confirmed_3day":68.333, "Confirmed_5day":66.0, "Deaths_3day":3.0, "Deaths_5day":2.2},
 				{"Date":"05/10/2020", "Confirmed":2198, "Deaths":111, "Daily_Confirmed":25.0, "Daily_Deaths":3.0, "Confirmed_3day":55.667, "Confirmed_5day":54.8, "Deaths_3day":3.0, "Deaths_5day":2.4},
-				{"Date":"05/11/2020", "Confirmed":2256, "Deaths":113, "Daily_Confirmed":58.0, "Daily_Deaths":2.0, "Confirmed_3day":33.333, "Confirmed_5day":57.6, "Deaths_3day":2.0, "Deaths_5day":2.8 }
+				{"Date":"05/11/2020", "Confirmed":2256, "Deaths":113, "Daily_Confirmed":58.0, "Daily_Deaths":2.0, "Confirmed_3day":33.333, "Confirmed_5day":57.6, "Deaths_3day":2.0, "Deaths_5day":2.8},
+				{"Date":"05/12/2020", "Confirmed":2299, "Deaths":114, "Daily_Confirmed":43.0, "Daily_Deaths":1.0, "Confirmed_3day":42.0, "Confirmed_5day":53.6, "Deaths_3day":2.0, "Deaths_5day":2.4 }
 			]
 	},
 	{"state":"Rhode Island",
@@ -5332,7 +5377,8 @@
 				{"Date":"05/08/2020", "Confirmed":10779, "Deaths":399, "Daily_Confirmed":249.0, "Daily_Deaths":11.0, "Confirmed_3day":282.0, "Confirmed_5day":260.4, "Deaths_3day":14.667, "Deaths_5day":15.8},
 				{"Date":"05/09/2020", "Confirmed":10989, "Deaths":418, "Daily_Confirmed":210.0, "Daily_Deaths":19.0, "Confirmed_3day":261.333, "Confirmed_5day":267.4, "Deaths_3day":16.0, "Deaths_5day":15.4},
 				{"Date":"05/10/2020", "Confirmed":11274, "Deaths":422, "Daily_Confirmed":285.0, "Daily_Deaths":4.0, "Confirmed_3day":248.0, "Confirmed_5day":268.2, "Deaths_3day":11.333, "Deaths_5day":13.4},
-				{"Date":"05/11/2020", "Confirmed":11450, "Deaths":430, "Daily_Confirmed":176.0, "Daily_Deaths":8.0, "Confirmed_3day":223.667, "Confirmed_5day":249.0, "Deaths_3day":10.333, "Deaths_5day":12.0 }
+				{"Date":"05/11/2020", "Confirmed":11450, "Deaths":430, "Daily_Confirmed":176.0, "Daily_Deaths":8.0, "Confirmed_3day":223.667, "Confirmed_5day":249.0, "Deaths_3day":10.333, "Deaths_5day":12.0},
+				{"Date":"05/12/2020", "Confirmed":11614, "Deaths":444, "Daily_Confirmed":164.0, "Daily_Deaths":14.0, "Confirmed_3day":208.333, "Confirmed_5day":216.8, "Deaths_3day":8.667, "Deaths_5day":11.2 }
 			]
 	},
 	{"state":"South Carolina",
@@ -5448,7 +5494,8 @@
 				{"Date":"05/08/2020", "Confirmed":7367, "Deaths":320, "Daily_Confirmed":225.0, "Daily_Deaths":4.0, "Confirmed_3day":175.333, "Confirmed_5day":148.2, "Deaths_3day":8.0, "Deaths_5day":9.0},
 				{"Date":"05/09/2020", "Confirmed":7531, "Deaths":330, "Daily_Confirmed":164.0, "Daily_Deaths":10.0, "Confirmed_3day":198.333, "Confirmed_5day":154.8, "Deaths_3day":8.333, "Deaths_5day":9.4},
 				{"Date":"05/10/2020", "Confirmed":7653, "Deaths":331, "Daily_Confirmed":122.0, "Daily_Deaths":1.0, "Confirmed_3day":170.333, "Confirmed_5day":162.4, "Deaths_3day":5.0, "Deaths_5day":7.0},
-				{"Date":"05/11/2020", "Confirmed":7792, "Deaths":346, "Daily_Confirmed":139.0, "Daily_Deaths":15.0, "Confirmed_3day":141.667, "Confirmed_5day":171.2, "Deaths_3day":8.667, "Deaths_5day":8.2 }
+				{"Date":"05/11/2020", "Confirmed":7792, "Deaths":346, "Daily_Confirmed":139.0, "Daily_Deaths":15.0, "Confirmed_3day":141.667, "Confirmed_5day":171.2, "Deaths_3day":8.667, "Deaths_5day":8.2},
+				{"Date":"05/12/2020", "Confirmed":7927, "Deaths":355, "Daily_Confirmed":135.0, "Daily_Deaths":9.0, "Confirmed_3day":132.0, "Confirmed_5day":157.0, "Deaths_3day":8.333, "Deaths_5day":7.8 }
 			]
 	},
 	{"state":"South Dakota",
@@ -5564,7 +5611,8 @@
 				{"Date":"05/08/2020", "Confirmed":3145, "Deaths":31, "Daily_Confirmed":239.0, "Daily_Deaths":0.0, "Confirmed_3day":141.333, "Confirmed_5day":102.8, "Deaths_3day":2.333, "Deaths_5day":2.0},
 				{"Date":"05/09/2020", "Confirmed":3393, "Deaths":34, "Daily_Confirmed":248.0, "Daily_Deaths":3.0, "Confirmed_3day":204.333, "Confirmed_5day":145.0, "Deaths_3day":1.667, "Deaths_5day":2.6},
 				{"Date":"05/10/2020", "Confirmed":3517, "Deaths":34, "Daily_Confirmed":124.0, "Daily_Deaths":0.0, "Confirmed_3day":203.667, "Confirmed_5day":159.2, "Deaths_3day":1.0, "Deaths_5day":2.0},
-				{"Date":"05/11/2020", "Confirmed":3614, "Deaths":34, "Daily_Confirmed":97.0, "Daily_Deaths":0.0, "Confirmed_3day":156.333, "Confirmed_5day":166.8, "Deaths_3day":1.0, "Deaths_5day":1.0 }
+				{"Date":"05/11/2020", "Confirmed":3614, "Deaths":34, "Daily_Confirmed":97.0, "Daily_Deaths":0.0, "Confirmed_3day":156.333, "Confirmed_5day":166.8, "Deaths_3day":1.0, "Deaths_5day":1.0},
+				{"Date":"05/12/2020", "Confirmed":3663, "Deaths":39, "Daily_Confirmed":49.0, "Daily_Deaths":5.0, "Confirmed_3day":90.0, "Confirmed_5day":151.4, "Deaths_3day":1.667, "Deaths_5day":1.6 }
 			]
 	},
 	{"state":"Tennessee",
@@ -5680,7 +5728,8 @@
 				{"Date":"05/08/2020", "Confirmed":14441, "Deaths":242, "Daily_Confirmed":345.0, "Daily_Deaths":4.0, "Confirmed_3day":250.333, "Confirmed_5day":252.8, "Deaths_3day":5.333, "Deaths_5day":6.4},
 				{"Date":"05/09/2020", "Confirmed":14768, "Deaths":242, "Daily_Confirmed":327.0, "Daily_Deaths":0.0, "Confirmed_3day":276.667, "Confirmed_5day":239.4, "Deaths_3day":1.0, "Deaths_5day":4.6},
 				{"Date":"05/10/2020", "Confirmed":14985, "Deaths":243, "Daily_Confirmed":217.0, "Daily_Deaths":1.0, "Confirmed_3day":296.333, "Confirmed_5day":259.0, "Deaths_3day":1.667, "Deaths_5day":3.4},
-				{"Date":"05/11/2020", "Confirmed":15544, "Deaths":251, "Daily_Confirmed":559.0, "Daily_Deaths":8.0, "Confirmed_3day":367.667, "Confirmed_5day":321.2, "Deaths_3day":3.0, "Deaths_5day":2.4 }
+				{"Date":"05/11/2020", "Confirmed":15544, "Deaths":251, "Daily_Confirmed":559.0, "Daily_Deaths":8.0, "Confirmed_3day":367.667, "Confirmed_5day":321.2, "Deaths_3day":3.0, "Deaths_5day":2.4},
+				{"Date":"05/12/2020", "Confirmed":16111, "Deaths":266, "Daily_Confirmed":567.0, "Daily_Deaths":15.0, "Confirmed_3day":447.667, "Confirmed_5day":403.0, "Deaths_3day":8.0, "Deaths_5day":5.6 }
 			]
 	},
 	{"state":"Texas",
@@ -5796,7 +5845,8 @@
 				{"Date":"05/08/2020", "Confirmed":37246, "Deaths":1025, "Daily_Confirmed":1210.0, "Daily_Deaths":40.0, "Confirmed_3day":1111.333, "Confirmed_5day":1049.6, "Deaths_3day":33.333, "Deaths_5day":29.4},
 				{"Date":"05/09/2020", "Confirmed":38394, "Deaths":1066, "Daily_Confirmed":1148.0, "Daily_Deaths":41.0, "Confirmed_3day":1155.333, "Confirmed_5day":1122.2, "Deaths_3day":37.333, "Deaths_5day":33.0},
 				{"Date":"05/10/2020", "Confirmed":39258, "Deaths":1094, "Daily_Confirmed":864.0, "Daily_Deaths":28.0, "Confirmed_3day":1074.0, "Confirmed_5day":1069.2, "Deaths_3day":36.333, "Deaths_5day":33.8},
-				{"Date":"05/11/2020", "Confirmed":40555, "Deaths":1117, "Daily_Confirmed":1297.0, "Daily_Deaths":23.0, "Confirmed_3day":1103.0, "Confirmed_5day":1125.4, "Deaths_3day":30.667, "Deaths_5day":32.6 }
+				{"Date":"05/11/2020", "Confirmed":40555, "Deaths":1117, "Daily_Confirmed":1297.0, "Daily_Deaths":23.0, "Confirmed_3day":1103.0, "Confirmed_5day":1125.4, "Deaths_3day":30.667, "Deaths_5day":32.6},
+				{"Date":"05/12/2020", "Confirmed":41432, "Deaths":1146, "Daily_Confirmed":877.0, "Daily_Deaths":29.0, "Confirmed_3day":1012.667, "Confirmed_5day":1079.2, "Deaths_3day":26.667, "Deaths_5day":32.2 }
 			]
 	},
 	{"state":"Utah",
@@ -5912,7 +5962,8 @@
 				{"Date":"05/08/2020", "Confirmed":5919, "Deaths":61, "Daily_Confirmed":195.0, "Daily_Deaths":0.0, "Confirmed_3day":156.667, "Confirmed_5day":148.8, "Deaths_3day":1.667, "Deaths_5day":2.2},
 				{"Date":"05/09/2020", "Confirmed":6103, "Deaths":66, "Daily_Confirmed":184.0, "Daily_Deaths":5.0, "Confirmed_3day":169.333, "Confirmed_5day":157.2, "Deaths_3day":2.667, "Deaths_5day":3.2},
 				{"Date":"05/10/2020", "Confirmed":6251, "Deaths":67, "Daily_Confirmed":148.0, "Daily_Deaths":1.0, "Confirmed_3day":175.667, "Confirmed_5day":160.4, "Deaths_3day":2.0, "Deaths_5day":2.2},
-				{"Date":"05/11/2020", "Confirmed":6362, "Deaths":68, "Daily_Confirmed":111.0, "Daily_Deaths":1.0, "Confirmed_3day":147.667, "Confirmed_5day":153.4, "Deaths_3day":2.333, "Deaths_5day":2.0 }
+				{"Date":"05/11/2020", "Confirmed":6362, "Deaths":68, "Daily_Confirmed":111.0, "Daily_Deaths":1.0, "Confirmed_3day":147.667, "Confirmed_5day":153.4, "Deaths_3day":2.333, "Deaths_5day":2.0},
+				{"Date":"05/12/2020", "Confirmed":6432, "Deaths":73, "Daily_Confirmed":70.0, "Daily_Deaths":5.0, "Confirmed_3day":109.667, "Confirmed_5day":141.6, "Deaths_3day":2.333, "Deaths_5day":2.4 }
 			]
 	},
 	{"state":"Vermont",
@@ -6028,7 +6079,8 @@
 				{"Date":"05/08/2020", "Confirmed":919, "Deaths":53, "Daily_Confirmed":3.0, "Daily_Deaths":0.0, "Confirmed_3day":4.0, "Confirmed_5day":4.4, "Deaths_3day":0.333, "Deaths_5day":0.0},
 				{"Date":"05/09/2020", "Confirmed":921, "Deaths":53, "Daily_Confirmed":2.0, "Daily_Deaths":0.0, "Confirmed_3day":4.333, "Confirmed_5day":3.8, "Deaths_3day":0.333, "Deaths_5day":0.2},
 				{"Date":"05/10/2020", "Confirmed":927, "Deaths":53, "Daily_Confirmed":6.0, "Daily_Deaths":0.0, "Confirmed_3day":3.667, "Confirmed_5day":4.0, "Deaths_3day":0.0, "Deaths_5day":0.2},
-				{"Date":"05/11/2020", "Confirmed":926, "Deaths":53, "Daily_Confirmed":-1.0, "Daily_Deaths":0.0, "Confirmed_3day":2.333, "Confirmed_5day":3.6, "Deaths_3day":0.0, "Deaths_5day":0.2 }
+				{"Date":"05/11/2020", "Confirmed":926, "Deaths":53, "Daily_Confirmed":-1.0, "Daily_Deaths":0.0, "Confirmed_3day":2.333, "Confirmed_5day":3.6, "Deaths_3day":0.0, "Deaths_5day":0.2},
+				{"Date":"05/12/2020", "Confirmed":927, "Deaths":53, "Daily_Confirmed":1.0, "Daily_Deaths":0.0, "Confirmed_3day":2.0, "Confirmed_5day":2.2, "Deaths_3day":0.0, "Deaths_5day":0.0 }
 			]
 	},
 	{"state":"Virgin Islands",
@@ -6144,7 +6196,8 @@
 				{"Date":"05/08/2020", "Confirmed":68, "Deaths":4, "Daily_Confirmed":2.0, "Daily_Deaths":0.0, "Confirmed_3day":0.667, "Confirmed_5day":0.4, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/09/2020", "Confirmed":68, "Deaths":4, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":0.667, "Confirmed_5day":0.4, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/10/2020", "Confirmed":69, "Deaths":4, "Daily_Confirmed":1.0, "Daily_Deaths":0.0, "Confirmed_3day":1.0, "Confirmed_5day":0.6, "Deaths_3day":0.0, "Deaths_5day":0.0},
-				{"Date":"05/11/2020", "Confirmed":69, "Deaths":5, "Daily_Confirmed":0.0, "Daily_Deaths":1.0, "Confirmed_3day":0.333, "Confirmed_5day":0.6, "Deaths_3day":0.333, "Deaths_5day":0.2 }
+				{"Date":"05/11/2020", "Confirmed":69, "Deaths":5, "Daily_Confirmed":0.0, "Daily_Deaths":1.0, "Confirmed_3day":0.333, "Confirmed_5day":0.6, "Deaths_3day":0.333, "Deaths_5day":0.2},
+				{"Date":"05/12/2020", "Confirmed":69, "Deaths":6, "Daily_Confirmed":0.0, "Daily_Deaths":1.0, "Confirmed_3day":0.333, "Confirmed_5day":0.6, "Deaths_3day":0.667, "Deaths_5day":0.4 }
 			]
 	},
 	{"state":"Virginia",
@@ -6260,7 +6313,8 @@
 				{"Date":"05/08/2020", "Confirmed":22342, "Deaths":812, "Daily_Confirmed":772.0, "Daily_Deaths":43.0, "Confirmed_3day":695.0, "Confirmed_5day":734.0, "Deaths_3day":33.0, "Deaths_5day":30.4},
 				{"Date":"05/09/2020", "Confirmed":23196, "Deaths":827, "Daily_Confirmed":854.0, "Daily_Deaths":15.0, "Confirmed_3day":737.0, "Confirmed_5day":740.6, "Deaths_3day":30.0, "Deaths_5day":28.6},
 				{"Date":"05/10/2020", "Confirmed":24081, "Deaths":839, "Daily_Confirmed":885.0, "Daily_Deaths":12.0, "Confirmed_3day":837.0, "Confirmed_5day":764.8, "Deaths_3day":23.333, "Deaths_5day":25.2},
-				{"Date":"05/11/2020", "Confirmed":25070, "Deaths":850, "Daily_Confirmed":989.0, "Daily_Deaths":11.0, "Confirmed_3day":909.333, "Confirmed_5day":817.0, "Deaths_3day":12.667, "Deaths_5day":22.6 }
+				{"Date":"05/11/2020", "Confirmed":25070, "Deaths":850, "Daily_Confirmed":989.0, "Daily_Deaths":11.0, "Confirmed_3day":909.333, "Confirmed_5day":817.0, "Deaths_3day":12.667, "Deaths_5day":22.6},
+				{"Date":"05/12/2020", "Confirmed":25800, "Deaths":892, "Daily_Confirmed":730.0, "Daily_Deaths":42.0, "Confirmed_3day":868.0, "Confirmed_5day":846.0, "Deaths_3day":21.667, "Deaths_5day":24.6 }
 			]
 	},
 	{"state":"Washington",
@@ -6376,7 +6430,8 @@
 				{"Date":"05/08/2020", "Confirmed":16388, "Deaths":905, "Daily_Confirmed":157.0, "Daily_Deaths":14.0, "Confirmed_3day":264.667, "Confirmed_5day":240.6, "Deaths_3day":14.333, "Deaths_5day":14.2},
 				{"Date":"05/09/2020", "Confirmed":16674, "Deaths":921, "Daily_Confirmed":286.0, "Daily_Deaths":16.0, "Confirmed_3day":256.333, "Confirmed_5day":242.4, "Deaths_3day":17.0, "Deaths_5day":16.0},
 				{"Date":"05/10/2020", "Confirmed":16891, "Deaths":931, "Daily_Confirmed":217.0, "Daily_Deaths":10.0, "Confirmed_3day":220.0, "Confirmed_5day":259.4, "Deaths_3day":13.333, "Deaths_5day":13.8},
-				{"Date":"05/11/2020", "Confirmed":17122, "Deaths":945, "Daily_Confirmed":231.0, "Daily_Deaths":14.0, "Confirmed_3day":244.667, "Confirmed_5day":243.4, "Deaths_3day":13.333, "Deaths_5day":15.0 }
+				{"Date":"05/11/2020", "Confirmed":17122, "Deaths":945, "Daily_Confirmed":231.0, "Daily_Deaths":14.0, "Confirmed_3day":244.667, "Confirmed_5day":243.4, "Deaths_3day":13.333, "Deaths_5day":15.0},
+				{"Date":"05/12/2020", "Confirmed":17330, "Deaths":962, "Daily_Confirmed":208.0, "Daily_Deaths":17.0, "Confirmed_3day":218.667, "Confirmed_5day":219.8, "Deaths_3day":13.667, "Deaths_5day":14.2 }
 			]
 	},
 	{"state":"West Virginia",
@@ -6492,7 +6547,8 @@
 				{"Date":"05/08/2020", "Confirmed":1323, "Deaths":52, "Daily_Confirmed":36.0, "Daily_Deaths":1.0, "Confirmed_3day":25.667, "Confirmed_5day":25.6, "Deaths_3day":1.333, "Deaths_5day":0.8},
 				{"Date":"05/09/2020", "Confirmed":1323, "Deaths":52, "Daily_Confirmed":0.0, "Daily_Deaths":0.0, "Confirmed_3day":27.0, "Confirmed_5day":19.8, "Deaths_3day":0.667, "Deaths_5day":0.8},
 				{"Date":"05/10/2020", "Confirmed":1360, "Deaths":54, "Daily_Confirmed":37.0, "Daily_Deaths":2.0, "Confirmed_3day":24.333, "Confirmed_5day":22.8, "Deaths_3day":1.0, "Deaths_5day":1.2},
-				{"Date":"05/11/2020", "Confirmed":1366, "Deaths":54, "Daily_Confirmed":6.0, "Daily_Deaths":0.0, "Confirmed_3day":14.333, "Confirmed_5day":24.8, "Deaths_3day":0.667, "Deaths_5day":0.8 }
+				{"Date":"05/11/2020", "Confirmed":1366, "Deaths":54, "Daily_Confirmed":6.0, "Daily_Deaths":0.0, "Confirmed_3day":14.333, "Confirmed_5day":24.8, "Deaths_3day":0.667, "Deaths_5day":0.8},
+				{"Date":"05/12/2020", "Confirmed":1378, "Deaths":58, "Daily_Confirmed":12.0, "Daily_Deaths":4.0, "Confirmed_3day":18.333, "Confirmed_5day":18.2, "Deaths_3day":2.0, "Deaths_5day":1.4 }
 			]
 	},
 	{"state":"Wisconsin",
@@ -6608,7 +6664,8 @@
 				{"Date":"05/08/2020", "Confirmed":9590, "Deaths":384, "Daily_Confirmed":375.0, "Daily_Deaths":10.0, "Confirmed_3day":341.333, "Confirmed_5day":325.2, "Deaths_3day":10.333, "Deaths_5day":9.0},
 				{"Date":"05/09/2020", "Confirmed":9939, "Deaths":398, "Daily_Confirmed":349.0, "Daily_Deaths":14.0, "Confirmed_3day":346.0, "Confirmed_5day":340.6, "Deaths_3day":12.0, "Deaths_5day":11.6},
 				{"Date":"05/10/2020", "Confirmed":10219, "Deaths":400, "Daily_Confirmed":280.0, "Daily_Deaths":2.0, "Confirmed_3day":334.667, "Confirmed_5day":330.6, "Deaths_3day":8.667, "Deaths_5day":9.4},
-				{"Date":"05/11/2020", "Confirmed":10418, "Deaths":409, "Daily_Confirmed":199.0, "Daily_Deaths":9.0, "Confirmed_3day":276.0, "Confirmed_5day":303.4, "Deaths_3day":8.333, "Deaths_5day":9.4 }
+				{"Date":"05/11/2020", "Confirmed":10418, "Deaths":409, "Daily_Confirmed":199.0, "Daily_Deaths":9.0, "Confirmed_3day":276.0, "Confirmed_5day":303.4, "Deaths_3day":8.333, "Deaths_5day":9.4},
+				{"Date":"05/12/2020", "Confirmed":10611, "Deaths":418, "Daily_Confirmed":193.0, "Daily_Deaths":9.0, "Confirmed_3day":224.0, "Confirmed_5day":279.2, "Deaths_3day":6.667, "Deaths_5day":8.8 }
 			]
 	},
 	{"state":"Wyoming",
@@ -6724,7 +6781,8 @@
 				{"Date":"05/08/2020", "Confirmed":644, "Deaths":7, "Daily_Confirmed":9.0, "Daily_Deaths":0.0, "Confirmed_3day":13.333, "Confirmed_5day":11.6, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/09/2020", "Confirmed":653, "Deaths":7, "Daily_Confirmed":9.0, "Daily_Deaths":0.0, "Confirmed_3day":7.333, "Confirmed_5day":11.4, "Deaths_3day":0.0, "Deaths_5day":0.0},
 				{"Date":"05/10/2020", "Confirmed":662, "Deaths":7, "Daily_Confirmed":9.0, "Daily_Deaths":0.0, "Confirmed_3day":9.0, "Confirmed_5day":11.6, "Deaths_3day":0.0, "Deaths_5day":0.0},
-				{"Date":"05/11/2020", "Confirmed":669, "Deaths":7, "Daily_Confirmed":7.0, "Daily_Deaths":0.0, "Confirmed_3day":8.333, "Confirmed_5day":7.6, "Deaths_3day":0.0, "Deaths_5day":0.0 }
+				{"Date":"05/11/2020", "Confirmed":669, "Deaths":7, "Daily_Confirmed":7.0, "Daily_Deaths":0.0, "Confirmed_3day":8.333, "Confirmed_5day":7.6, "Deaths_3day":0.0, "Deaths_5day":0.0},
+				{"Date":"05/12/2020", "Confirmed":675, "Deaths":7, "Daily_Confirmed":6.0, "Daily_Deaths":0.0, "Confirmed_3day":7.333, "Confirmed_5day":8.0, "Deaths_3day":0.0, "Deaths_5day":0.0 }
 			]
 	},
 	{"state":"USA",
@@ -6840,7 +6898,8 @@
 				{"Date":"05/08/2020", "Confirmed":1283929, "Deaths":77180, "Daily_Confirmed":26906.0, "Daily_Deaths":1518.0, "Confirmed_3day":26526.0, "Confirmed_5day":25177.8, "Deaths_3day":2038.667, "Deaths_5day":1899.6},
 				{"Date":"05/09/2020", "Confirmed":1309550, "Deaths":78795, "Daily_Confirmed":25621.0, "Daily_Deaths":1615.0, "Confirmed_3day":26739.667, "Confirmed_5day":25835.0, "Deaths_3day":1780.0, "Deaths_5day":1974.6},
 				{"Date":"05/10/2020", "Confirmed":1329260, "Deaths":79526, "Daily_Confirmed":19710.0, "Daily_Deaths":731.0, "Confirmed_3day":24079.0, "Confirmed_5day":24981.8, "Deaths_3day":1288.0, "Deaths_5day":1692.4},
-				{"Date":"05/11/2020", "Confirmed":1347881, "Deaths":80682, "Daily_Confirmed":18621.0, "Daily_Deaths":1156.0, "Confirmed_3day":21317.333, "Confirmed_5day":23710.0, "Deaths_3day":1167.333, "Deaths_5day":1445.4 }
+				{"Date":"05/11/2020", "Confirmed":1347881, "Deaths":80682, "Daily_Confirmed":18621.0, "Daily_Deaths":1156.0, "Confirmed_3day":21317.333, "Confirmed_5day":23710.0, "Deaths_3day":1167.333, "Deaths_5day":1445.4},
+				{"Date":"05/12/2020", "Confirmed":1369574, "Deaths":82376, "Daily_Confirmed":21693.0, "Daily_Deaths":1694.0, "Confirmed_3day":20008.0, "Confirmed_5day":22510.2, "Deaths_3day":1193.667, "Deaths_5day":1342.8 }
 			]
 	}
 ]
