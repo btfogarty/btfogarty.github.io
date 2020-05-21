@@ -26,9 +26,13 @@
             Covid-19 Data Visualization with Chart JS
         </p>
         <hr>
-
+        <!-- Begin Tabs -->
+        <ul class="nav nav-pills">
+            <li class="active"><a data-toggle="pill" href="#home">Home</a></li>
+            <li><a data-toggle="pill" href="#menu1">State Comparison</a></li>
+            <li><a data-toggle="pill" href="#menu2">State Details</a></li>
+        </ul>
     </div>
-
 
     <div class="row">
         <div class="col-md-4">
@@ -59,17 +63,30 @@
             </form>
         </div>
     </div>
-    <div class="countainer">
-        <div class="row">
-            <canvas id="canvas" width="600" height="200"></canvas>
+
+    <div class="tab-content">
+        <div id="home" class="tab-pane fade in active">
+            <div class="countainer">
+                <div class="row">
+                    <canvas id="canvas" width="600" height="200"></canvas>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <canvas id="bar1"></canvas>
+                    </div>
+                    <div class="col-lg-6">
+                        <canvas id="bar2"></canvas>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="row">
-            <div class="col-lg-6">
-                <canvas id="bar1"></canvas>
-            </div>
-            <div class="col-lg-6">
-                <canvas id="bar2"></canvas>
-            </div>
+        <div id="menu1" class="tab-pane fade">
+            <h3>Menu 1</h3>
+            <p>Some content in menu 1.</p>
+        </div>
+        <div id="menu2" class="tab-pane fade">
+            <h3>Menu 2</h3>
+            <p>Some content in menu 2.</p>
         </div>
     </div>
     <!-- Footer -->
@@ -78,6 +95,7 @@
             Using data published by 2019 Novel Coronavirus COVID-19 Data Repository <a href="https://github.com/CSSEGISandData/COVID-19">Johns Hopkins CSSE</a>.
         </p>
     </div>
+
     <!-- Footer -->
 
     <br>
@@ -111,7 +129,7 @@
             return -1;
         };
 
-        function updateConfirmedChart(idx,idx2,measure) {
+        function updateConfirmedChart(idx, idx2, measure) {
 
             var chartTitle, data1, data2;
             var dates = [];
@@ -174,7 +192,7 @@
                         borderColor: window.chartColors.state1
                     },
                     {
-                    label: document.getElementById("selState2").value,
+                        label: document.getElementById("selState2").value,
                         fill: false,
                         data: data2,
                         backgroundColor: window.chartColors.blue,
@@ -442,7 +460,7 @@
 
         };
 
-        
+
     </script>
 
 </body>
