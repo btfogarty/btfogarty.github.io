@@ -11,11 +11,21 @@
     <script src="./scripts/bootstrap.min.js"></script>
     <script src="./scripts/Chart.bundle.js"></script>
     <script src="./scripts/moment.min.js"></script>
-
+    <!-- Resources -->
+    <script src="https://www.amcharts.com/lib/4/core.js"></script>
+    <script src="https://www.amcharts.com/lib/4/maps.js"></script>
+    <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
     <style>
         .jumbotron {
             padding-top: 10px !important;
             padding-bottom: 10px !important;
+        }
+    </style>
+    <!-- Styles -->
+    <style>
+        #chartdiv {
+            width: 100%;
+            height: 600px
         }
     </style>
 
@@ -29,43 +39,42 @@
         <!-- Begin Tabs -->
         <ul class="nav nav-pills">
             <li class="active"><a data-toggle="pill" href="#home">Home</a></li>
-            <li><a data-toggle="pill" href="#menu1">State Comparison</a></li>
-            <li><a data-toggle="pill" href="#menu2">State Details</a></li>
+            <li><a data-toggle="pill" href="#maps">State Maps</a></li>
+            <li><a data-toggle="pill" href="#details">State Details</a></li>
         </ul>
-    </div>
-
-    <div class="row">
-        <div class="col-md-4">
-            <form>
-                <label for="selState">Select State 1:</label>
-                <select class="form-control" id="selState" onchange="selStateHandler()">
-                </select>
-            </form>
-        </div>
-        <div class="col-md-4">
-            <form>
-                <label for="selState2">Select State 2:</label>
-                <select class="form-control" id="selState2" onchange="selStateHandler()">
-                </select>
-            </form>
-        </div>
-        <div class="col-md-4">
-            <form>
-                <label for="selMeasure">Select Measure:</label>
-                <select class="form-control" id="selMeasure" onchange="selMeasureHandler()">
-                    <option>Confirmed Cases</option>
-                    <option>Confirmed Cases - 3 day Avg</option>
-                    <option>Confirmed Cases - 5 day Avg</option>
-                    <option>Deaths</option>
-                    <option>Deaths - 3 day Avg</option>
-                    <option>Deaths - 5 day Avg</option>
-                </select>
-            </form>
-        </div>
     </div>
 
     <div class="tab-content">
         <div id="home" class="tab-pane fade in active">
+            <div class="row">
+                <div class="col-md-4">
+                    <form>
+                        <label for="selState">Select State 1:</label>
+                        <select class="form-control" id="selState" onchange="selStateHandler()">
+                        </select>
+                    </form>
+                </div>
+                <div class="col-md-4">
+                    <form>
+                        <label for="selState2">Select State 2:</label>
+                        <select class="form-control" id="selState2" onchange="selStateHandler()">
+                        </select>
+                    </form>
+                </div>
+                <div class="col-md-4">
+                    <form>
+                        <label for="selMeasure">Select Measure:</label>
+                        <select class="form-control" id="selMeasure" onchange="selMeasureHandler()">
+                            <option>Confirmed Cases</option>
+                            <option>Confirmed Cases - 3 day Avg</option>
+                            <option>Confirmed Cases - 5 day Avg</option>
+                            <option>Deaths</option>
+                            <option>Deaths - 3 day Avg</option>
+                            <option>Deaths - 5 day Avg</option>
+                        </select>
+                    </form>
+                </div>
+            </div>
             <div class="countainer">
                 <div class="row">
                     <canvas id="canvas" width="600" height="200"></canvas>
@@ -80,13 +89,25 @@
                 </div>
             </div>
         </div>
-        <div id="menu1" class="tab-pane fade">
-            <h3>Menu 1</h3>
-            <p>Some content in menu 1.</p>
+        <div id="maps" class="tab-pane fade">
+            <div class="row">
+                <div class="col-md-4">
+                    <form>
+                        <label for="selStateMap">Select State:</label>
+                        <select class="form-control" id="selStateMap" onchange="selStateMapAction()">
+                        </select>
+                    </form>
+                </div>
+            </div>
+            <div id="chartdiv">
+
+            </div>
+            amCharts
+
         </div>
-        <div id="menu2" class="tab-pane fade">
-            <h3>Menu 2</h3>
-            <p>Some content in menu 2.</p>
+        <div id="details" class="tab-pane fade">
+            <h3>Details</h3>
+            <p>Under development...</p>
         </div>
     </div>
     <!-- Footer -->
@@ -102,8 +123,10 @@
     <br>
     <script>
 
+        //Globals
         var jsondata, labels, data_confirmed, data_deaths, ctx, config, chart, querydata, idx, idx2, us_states, us_states_names;
         var barChart1Data, barChart2Data, barChart1, barChart2;
+        var mapchart, mapdata, mapjson, url;
 
         window.chartColors = {
             red: 'rgb(255, 99, 132)',
@@ -408,17 +431,18 @@
 
         window.onload = function () {
 
-            var default1 = 51; //Virginia
-            var default2 = 22; //Maryland
+            var default1 = 53; //Virginia
+            var default2 = 24; //Maryland
              
-            us_states = $.getJSON('./data/us_states_2.json', function () {
+            us_states = $.getJSON('./data/us_states.json', function () {
 
                 us_states_names = us_states.responseJSON;
                 var dd = document.getElementById("selState")
                 var dd2 = document.getElementById("selState2")
+                var dd3 = document.getElementById("selStateMap")
 
                 for (var i = 0; i < us_states_names.length; i++) {
-                    console.log(i + ' : ' + us_states_names[i].state)
+                    //console.log(i + ' : ' + us_states_names[i].state)
                     if (i == default1) {
                         dd.innerHTML = dd.innerHTML +
                             '<option selected>' + us_states_names[i].state + '</option>'
@@ -436,6 +460,9 @@
                         dd2.innerHTML = dd2.innerHTML +
                             '<option>' + us_states_names[i].state + '</option>'
                     };
+
+                    dd3.innerHTML = dd3.innerHTML +
+                        '<option value="' + us_states_names[i].id + '">' + us_states_names[i].state + '</option>'
 
                 };
 
