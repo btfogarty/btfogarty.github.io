@@ -408,17 +408,17 @@
 
         window.onload = function () {
 
-            var default1 = 53; //Virginia
-            var default2 = 24; //Maryland
-
-            us_states = $.getJSON('./data/us_states.json', function () {
+            var default1 = 51; //Virginia
+            var default2 = 22; //Maryland
+             
+            us_states = $.getJSON('./data/us_states_2.json', function () {
 
                 us_states_names = us_states.responseJSON;
                 var dd = document.getElementById("selState")
                 var dd2 = document.getElementById("selState2")
 
-                for (var i = 0; i <= us_states_names.length; i++) {
-                    //console.log(us_states_names[i].state)
+                for (var i = 0; i < us_states_names.length; i++) {
+                    console.log(i + ' : ' + us_states_names[i].state)
                     if (i == default1) {
                         dd.innerHTML = dd.innerHTML +
                             '<option selected>' + us_states_names[i].state + '</option>'
