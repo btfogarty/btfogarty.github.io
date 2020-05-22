@@ -144,7 +144,7 @@
 
         function getIndex(stateName) {
 
-            for (var x = 0; x <= jsondata.length; x++) {
+            for (var x = 0; x < jsondata.length; x++) {
                 if (jsondata[x].state == stateName) {
                     return x;
                 };
@@ -523,7 +523,7 @@
             var default1 = 45; //Virginia
             var default2 = 19; //Maryland
              
-            us_states = $.getJSON('./data/us_states.json', function () {
+            us_states = $.getJSON('https://raw.githubusercontent.com/btfogarty/btfogarty.github.io/master/data/us_states.json', function () {
 
                 us_states_names = us_states.responseJSON;
                 var dd = document.getElementById("selState")
@@ -552,7 +552,7 @@
 
                     dd3.innerHTML = dd3.innerHTML +
                         '<option value="' + us_states_names[i].postal + '">' + us_states_names[i].state + '</option>';
-                    console.log(i + ' : ' + us_states_names[i].postal);
+                   // console.log(i + ' : ' + us_states_names[i].postal);
                 };
 
             });
@@ -574,7 +574,7 @@
 
             });
 
-            //am4core.ready(initchart("./geodata/json/region/usa/vaLow.json")); // end am4core.ready()
+            //Data for the maps tab
             url = "./data/geodata/" + document.getElementById("selStateMap").value + "_data.json";
             console.log(url)
             //Get data for the charts
