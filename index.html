@@ -25,7 +25,7 @@
     <style>
         #chartdiv {
             width: 100%;
-            height: 600px
+            height: 700px
         }
     </style>
 
@@ -99,6 +99,7 @@
                     </form>
                 </div>
             </div>
+            <br />
             <div id="chartdiv">
 
             </div>
@@ -142,12 +143,6 @@
         };
 
         function test() { alert("Test") };
-
-        // current state
-        console.log(document.readyState);
-
-        // print state changes
-        document.addEventListener('readystatechange', () => console.log(document.readyState));
 
         function getIndex(stateName) {
 
@@ -447,7 +442,6 @@
             mapchart = am4core.create("chartdiv", am4maps.MapChart);
 
             // Set map definition
-            //chart.geodataSource.url = "./geodata/json/region/usa/vaLow.json"; //am4geodata_region_usa_vaLow;
             mapchart.geodataSource.url = chartname;
 
             // Set projection
@@ -470,10 +464,11 @@
             // Set heatmap values for each state
             polygonSeries.data = mapjson;
 
+            /*
             // Set up heat legend
             let heatLegend = mapchart.createChild(am4maps.HeatLegend);
             heatLegend.series = polygonSeries;
-            heatLegend.align = "center";
+            heatLegend.align = "right";
             heatLegend.valign = "bottom";
             heatLegend.width = am4core.percent(20);
             heatLegend.marginRight = am4core.percent(4);
@@ -483,15 +478,58 @@
             // Set up custom heat map legend labels using axis ranges
             var minRange = heatLegend.valueAxis.axisRanges.create();
             minRange.value = heatLegend.minValue;
-            minRange.label.text = "Little";
+            minRange.label.text = heatLegend.minValue;
             var maxRange = heatLegend.valueAxis.axisRanges.create();
             maxRange.value = heatLegend.maxValue;
-            maxRange.label.text = "A lot!";
+            maxRange.label.text = heatLegend.maxValue;
 
             // Blank out internal heat legend value axis labels
             heatLegend.valueAxis.renderer.labels.template.adapter.add("text", function (labelText) {
                 return "";
             });
+            */
+
+            // Set up heat legend
+            var heatLegend = mapchart.createChild(am4maps.HeatLegend);
+            heatLegend.id = "heatLegend";
+            heatLegend.series = polygonSeries;
+            heatLegend.align = "right";
+            heatLegend.valign = "bottom";
+            heatLegend.width = am4core.percent(15);
+            heatLegend.marginRight = am4core.percent(4);
+            heatLegend.background.fill = am4core.color("#000");
+            heatLegend.background.fillOpacity = 0.05;
+            heatLegend.padding(5, 5, 5, 5);
+
+            // Set up custom heat map legend labels using axis ranges
+            var minRange = heatLegend.valueAxis.axisRanges.create();
+            minRange.label.horizontalCenter = "left";
+
+            var maxRange = heatLegend.valueAxis.axisRanges.create();
+            maxRange.label.horizontalCenter = "right";
+
+            // Blank out internal heat legend value axis labels
+            heatLegend.valueAxis.renderer.labels.template.adapter.add("text", function (labelText) {
+                return "";
+            });
+
+            // Update heat legend value labels
+            polygonSeries.events.on("datavalidated", function (ev) {
+                var heatLegend = ev.target.map.getKey("heatLegend");
+
+                var min = heatLegend.series.dataItem.values.value.low;
+                var minRange = heatLegend.valueAxis.axisRanges.getIndex(0);
+                minRange.value = min;
+                minRange.label.text = "" + heatLegend.numberFormatter.format(min);
+
+                var max = heatLegend.series.dataItem.values.value.high;
+                var maxRange = heatLegend.valueAxis.axisRanges.getIndex(1);
+                maxRange.value = max;
+                maxRange.label.text = "" + heatLegend.numberFormatter.format(max);
+            });
+
+
+
 
             // Configure series tooltip
             var polygonTemplate = polygonSeries.mapPolygons.template;
@@ -506,8 +544,8 @@
         };
 
         function updatemap(mapjson) {
-            //var st = document.getElementById("selState");
-            var mapname = "./data/geodata/" + document.getElementById("selStateMap").value + "Low.json"
+            var st = document.getElementById("selStateMap").value;
+            var mapname = "./data/geodata/" + st.toLowerCase() + "Low.json"
 
             if (mapchart != null) {
                 mapchart.dispose();
@@ -518,7 +556,7 @@
 
         function selStateMapAction() {
             //Get new JSON data
-            url = "./data/" + document.getElementById("selStateMap").value + "_data.json";
+            url = "./data/" + document.getElementById("selStateMap").value + "_confirmed_data.json";
             mapdata = $.getJSON(url, function () {
                 mapjson = mapdata.responseJSON;
                 updatemap(mapjson)
@@ -604,7 +642,7 @@
                     updateBar2(idx, idx2);
 
                     //Data for the maps tab
-                    url = "./data/geodata/" + document.getElementById("selStateMap").value + "_confirmed_data.json";
+                    url = "./data/" + document.getElementById("selStateMap").value + "_confirmed_data.json";
                     console.log(url)
                     //Get data for the charts
                     mapdata = $.getJSON(url, function () {
