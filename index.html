@@ -127,6 +127,7 @@
         var jsondata, labels, data_confirmed, data_deaths, ctx, config, chart, querydata, idx, idx2, us_states, us_states_names;
         var barChart1Data, barChart2Data, barChart1, barChart2;
         var mapchart, mapdata, mapjson, url;
+        var s1, s2;
 
         window.chartColors = {
             red: 'rgb(255, 99, 132)',
@@ -142,9 +143,16 @@
 
         function test() { alert("Test") };
 
+        // current state
+        console.log(document.readyState);
+
+        // print state changes
+        document.addEventListener('readystatechange', () => console.log(document.readyState));
+
         function getIndex(stateName) {
 
             for (var x = 0; x < jsondata.length; x++) {
+                //console.log(x + ' : ' + stateName + ' : ' + jsondata[x].state);
                 if (jsondata[x].state == stateName) {
                     return x;
                 };
@@ -534,20 +542,20 @@
                     //console.log(i + ' : ' + us_states_names[i].state)
                     if (i == default1) {
                         dd.innerHTML = dd.innerHTML +
-                            '<option selected>' + us_states_names[i].state + '</option>'
+                            '<option value="' + us_states_names[i].state + '">' + us_states_names[i].state + '</option>'
                     }
                     else {
                         dd.innerHTML = dd.innerHTML +
-                            '<option>' + us_states_names[i].state + '</option>'
+                            '<option value="' + us_states_names[i].state + '">' + us_states_names[i].state + '</option>'
                     };
 
                     if (i == default2) {
                         dd2.innerHTML = dd2.innerHTML +
-                            '<option selected>' + us_states_names[i].state + '</option>'
+                            '<option value="' + us_states_names[i].state + '">' + us_states_names[i].state + '</option>'
                     }
                     else {
                         dd2.innerHTML = dd2.innerHTML +
-                            '<option>' + us_states_names[i].state + '</option>'
+                            '<option value="' + us_states_names[i].state + '">' + us_states_names[i].state + '</option>'
                     };
 
                     dd3.innerHTML = dd3.innerHTML +
@@ -555,24 +563,51 @@
                    // console.log(i + ' : ' + us_states_names[i].postal);
                 };
 
+                //Get data for the charts
+                querydata = $.getJSON("./data/covid_states_data.json", function () {
+
+                    document.getElementById("selState").selectedIndex = default1;
+                    document.getElementById("selState2").selectedIndex = default2;
+
+                    jsondata = querydata.responseJSON;
+                    s1 = document.getElementById("selState").value;
+                    idx = getIndex(s1);
+                    //console.log(idx + ' : ' + s1 + ' : ' + document.getElementById("selState").selectedIndex);
+                    s2 = document.getElementById("selState2").value;
+                    idx2 = getIndex(s2);
+                    //console.log(idx2 + ' : ' + s2 + ' : ' + document.getElementById("selState2").selectedIndex);
+                    var measure = document.getElementById("selMeasure").value;
+
+                    //Adding these two condition checks to handle null values
+                    //not sure what is causing it, but sometimes the option values are null unless refresh web browser
+                    if (s1 == "") {
+                        console.log("s1 null");
+                        document.getElementById("selState").selectedIndex = default1;
+                        //s1 = "Virginia";
+                        s1 = document.getElementById("selState").value;
+                        console.log("s1: " + s1);
+                        idx = getIndex(s1);
+                    }
+
+                    if (s2 == "") {
+                        console.log("s2 null");
+                        document.getElementById("selState2").selectedIndex = default2;
+                        //s2 = "Maryland";
+                        s2 = s1 = document.getElementById("selState2").value;
+                        idx2 = getIndex(s2);
+                    }
+
+                    updateConfirmedChart(idx, idx2, measure);
+
+                    //Update Bar charts;
+                    updateBar1(idx, idx2);
+                    updateBar2(idx, idx2);
+
+                });
+
             });
 
-            //Get data for the charts
-            querydata = $.getJSON("./data/covid_states_data.json", function () {
 
-                jsondata = querydata.responseJSON;
-                var x = document.getElementById("selState").value;
-                idx = getIndex(x);
-                x = document.getElementById("selState2").value;
-                idx2 = getIndex(x);
-                var measure = document.getElementById("selMeasure").value;
-                updateConfirmedChart(idx, idx2, measure);
-
-                //Update Bar charts;
-                updateBar1(idx, idx2);
-                updateBar2(idx, idx2);
-
-            });
 
             //Data for the maps tab
             url = "./data/geodata/" + document.getElementById("selStateMap").value + "_data.json";
