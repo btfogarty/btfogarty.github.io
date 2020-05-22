@@ -563,7 +563,7 @@
                    // console.log(i + ' : ' + us_states_names[i].postal);
                 };
 
-                //Get data for the charts
+                //Get data for the charts (Home tab)
                 querydata = $.getJSON("./data/covid_states_data.json", function () {
 
                     document.getElementById("selState").selectedIndex = default1;
@@ -603,20 +603,18 @@
                     updateBar1(idx, idx2);
                     updateBar2(idx, idx2);
 
+                    //Data for the maps tab
+                    url = "./data/geodata/" + document.getElementById("selStateMap").value + "_confirmed_data.json";
+                    console.log(url)
+                    //Get data for the charts
+                    mapdata = $.getJSON(url, function () {
+                        mapjson = mapdata.responseJSON;
+                        updatemap(mapjson)
+                    })
+
                 });
 
             });
-
-
-
-            //Data for the maps tab
-            url = "./data/geodata/" + document.getElementById("selStateMap").value + "_data.json";
-            console.log(url)
-            //Get data for the charts
-            mapdata = $.getJSON(url, function () {
-                mapjson = mapdata.responseJSON;
-                updatemap(mapjson)
-            })
 
         };
 
