@@ -5,27 +5,27 @@
   },
   {
     "FIPS":66.0,
-    "Confirmed":177
+    "Confirmed":179
   },
   {
     "FIPS":69.0,
-    "Confirmed":24
+    "Confirmed":26
   },
   {
     "FIPS":72.0,
-    "Confirmed":4023
+    "Confirmed":4508
   },
   {
     "FIPS":78.0,
-    "Confirmed":70
+    "Confirmed":71
   },
   {
     "FIPS":1001.0,
-    "Confirmed":239
+    "Confirmed":241
   },
   {
     "FIPS":1003.0,
-    "Confirmed":292
+    "Confirmed":293
   },
   {
     "FIPS":1005.0,
@@ -41,19 +41,19 @@
   },
   {
     "FIPS":1011.0,
-    "Confirmed":215
+    "Confirmed":217
   },
   {
     "FIPS":1013.0,
-    "Confirmed":419
+    "Confirmed":421
   },
   {
     "FIPS":1015.0,
-    "Confirmed":165
+    "Confirmed":167
   },
   {
     "FIPS":1017.0,
-    "Confirmed":359
+    "Confirmed":360
   },
   {
     "FIPS":1019.0,
@@ -61,7 +61,7 @@
   },
   {
     "FIPS":1021.0,
-    "Confirmed":105
+    "Confirmed":107
   },
   {
     "FIPS":1023.0,
@@ -85,7 +85,7 @@
   },
   {
     "FIPS":1033.0,
-    "Confirmed":187
+    "Confirmed":190
   },
   {
     "FIPS":1035.0,
@@ -97,7 +97,7 @@
   },
   {
     "FIPS":1039.0,
-    "Confirmed":81
+    "Confirmed":82
   },
   {
     "FIPS":1041.0,
@@ -105,15 +105,15 @@
   },
   {
     "FIPS":1043.0,
-    "Confirmed":150
+    "Confirmed":152
   },
   {
     "FIPS":1045.0,
-    "Confirmed":123
+    "Confirmed":124
   },
   {
     "FIPS":1047.0,
-    "Confirmed":287
+    "Confirmed":292
   },
   {
     "FIPS":1049.0,
@@ -121,7 +121,7 @@
   },
   {
     "FIPS":1051.0,
-    "Confirmed":372
+    "Confirmed":374
   },
   {
     "FIPS":1053.0,
@@ -129,7 +129,7 @@
   },
   {
     "FIPS":1055.0,
-    "Confirmed":262
+    "Confirmed":263
   },
   {
     "FIPS":1057.0,
@@ -137,7 +137,7 @@
   },
   {
     "FIPS":1059.0,
-    "Confirmed":578
+    "Confirmed":585
   },
   {
     "FIPS":1061.0,
@@ -149,11 +149,11 @@
   },
   {
     "FIPS":1065.0,
-    "Confirmed":179
+    "Confirmed":185
   },
   {
     "FIPS":1067.0,
-    "Confirmed":81
+    "Confirmed":82
   },
   {
     "FIPS":1069.0,
@@ -165,15 +165,15 @@
   },
   {
     "FIPS":1073.0,
-    "Confirmed":1884
+    "Confirmed":1901
   },
   {
     "FIPS":1075.0,
-    "Confirmed":26
+    "Confirmed":28
   },
   {
     "FIPS":1077.0,
-    "Confirmed":169
+    "Confirmed":172
   },
   {
     "FIPS":1079.0,
@@ -181,7 +181,7 @@
   },
   {
     "FIPS":1081.0,
-    "Confirmed":558
+    "Confirmed":562
   },
   {
     "FIPS":1083.0,
@@ -189,19 +189,19 @@
   },
   {
     "FIPS":1085.0,
-    "Confirmed":259
+    "Confirmed":265
   },
   {
     "FIPS":1087.0,
-    "Confirmed":87
+    "Confirmed":93
   },
   {
     "FIPS":1089.0,
-    "Confirmed":346
+    "Confirmed":353
   },
   {
     "FIPS":1091.0,
-    "Confirmed":174
+    "Confirmed":175
   },
   {
     "FIPS":1093.0,
@@ -209,35 +209,35 @@
   },
   {
     "FIPS":1095.0,
-    "Confirmed":705
+    "Confirmed":708
   },
   {
     "FIPS":1097.0,
-    "Confirmed":2284
+    "Confirmed":2321
   },
   {
     "FIPS":1099.0,
-    "Confirmed":45
+    "Confirmed":46
   },
   {
     "FIPS":1101.0,
-    "Confirmed":1823
+    "Confirmed":1858
   },
   {
     "FIPS":1103.0,
-    "Confirmed":298
+    "Confirmed":302
   },
   {
     "FIPS":1105.0,
-    "Confirmed":42
+    "Confirmed":43
   },
   {
     "FIPS":1107.0,
-    "Confirmed":121
+    "Confirmed":120
   },
   {
     "FIPS":1109.0,
-    "Confirmed":208
+    "Confirmed":212
   },
   {
     "FIPS":1111.0,
@@ -245,15 +245,15 @@
   },
   {
     "FIPS":1113.0,
-    "Confirmed":177
+    "Confirmed":181
   },
   {
     "FIPS":1115.0,
-    "Confirmed":131
+    "Confirmed":135
   },
   {
     "FIPS":1117.0,
-    "Confirmed":522
+    "Confirmed":528
   },
   {
     "FIPS":1119.0,
@@ -261,27 +261,27 @@
   },
   {
     "FIPS":1121.0,
-    "Confirmed":117
+    "Confirmed":119
   },
   {
     "FIPS":1123.0,
-    "Confirmed":432
+    "Confirmed":434
   },
   {
     "FIPS":1125.0,
-    "Confirmed":822
+    "Confirmed":836
   },
   {
     "FIPS":1127.0,
-    "Confirmed":381
+    "Confirmed":386
   },
   {
     "FIPS":1129.0,
-    "Confirmed":72
+    "Confirmed":73
   },
   {
     "FIPS":1131.0,
-    "Confirmed":154
+    "Confirmed":157
   },
   {
     "FIPS":1133.0,
@@ -297,7 +297,7 @@
   },
   {
     "FIPS":2020.0,
-    "Confirmed":254
+    "Confirmed":258
   },
   {
     "FIPS":2050.0,
@@ -333,7 +333,7 @@
   },
   {
     "FIPS":2122.0,
-    "Confirmed":60
+    "Confirmed":63
   },
   {
     "FIPS":2130.0,
@@ -353,7 +353,7 @@
   },
   {
     "FIPS":2170.0,
-    "Confirmed":34
+    "Confirmed":35
   },
   {
     "FIPS":2180.0,
@@ -405,23 +405,23 @@
   },
   {
     "FIPS":4001.0,
-    "Confirmed":1586
+    "Confirmed":1637
   },
   {
     "FIPS":4003.0,
-    "Confirmed":94
+    "Confirmed":105
   },
   {
     "FIPS":4005.0,
-    "Confirmed":1186
+    "Confirmed":1221
   },
   {
     "FIPS":4007.0,
-    "Confirmed":37
+    "Confirmed":39
   },
   {
     "FIPS":4009.0,
-    "Confirmed":41
+    "Confirmed":38
   },
   {
     "FIPS":4011.0,
@@ -429,39 +429,39 @@
   },
   {
     "FIPS":4012.0,
-    "Confirmed":91
+    "Confirmed":110
   },
   {
     "FIPS":4013.0,
-    "Confirmed":11068
+    "Confirmed":11229
   },
   {
     "FIPS":4015.0,
-    "Confirmed":422
+    "Confirmed":428
   },
   {
     "FIPS":4017.0,
-    "Confirmed":1994
+    "Confirmed":2042
   },
   {
     "FIPS":4019.0,
-    "Confirmed":2627
+    "Confirmed":2669
   },
   {
     "FIPS":4021.0,
-    "Confirmed":940
+    "Confirmed":948
   },
   {
     "FIPS":4023.0,
-    "Confirmed":438
+    "Confirmed":462
   },
   {
     "FIPS":4025.0,
-    "Confirmed":304
+    "Confirmed":307
   },
   {
     "FIPS":4027.0,
-    "Confirmed":1520
+    "Confirmed":1643
   },
   {
     "FIPS":5001.0,
@@ -469,7 +469,7 @@
   },
   {
     "FIPS":5003.0,
-    "Confirmed":20
+    "Confirmed":26
   },
   {
     "FIPS":5005.0,
@@ -477,7 +477,7 @@
   },
   {
     "FIPS":5007.0,
-    "Confirmed":700
+    "Confirmed":804
   },
   {
     "FIPS":5009.0,
@@ -493,7 +493,7 @@
   },
   {
     "FIPS":5015.0,
-    "Confirmed":29
+    "Confirmed":30
   },
   {
     "FIPS":5017.0,
@@ -501,7 +501,7 @@
   },
   {
     "FIPS":5019.0,
-    "Confirmed":41
+    "Confirmed":40
   },
   {
     "FIPS":5021.0,
@@ -517,27 +517,27 @@
   },
   {
     "FIPS":5027.0,
-    "Confirmed":22
+    "Confirmed":23
   },
   {
     "FIPS":5029.0,
-    "Confirmed":14
+    "Confirmed":15
   },
   {
     "FIPS":5031.0,
-    "Confirmed":257
+    "Confirmed":266
   },
   {
     "FIPS":5033.0,
-    "Confirmed":34
+    "Confirmed":35
   },
   {
     "FIPS":5035.0,
-    "Confirmed":413
+    "Confirmed":426
   },
   {
     "FIPS":5037.0,
-    "Confirmed":56
+    "Confirmed":60
   },
   {
     "FIPS":5039.0,
@@ -553,7 +553,7 @@
   },
   {
     "FIPS":5045.0,
-    "Confirmed":106
+    "Confirmed":108
   },
   {
     "FIPS":5047.0,
@@ -577,11 +577,11 @@
   },
   {
     "FIPS":5057.0,
-    "Confirmed":20
+    "Confirmed":21
   },
   {
     "FIPS":5059.0,
-    "Confirmed":33
+    "Confirmed":34
   },
   {
     "FIPS":5061.0,
@@ -597,15 +597,15 @@
   },
   {
     "FIPS":5067.0,
-    "Confirmed":4
+    "Confirmed":5
   },
   {
     "FIPS":5069.0,
-    "Confirmed":532
+    "Confirmed":536
   },
   {
     "FIPS":5071.0,
-    "Confirmed":48
+    "Confirmed":54
   },
   {
     "FIPS":5073.0,
@@ -613,31 +613,31 @@
   },
   {
     "FIPS":5075.0,
-    "Confirmed":85
+    "Confirmed":87
   },
   {
     "FIPS":5077.0,
-    "Confirmed":24
+    "Confirmed":27
   },
   {
     "FIPS":5079.0,
-    "Confirmed":984
+    "Confirmed":985
   },
   {
     "FIPS":5081.0,
-    "Confirmed":9
-  },
-  {
-    "FIPS":5083.0,
     "Confirmed":10
   },
   {
+    "FIPS":5083.0,
+    "Confirmed":11
+  },
+  {
     "FIPS":5085.0,
-    "Confirmed":55
+    "Confirmed":56
   },
   {
     "FIPS":5087.0,
-    "Confirmed":30
+    "Confirmed":34
   },
   {
     "FIPS":5089.0,
@@ -645,11 +645,11 @@
   },
   {
     "FIPS":5091.0,
-    "Confirmed":49
+    "Confirmed":50
   },
   {
     "FIPS":5093.0,
-    "Confirmed":78
+    "Confirmed":79
   },
   {
     "FIPS":5095.0,
@@ -661,7 +661,7 @@
   },
   {
     "FIPS":5099.0,
-    "Confirmed":7
+    "Confirmed":9
   },
   {
     "FIPS":5101.0,
@@ -669,7 +669,7 @@
   },
   {
     "FIPS":5103.0,
-    "Confirmed":10
+    "Confirmed":11
   },
   {
     "FIPS":5105.0,
@@ -677,7 +677,7 @@
   },
   {
     "FIPS":5107.0,
-    "Confirmed":24
+    "Confirmed":25
   },
   {
     "FIPS":5109.0,
@@ -685,7 +685,7 @@
   },
   {
     "FIPS":5111.0,
-    "Confirmed":38
+    "Confirmed":40
   },
   {
     "FIPS":5113.0,
@@ -693,7 +693,7 @@
   },
   {
     "FIPS":5115.0,
-    "Confirmed":171
+    "Confirmed":178
   },
   {
     "FIPS":5117.0,
@@ -701,7 +701,7 @@
   },
   {
     "FIPS":5119.0,
-    "Confirmed":1003
+    "Confirmed":1039
   },
   {
     "FIPS":5121.0,
@@ -709,11 +709,11 @@
   },
   {
     "FIPS":5123.0,
-    "Confirmed":687
+    "Confirmed":691
   },
   {
     "FIPS":5125.0,
-    "Confirmed":121
+    "Confirmed":120
   },
   {
     "FIPS":5127.0,
@@ -725,11 +725,11 @@
   },
   {
     "FIPS":5131.0,
-    "Confirmed":53
+    "Confirmed":62
   },
   {
     "FIPS":5133.0,
-    "Confirmed":283
+    "Confirmed":297
   },
   {
     "FIPS":5135.0,
@@ -737,11 +737,11 @@
   },
   {
     "FIPS":5137.0,
-    "Confirmed":9
+    "Confirmed":10
   },
   {
     "FIPS":5139.0,
-    "Confirmed":177
+    "Confirmed":179
   },
   {
     "FIPS":5141.0,
@@ -749,7 +749,7 @@
   },
   {
     "FIPS":5143.0,
-    "Confirmed":652
+    "Confirmed":771
   },
   {
     "FIPS":5145.0,
@@ -761,11 +761,11 @@
   },
   {
     "FIPS":5149.0,
-    "Confirmed":183
+    "Confirmed":192
   },
   {
     "FIPS":6001.0,
-    "Confirmed":3548
+    "Confirmed":3641
   },
   {
     "FIPS":6003.0,
@@ -777,11 +777,11 @@
   },
   {
     "FIPS":6007.0,
-    "Confirmed":55
+    "Confirmed":60
   },
   {
     "FIPS":6009.0,
-    "Confirmed":15
+    "Confirmed":16
   },
   {
     "FIPS":6011.0,
@@ -789,7 +789,7 @@
   },
   {
     "FIPS":6013.0,
-    "Confirmed":1513
+    "Confirmed":1547
   },
   {
     "FIPS":6015.0,
@@ -797,11 +797,11 @@
   },
   {
     "FIPS":6017.0,
-    "Confirmed":96
+    "Confirmed":98
   },
   {
     "FIPS":6019.0,
-    "Confirmed":1914
+    "Confirmed":1944
   },
   {
     "FIPS":6021.0,
@@ -809,11 +809,11 @@
   },
   {
     "FIPS":6023.0,
-    "Confirmed":103
+    "Confirmed":104
   },
   {
     "FIPS":6025.0,
-    "Confirmed":2025
+    "Confirmed":2493
   },
   {
     "FIPS":6027.0,
@@ -821,11 +821,11 @@
   },
   {
     "FIPS":6029.0,
-    "Confirmed":2418
+    "Confirmed":2462
   },
   {
     "FIPS":6031.0,
-    "Confirmed":1168
+    "Confirmed":1187
   },
   {
     "FIPS":6033.0,
@@ -837,15 +837,15 @@
   },
   {
     "FIPS":6037.0,
-    "Confirmed":58261
+    "Confirmed":59692
   },
   {
     "FIPS":6039.0,
-    "Confirmed":117
+    "Confirmed":129
   },
   {
     "FIPS":6041.0,
-    "Confirmed":506
+    "Confirmed":525
   },
   {
     "FIPS":6043.0,
@@ -853,7 +853,7 @@
   },
   {
     "FIPS":6045.0,
-    "Confirmed":30
+    "Confirmed":33
   },
   {
     "FIPS":6047.0,
@@ -869,23 +869,23 @@
   },
   {
     "FIPS":6053.0,
-    "Confirmed":586
+    "Confirmed":621
   },
   {
     "FIPS":6055.0,
-    "Confirmed":124
+    "Confirmed":126
   },
   {
     "FIPS":6057.0,
-    "Confirmed":48
+    "Confirmed":49
   },
   {
     "FIPS":6059.0,
-    "Confirmed":6678
+    "Confirmed":6783
   },
   {
     "FIPS":6061.0,
-    "Confirmed":240
+    "Confirmed":259
   },
   {
     "FIPS":6063.0,
@@ -893,15 +893,15 @@
   },
   {
     "FIPS":6065.0,
-    "Confirmed":8155
+    "Confirmed":8303
   },
   {
     "FIPS":6067.0,
-    "Confirmed":1463
+    "Confirmed":1490
   },
   {
     "FIPS":6069.0,
-    "Confirmed":90
+    "Confirmed":96
   },
   {
     "FIPS":6071.0,
@@ -909,31 +909,31 @@
   },
   {
     "FIPS":6073.0,
-    "Confirmed":7674
+    "Confirmed":7798
   },
   {
     "FIPS":6075.0,
-    "Confirmed":2613
+    "Confirmed":2644
   },
   {
     "FIPS":6077.0,
-    "Confirmed":1080
+    "Confirmed":1024
   },
   {
     "FIPS":6079.0,
-    "Confirmed":279
+    "Confirmed":288
   },
   {
     "FIPS":6081.0,
-    "Confirmed":2212
+    "Confirmed":2244
   },
   {
     "FIPS":6083.0,
-    "Confirmed":1697
+    "Confirmed":1714
   },
   {
     "FIPS":6085.0,
-    "Confirmed":2832
+    "Confirmed":2850
   },
   {
     "FIPS":6087.0,
@@ -953,19 +953,19 @@
   },
   {
     "FIPS":6095.0,
-    "Confirmed":547
+    "Confirmed":559
   },
   {
     "FIPS":6097.0,
-    "Confirmed":579
+    "Confirmed":593
   },
   {
     "FIPS":6099.0,
-    "Confirmed":767
+    "Confirmed":792
   },
   {
     "FIPS":6101.0,
-    "Confirmed":46
+    "Confirmed":48
   },
   {
     "FIPS":6103.0,
@@ -977,19 +977,19 @@
   },
   {
     "FIPS":6107.0,
-    "Confirmed":2026
+    "Confirmed":2083
   },
   {
     "FIPS":6109.0,
-    "Confirmed":4
+    "Confirmed":5
   },
   {
     "FIPS":6111.0,
-    "Confirmed":1164
+    "Confirmed":1190
   },
   {
     "FIPS":6113.0,
-    "Confirmed":213
+    "Confirmed":216
   },
   {
     "FIPS":6115.0,
@@ -997,7 +997,7 @@
   },
   {
     "FIPS":8001.0,
-    "Confirmed":3379
+    "Confirmed":3458
   },
   {
     "FIPS":8003.0,
@@ -1005,7 +1005,7 @@
   },
   {
     "FIPS":8005.0,
-    "Confirmed":4496
+    "Confirmed":4553
   },
   {
     "FIPS":8007.0,
@@ -1021,11 +1021,11 @@
   },
   {
     "FIPS":8013.0,
-    "Confirmed":995
+    "Confirmed":1004
   },
   {
     "FIPS":8014.0,
-    "Confirmed":245
+    "Confirmed":251
   },
   {
     "FIPS":8015.0,
@@ -1041,7 +1041,7 @@
   },
   {
     "FIPS":8021.0,
-    "Confirmed":2
+    "Confirmed":3
   },
   {
     "FIPS":8023.0,
@@ -1061,7 +1061,7 @@
   },
   {
     "FIPS":8031.0,
-    "Confirmed":5917
+    "Confirmed":5977
   },
   {
     "FIPS":8033.0,
@@ -1069,7 +1069,7 @@
   },
   {
     "FIPS":8035.0,
-    "Confirmed":733
+    "Confirmed":746
   },
   {
     "FIPS":8037.0,
@@ -1081,7 +1081,7 @@
   },
   {
     "FIPS":8041.0,
-    "Confirmed":1778
+    "Confirmed":1788
   },
   {
     "FIPS":8043.0,
@@ -1089,7 +1089,7 @@
   },
   {
     "FIPS":8045.0,
-    "Confirmed":150
+    "Confirmed":157
   },
   {
     "FIPS":8047.0,
@@ -1117,7 +1117,7 @@
   },
   {
     "FIPS":8059.0,
-    "Confirmed":2294
+    "Confirmed":2310
   },
   {
     "FIPS":8061.0,
@@ -1125,11 +1125,11 @@
   },
   {
     "FIPS":8063.0,
-    "Confirmed":26
+    "Confirmed":30
   },
   {
     "FIPS":8065.0,
-    "Confirmed":32
+    "Confirmed":34
   },
   {
     "FIPS":8067.0,
@@ -1137,7 +1137,7 @@
   },
   {
     "FIPS":8069.0,
-    "Confirmed":606
+    "Confirmed":610
   },
   {
     "FIPS":8071.0,
@@ -1149,11 +1149,11 @@
   },
   {
     "FIPS":8075.0,
-    "Confirmed":621
+    "Confirmed":624
   },
   {
     "FIPS":8077.0,
-    "Confirmed":56
+    "Confirmed":59
   },
   {
     "FIPS":8079.0,
@@ -1169,15 +1169,15 @@
   },
   {
     "FIPS":8085.0,
-    "Confirmed":181
+    "Confirmed":182
   },
   {
     "FIPS":8087.0,
-    "Confirmed":635
+    "Confirmed":638
   },
   {
     "FIPS":8089.0,
-    "Confirmed":20
+    "Confirmed":21
   },
   {
     "FIPS":8091.0,
@@ -1201,7 +1201,7 @@
   },
   {
     "FIPS":8101.0,
-    "Confirmed":300
+    "Confirmed":302
   },
   {
     "FIPS":8103.0,
@@ -1209,7 +1209,7 @@
   },
   {
     "FIPS":8105.0,
-    "Confirmed":36
+    "Confirmed":38
   },
   {
     "FIPS":8107.0,
@@ -1217,7 +1217,7 @@
   },
   {
     "FIPS":8109.0,
-    "Confirmed":90
+    "Confirmed":89
   },
   {
     "FIPS":8111.0,
@@ -1233,7 +1233,7 @@
   },
   {
     "FIPS":8117.0,
-    "Confirmed":237
+    "Confirmed":239
   },
   {
     "FIPS":8119.0,
@@ -1241,67 +1241,67 @@
   },
   {
     "FIPS":8121.0,
-    "Confirmed":41
+    "Confirmed":42
   },
   {
     "FIPS":8123.0,
-    "Confirmed":2521
+    "Confirmed":2534
   },
   {
     "FIPS":8125.0,
-    "Confirmed":40
+    "Confirmed":42
   },
   {
     "FIPS":9001.0,
-    "Confirmed":15789
+    "Confirmed":15843
   },
   {
     "FIPS":9003.0,
-    "Confirmed":10593
+    "Confirmed":10636
   },
   {
     "FIPS":9005.0,
-    "Confirmed":1404
+    "Confirmed":1406
   },
   {
     "FIPS":9007.0,
-    "Confirmed":1161
+    "Confirmed":1171
   },
   {
     "FIPS":9009.0,
-    "Confirmed":11548
+    "Confirmed":11582
   },
   {
     "FIPS":9011.0,
-    "Confirmed":1100
+    "Confirmed":1104
   },
   {
     "FIPS":9013.0,
-    "Confirmed":856
+    "Confirmed":859
   },
   {
     "FIPS":9015.0,
-    "Confirmed":392
+    "Confirmed":397
   },
   {
     "FIPS":10001.0,
-    "Confirmed":1451
+    "Confirmed":1454
   },
   {
     "FIPS":10003.0,
-    "Confirmed":3903
+    "Confirmed":3925
   },
   {
     "FIPS":10005.0,
-    "Confirmed":4305
+    "Confirmed":4314
   },
   {
     "FIPS":11001.0,
-    "Confirmed":9016
+    "Confirmed":9120
   },
   {
     "FIPS":12001.0,
-    "Confirmed":383
+    "Confirmed":387
   },
   {
     "FIPS":12003.0,
@@ -1309,7 +1309,7 @@
   },
   {
     "FIPS":12005.0,
-    "Confirmed":105
+    "Confirmed":111
   },
   {
     "FIPS":12007.0,
@@ -1317,11 +1317,11 @@
   },
   {
     "FIPS":12009.0,
-    "Confirmed":428
+    "Confirmed":431
   },
   {
     "FIPS":12011.0,
-    "Confirmed":7339
+    "Confirmed":7462
   },
   {
     "FIPS":12013.0,
@@ -1329,7 +1329,7 @@
   },
   {
     "FIPS":12015.0,
-    "Confirmed":470
+    "Confirmed":476
   },
   {
     "FIPS":12017.0,
@@ -1337,35 +1337,35 @@
   },
   {
     "FIPS":12019.0,
-    "Confirmed":390
+    "Confirmed":394
   },
   {
     "FIPS":12021.0,
-    "Confirmed":1679
+    "Confirmed":1814
   },
   {
     "FIPS":12023.0,
-    "Confirmed":153
+    "Confirmed":160
   },
   {
     "FIPS":12027.0,
-    "Confirmed":205
+    "Confirmed":218
   },
   {
     "FIPS":12029.0,
-    "Confirmed":55
+    "Confirmed":56
   },
   {
     "FIPS":12031.0,
-    "Confirmed":1669
+    "Confirmed":1702
   },
   {
     "FIPS":12033.0,
-    "Confirmed":853
+    "Confirmed":866
   },
   {
     "FIPS":12035.0,
-    "Confirmed":191
+    "Confirmed":193
   },
   {
     "FIPS":12037.0,
@@ -1373,55 +1373,55 @@
   },
   {
     "FIPS":12039.0,
-    "Confirmed":285
+    "Confirmed":288
   },
   {
     "FIPS":12041.0,
-    "Confirmed":15
+    "Confirmed":17
   },
   {
     "FIPS":12043.0,
-    "Confirmed":64
+    "Confirmed":70
   },
   {
     "FIPS":12045.0,
-    "Confirmed":2
+    "Confirmed":3
   },
   {
     "FIPS":12047.0,
-    "Confirmed":250
+    "Confirmed":255
   },
   {
     "FIPS":12049.0,
-    "Confirmed":111
+    "Confirmed":118
   },
   {
     "FIPS":12051.0,
-    "Confirmed":476
+    "Confirmed":501
   },
   {
     "FIPS":12053.0,
-    "Confirmed":120
+    "Confirmed":122
   },
   {
     "FIPS":12055.0,
-    "Confirmed":134
+    "Confirmed":138
   },
   {
     "FIPS":12057.0,
-    "Confirmed":2384
+    "Confirmed":2479
   },
   {
     "FIPS":12059.0,
-    "Confirmed":24
+    "Confirmed":26
   },
   {
     "FIPS":12061.0,
-    "Confirmed":139
+    "Confirmed":144
   },
   {
     "FIPS":12063.0,
-    "Confirmed":269
+    "Confirmed":290
   },
   {
     "FIPS":12065.0,
@@ -1429,23 +1429,23 @@
   },
   {
     "FIPS":12067.0,
-    "Confirmed":8
+    "Confirmed":9
   },
   {
     "FIPS":12069.0,
-    "Confirmed":309
+    "Confirmed":313
   },
   {
     "FIPS":12071.0,
-    "Confirmed":2087
+    "Confirmed":2147
   },
   {
     "FIPS":12073.0,
-    "Confirmed":428
+    "Confirmed":432
   },
   {
     "FIPS":12075.0,
-    "Confirmed":35
+    "Confirmed":38
   },
   {
     "FIPS":12077.0,
@@ -1457,103 +1457,103 @@
   },
   {
     "FIPS":12081.0,
-    "Confirmed":1110
+    "Confirmed":1134
   },
   {
     "FIPS":12083.0,
-    "Confirmed":257
+    "Confirmed":261
   },
   {
     "FIPS":12085.0,
-    "Confirmed":729
+    "Confirmed":764
   },
   {
     "FIPS":12086.0,
-    "Confirmed":18456
+    "Confirmed":18779
   },
   {
     "FIPS":12087.0,
-    "Confirmed":109
+    "Confirmed":110
   },
   {
     "FIPS":12089.0,
-    "Confirmed":81
+    "Confirmed":82
   },
   {
     "FIPS":12091.0,
-    "Confirmed":236
+    "Confirmed":241
   },
   {
     "FIPS":12093.0,
-    "Confirmed":97
+    "Confirmed":104
   },
   {
     "FIPS":12095.0,
-    "Confirmed":2121
+    "Confirmed":2169
   },
   {
     "FIPS":12097.0,
-    "Confirmed":715
+    "Confirmed":726
   },
   {
     "FIPS":12099.0,
-    "Confirmed":6477
+    "Confirmed":6688
   },
   {
     "FIPS":12101.0,
-    "Confirmed":398
+    "Confirmed":405
   },
   {
     "FIPS":12103.0,
-    "Confirmed":1361
+    "Confirmed":1397
   },
   {
     "FIPS":12105.0,
-    "Confirmed":1074
+    "Confirmed":1100
   },
   {
     "FIPS":12107.0,
-    "Confirmed":154
+    "Confirmed":165
   },
   {
     "FIPS":12109.0,
-    "Confirmed":269
+    "Confirmed":267
   },
   {
     "FIPS":12111.0,
-    "Confirmed":508
+    "Confirmed":535
   },
   {
     "FIPS":12113.0,
-    "Confirmed":250
+    "Confirmed":255
   },
   {
     "FIPS":12115.0,
-    "Confirmed":649
+    "Confirmed":652
   },
   {
     "FIPS":12117.0,
-    "Confirmed":505
+    "Confirmed":512
   },
   {
     "FIPS":12119.0,
-    "Confirmed":258
+    "Confirmed":260
   },
   {
     "FIPS":12121.0,
-    "Confirmed":170
+    "Confirmed":172
   },
   {
     "FIPS":12123.0,
-    "Confirmed":24
+    "Confirmed":26
   },
   {
     "FIPS":12125.0,
-    "Confirmed":33
+    "Confirmed":34
   },
   {
     "FIPS":12127.0,
-    "Confirmed":771
+    "Confirmed":784
   },
   {
     "FIPS":12129.0,
@@ -1561,35 +1561,35 @@
   },
   {
     "FIPS":12131.0,
-    "Confirmed":118
+    "Confirmed":120
   },
   {
     "FIPS":12133.0,
-    "Confirmed":68
+    "Confirmed":74
   },
   {
     "FIPS":13001.0,
-    "Confirmed":170
+    "Confirmed":172
   },
   {
     "FIPS":13003.0,
-    "Confirmed":53
+    "Confirmed":54
   },
   {
     "FIPS":13005.0,
-    "Confirmed":136
+    "Confirmed":137
   },
   {
     "FIPS":13007.0,
-    "Confirmed":34
+    "Confirmed":35
   },
   {
     "FIPS":13009.0,
-    "Confirmed":352
+    "Confirmed":380
   },
   {
     "FIPS":13011.0,
-    "Confirmed":86
+    "Confirmed":87
   },
   {
     "FIPS":13013.0,
@@ -1597,19 +1597,19 @@
   },
   {
     "FIPS":13015.0,
-    "Confirmed":496
+    "Confirmed":504
   },
   {
     "FIPS":13017.0,
-    "Confirmed":81
+    "Confirmed":84
   },
   {
     "FIPS":13019.0,
-    "Confirmed":48
+    "Confirmed":51
   },
   {
     "FIPS":13021.0,
-    "Confirmed":481
+    "Confirmed":494
   },
   {
     "FIPS":13023.0,
@@ -1617,15 +1617,15 @@
   },
   {
     "FIPS":13025.0,
-    "Confirmed":59
+    "Confirmed":61
   },
   {
     "FIPS":13027.0,
-    "Confirmed":72
+    "Confirmed":76
   },
   {
     "FIPS":13029.0,
-    "Confirmed":77
+    "Confirmed":78
   },
   {
     "FIPS":13031.0,
@@ -1637,15 +1637,15 @@
   },
   {
     "FIPS":13035.0,
-    "Confirmed":237
+    "Confirmed":240
   },
   {
     "FIPS":13037.0,
-    "Confirmed":135
+    "Confirmed":136
   },
   {
     "FIPS":13039.0,
-    "Confirmed":66
+    "Confirmed":68
   },
   {
     "FIPS":13043.0,
@@ -1653,11 +1653,11 @@
   },
   {
     "FIPS":13045.0,
-    "Confirmed":535
+    "Confirmed":568
   },
   {
     "FIPS":13047.0,
-    "Confirmed":145
+    "Confirmed":146
   },
   {
     "FIPS":13049.0,
@@ -1665,11 +1665,11 @@
   },
   {
     "FIPS":13051.0,
-    "Confirmed":522
+    "Confirmed":525
   },
   {
     "FIPS":13053.0,
-    "Confirmed":160
+    "Confirmed":166
   },
   {
     "FIPS":13055.0,
@@ -1677,35 +1677,35 @@
   },
   {
     "FIPS":13057.0,
-    "Confirmed":923
+    "Confirmed":934
   },
   {
     "FIPS":13059.0,
-    "Confirmed":296
+    "Confirmed":299
   },
   {
     "FIPS":13061.0,
-    "Confirmed":41
+    "Confirmed":42
   },
   {
     "FIPS":13063.0,
-    "Confirmed":1260
+    "Confirmed":1282
   },
   {
     "FIPS":13065.0,
-    "Confirmed":59
+    "Confirmed":65
   },
   {
     "FIPS":13067.0,
-    "Confirmed":3097
+    "Confirmed":3165
   },
   {
     "FIPS":13069.0,
-    "Confirmed":285
+    "Confirmed":289
   },
   {
     "FIPS":13071.0,
-    "Confirmed":488
+    "Confirmed":523
   },
   {
     "FIPS":13073.0,
@@ -1713,11 +1713,11 @@
   },
   {
     "FIPS":13075.0,
-    "Confirmed":45
+    "Confirmed":47
   },
   {
     "FIPS":13077.0,
-    "Confirmed":432
+    "Confirmed":440
   },
   {
     "FIPS":13079.0,
@@ -1725,11 +1725,11 @@
   },
   {
     "FIPS":13081.0,
-    "Confirmed":237
+    "Confirmed":238
   },
   {
     "FIPS":13083.0,
-    "Confirmed":39
+    "Confirmed":40
   },
   {
     "FIPS":13085.0,
@@ -1741,7 +1741,7 @@
   },
   {
     "FIPS":13089.0,
-    "Confirmed":3874
+    "Confirmed":3939
   },
   {
     "FIPS":13091.0,
@@ -1749,15 +1749,15 @@
   },
   {
     "FIPS":13093.0,
-    "Confirmed":185
+    "Confirmed":186
   },
   {
     "FIPS":13095.0,
-    "Confirmed":1790
+    "Confirmed":1794
   },
   {
     "FIPS":13097.0,
-    "Confirmed":556
+    "Confirmed":571
   },
   {
     "FIPS":13099.0,
@@ -1765,15 +1765,15 @@
   },
   {
     "FIPS":13101.0,
-    "Confirmed":125
+    "Confirmed":130
   },
   {
     "FIPS":13103.0,
-    "Confirmed":75
+    "Confirmed":77
   },
   {
     "FIPS":13105.0,
-    "Confirmed":75
+    "Confirmed":76
   },
   {
     "FIPS":13107.0,
@@ -1781,35 +1781,35 @@
   },
   {
     "FIPS":13109.0,
-    "Confirmed":5
+    "Confirmed":6
   },
   {
     "FIPS":13111.0,
-    "Confirmed":49
+    "Confirmed":50
   },
   {
     "FIPS":13113.0,
-    "Confirmed":239
+    "Confirmed":241
   },
   {
     "FIPS":13115.0,
-    "Confirmed":281
+    "Confirmed":292
   },
   {
     "FIPS":13117.0,
-    "Confirmed":534
+    "Confirmed":535
   },
   {
     "FIPS":13119.0,
-    "Confirmed":105
+    "Confirmed":123
   },
   {
     "FIPS":13121.0,
-    "Confirmed":4688
+    "Confirmed":4724
   },
   {
     "FIPS":13123.0,
-    "Confirmed":157
+    "Confirmed":158
   },
   {
     "FIPS":13125.0,
@@ -1817,31 +1817,31 @@
   },
   {
     "FIPS":13127.0,
-    "Confirmed":135
+    "Confirmed":139
   },
   {
     "FIPS":13129.0,
-    "Confirmed":170
+    "Confirmed":181
   },
   {
     "FIPS":13131.0,
-    "Confirmed":117
+    "Confirmed":119
   },
   {
     "FIPS":13133.0,
-    "Confirmed":71
+    "Confirmed":73
   },
   {
     "FIPS":13135.0,
-    "Confirmed":4063
+    "Confirmed":4267
   },
   {
     "FIPS":13137.0,
-    "Confirmed":538
+    "Confirmed":545
   },
   {
     "FIPS":13139.0,
-    "Confirmed":2539
+    "Confirmed":2566
   },
   {
     "FIPS":13141.0,
@@ -1849,39 +1849,39 @@
   },
   {
     "FIPS":13143.0,
-    "Confirmed":49
+    "Confirmed":50
   },
   {
     "FIPS":13145.0,
-    "Confirmed":111
+    "Confirmed":120
   },
   {
     "FIPS":13147.0,
-    "Confirmed":34
+    "Confirmed":36
   },
   {
     "FIPS":13149.0,
-    "Confirmed":35
+    "Confirmed":37
   },
   {
     "FIPS":13151.0,
-    "Confirmed":716
+    "Confirmed":742
   },
   {
     "FIPS":13153.0,
-    "Confirmed":381
+    "Confirmed":390
   },
   {
     "FIPS":13155.0,
-    "Confirmed":31
+    "Confirmed":33
   },
   {
     "FIPS":13157.0,
-    "Confirmed":199
+    "Confirmed":210
   },
   {
     "FIPS":13159.0,
-    "Confirmed":40
+    "Confirmed":45
   },
   {
     "FIPS":13161.0,
@@ -1889,27 +1889,27 @@
   },
   {
     "FIPS":13163.0,
-    "Confirmed":46
+    "Confirmed":47
   },
   {
     "FIPS":13165.0,
-    "Confirmed":21
+    "Confirmed":22
   },
   {
     "FIPS":13167.0,
-    "Confirmed":82
+    "Confirmed":83
   },
   {
     "FIPS":13169.0,
-    "Confirmed":44
+    "Confirmed":48
   },
   {
     "FIPS":13171.0,
-    "Confirmed":73
+    "Confirmed":75
   },
   {
     "FIPS":13173.0,
-    "Confirmed":24
+    "Confirmed":27
   },
   {
     "FIPS":13175.0,
@@ -1921,7 +1921,7 @@
   },
   {
     "FIPS":13179.0,
-    "Confirmed":83
+    "Confirmed":85
   },
   {
     "FIPS":13181.0,
@@ -1933,7 +1933,7 @@
   },
   {
     "FIPS":13185.0,
-    "Confirmed":326
+    "Confirmed":356
   },
   {
     "FIPS":13187.0,
@@ -1941,7 +1941,7 @@
   },
   {
     "FIPS":13189.0,
-    "Confirmed":69
+    "Confirmed":70
   },
   {
     "FIPS":13191.0,
@@ -1953,7 +1953,7 @@
   },
   {
     "FIPS":13195.0,
-    "Confirmed":59
+    "Confirmed":61
   },
   {
     "FIPS":13197.0,
@@ -1961,7 +1961,7 @@
   },
   {
     "FIPS":13199.0,
-    "Confirmed":95
+    "Confirmed":99
   },
   {
     "FIPS":13201.0,
@@ -1969,7 +1969,7 @@
   },
   {
     "FIPS":13205.0,
-    "Confirmed":415
+    "Confirmed":416
   },
   {
     "FIPS":13207.0,
@@ -1985,19 +1985,19 @@
   },
   {
     "FIPS":13213.0,
-    "Confirmed":99
+    "Confirmed":100
   },
   {
     "FIPS":13215.0,
-    "Confirmed":673
+    "Confirmed":697
   },
   {
     "FIPS":13217.0,
-    "Confirmed":376
+    "Confirmed":382
   },
   {
     "FIPS":13219.0,
-    "Confirmed":119
+    "Confirmed":120
   },
   {
     "FIPS":13221.0,
@@ -2005,7 +2005,7 @@
   },
   {
     "FIPS":13223.0,
-    "Confirmed":334
+    "Confirmed":340
   },
   {
     "FIPS":13225.0,
@@ -2017,15 +2017,15 @@
   },
   {
     "FIPS":13229.0,
-    "Confirmed":105
+    "Confirmed":109
   },
   {
     "FIPS":13231.0,
-    "Confirmed":56
+    "Confirmed":57
   },
   {
     "FIPS":13233.0,
-    "Confirmed":131
+    "Confirmed":138
   },
   {
     "FIPS":13235.0,
@@ -2033,7 +2033,7 @@
   },
   {
     "FIPS":13237.0,
-    "Confirmed":95
+    "Confirmed":97
   },
   {
     "FIPS":13239.0,
@@ -2045,23 +2045,23 @@
   },
   {
     "FIPS":13243.0,
-    "Confirmed":179
+    "Confirmed":181
   },
   {
     "FIPS":13245.0,
-    "Confirmed":606
+    "Confirmed":609
   },
   {
     "FIPS":13247.0,
-    "Confirmed":297
+    "Confirmed":302
   },
   {
     "FIPS":13249.0,
-    "Confirmed":16
+    "Confirmed":17
   },
   {
     "FIPS":13251.0,
-    "Confirmed":55
+    "Confirmed":56
   },
   {
     "FIPS":13253.0,
@@ -2069,7 +2069,7 @@
   },
   {
     "FIPS":13255.0,
-    "Confirmed":280
+    "Confirmed":281
   },
   {
     "FIPS":13257.0,
@@ -2077,7 +2077,7 @@
   },
   {
     "FIPS":13259.0,
-    "Confirmed":53
+    "Confirmed":54
   },
   {
     "FIPS":13261.0,
@@ -2101,27 +2101,27 @@
   },
   {
     "FIPS":13271.0,
-    "Confirmed":37
+    "Confirmed":38
   },
   {
     "FIPS":13273.0,
-    "Confirmed":215
+    "Confirmed":217
   },
   {
     "FIPS":13275.0,
-    "Confirmed":346
+    "Confirmed":349
   },
   {
     "FIPS":13277.0,
-    "Confirmed":271
+    "Confirmed":277
   },
   {
     "FIPS":13279.0,
-    "Confirmed":58
+    "Confirmed":60
   },
   {
     "FIPS":13281.0,
-    "Confirmed":26
+    "Confirmed":27
   },
   {
     "FIPS":13283.0,
@@ -2129,7 +2129,7 @@
   },
   {
     "FIPS":13285.0,
-    "Confirmed":345
+    "Confirmed":363
   },
   {
     "FIPS":13287.0,
@@ -2149,15 +2149,15 @@
   },
   {
     "FIPS":13295.0,
-    "Confirmed":171
+    "Confirmed":178
   },
   {
     "FIPS":13297.0,
-    "Confirmed":273
+    "Confirmed":288
   },
   {
     "FIPS":13299.0,
-    "Confirmed":234
+    "Confirmed":238
   },
   {
     "FIPS":13301.0,
@@ -2181,11 +2181,11 @@
   },
   {
     "FIPS":13311.0,
-    "Confirmed":105
+    "Confirmed":110
   },
   {
     "FIPS":13313.0,
-    "Confirmed":408
+    "Confirmed":427
   },
   {
     "FIPS":13315.0,
@@ -2197,11 +2197,11 @@
   },
   {
     "FIPS":13319.0,
-    "Confirmed":69
+    "Confirmed":70
   },
   {
     "FIPS":13321.0,
-    "Confirmed":226
+    "Confirmed":228
   },
   {
     "FIPS":15001.0,
@@ -2209,7 +2209,7 @@
   },
   {
     "FIPS":15003.0,
-    "Confirmed":423
+    "Confirmed":424
   },
   {
     "FIPS":15005.0,
@@ -2225,7 +2225,7 @@
   },
   {
     "FIPS":16001.0,
-    "Confirmed":818
+    "Confirmed":823
   },
   {
     "FIPS":16003.0,
@@ -2233,7 +2233,7 @@
   },
   {
     "FIPS":16005.0,
-    "Confirmed":34
+    "Confirmed":37
   },
   {
     "FIPS":16007.0,
@@ -2241,15 +2241,15 @@
   },
   {
     "FIPS":16009.0,
-    "Confirmed":12
+    "Confirmed":14
   },
   {
     "FIPS":16011.0,
-    "Confirmed":8
+    "Confirmed":11
   },
   {
     "FIPS":16013.0,
-    "Confirmed":512
+    "Confirmed":514
   },
   {
     "FIPS":16015.0,
@@ -2261,7 +2261,7 @@
   },
   {
     "FIPS":16019.0,
-    "Confirmed":51
+    "Confirmed":56
   },
   {
     "FIPS":16021.0,
@@ -2277,15 +2277,15 @@
   },
   {
     "FIPS":16027.0,
-    "Confirmed":310
+    "Confirmed":315
   },
   {
     "FIPS":16029.0,
-    "Confirmed":1
+    "Confirmed":3
   },
   {
     "FIPS":16031.0,
-    "Confirmed":85
+    "Confirmed":89
   },
   {
     "FIPS":16033.0,
@@ -2301,7 +2301,7 @@
   },
   {
     "FIPS":16039.0,
-    "Confirmed":31
+    "Confirmed":32
   },
   {
     "FIPS":16041.0,
@@ -2309,7 +2309,7 @@
   },
   {
     "FIPS":16043.0,
-    "Confirmed":3
+    "Confirmed":4
   },
   {
     "FIPS":16045.0,
@@ -2317,7 +2317,7 @@
   },
   {
     "FIPS":16047.0,
-    "Confirmed":49
+    "Confirmed":50
   },
   {
     "FIPS":16049.0,
@@ -2325,15 +2325,15 @@
   },
   {
     "FIPS":16051.0,
-    "Confirmed":7
+    "Confirmed":9
   },
   {
     "FIPS":16053.0,
-    "Confirmed":175
+    "Confirmed":180
   },
   {
     "FIPS":16055.0,
-    "Confirmed":73
+    "Confirmed":74
   },
   {
     "FIPS":16057.0,
@@ -2353,15 +2353,15 @@
   },
   {
     "FIPS":16065.0,
-    "Confirmed":21
+    "Confirmed":25
   },
   {
     "FIPS":16067.0,
-    "Confirmed":58
+    "Confirmed":61
   },
   {
     "FIPS":16069.0,
-    "Confirmed":82
+    "Confirmed":83
   },
   {
     "FIPS":16071.0,
@@ -2373,7 +2373,7 @@
   },
   {
     "FIPS":16075.0,
-    "Confirmed":23
+    "Confirmed":25
   },
   {
     "FIPS":16077.0,
@@ -2389,7 +2389,7 @@
   },
   {
     "FIPS":16083.0,
-    "Confirmed":428
+    "Confirmed":432
   },
   {
     "FIPS":16085.0,
@@ -2397,7 +2397,7 @@
   },
   {
     "FIPS":16087.0,
-    "Confirmed":43
+    "Confirmed":44
   },
   {
     "FIPS":17001.0,
@@ -2413,7 +2413,7 @@
   },
   {
     "FIPS":17007.0,
-    "Confirmed":481
+    "Confirmed":488
   },
   {
     "FIPS":17009.0,
@@ -2437,7 +2437,7 @@
   },
   {
     "FIPS":17019.0,
-    "Confirmed":661
+    "Confirmed":671
   },
   {
     "FIPS":17021.0,
@@ -2453,19 +2453,19 @@
   },
   {
     "FIPS":17027.0,
-    "Confirmed":188
+    "Confirmed":189
   },
   {
     "FIPS":17029.0,
-    "Confirmed":128
+    "Confirmed":129
   },
   {
     "FIPS":17031.0,
-    "Confirmed":80204
+    "Confirmed":80713
   },
   {
     "FIPS":17033.0,
-    "Confirmed":12
+    "Confirmed":11
   },
   {
     "FIPS":17035.0,
@@ -2473,7 +2473,7 @@
   },
   {
     "FIPS":17037.0,
-    "Confirmed":435
+    "Confirmed":443
   },
   {
     "FIPS":17039.0,
@@ -2485,7 +2485,7 @@
   },
   {
     "FIPS":17043.0,
-    "Confirmed":7891
+    "Confirmed":7939
   },
   {
     "FIPS":17045.0,
@@ -2525,7 +2525,7 @@
   },
   {
     "FIPS":17063.0,
-    "Confirmed":104
+    "Confirmed":107
   },
   {
     "FIPS":17065.0,
@@ -2553,7 +2553,7 @@
   },
   {
     "FIPS":17077.0,
-    "Confirmed":293
+    "Confirmed":296
   },
   {
     "FIPS":17079.0,
@@ -2573,31 +2573,31 @@
   },
   {
     "FIPS":17087.0,
-    "Confirmed":10
+    "Confirmed":11
   },
   {
     "FIPS":17089.0,
-    "Confirmed":6518
+    "Confirmed":6581
   },
   {
     "FIPS":17091.0,
-    "Confirmed":959
+    "Confirmed":975
   },
   {
     "FIPS":17093.0,
-    "Confirmed":825
+    "Confirmed":833
   },
   {
     "FIPS":17095.0,
-    "Confirmed":101
+    "Confirmed":102
   },
   {
     "FIPS":17097.0,
-    "Confirmed":8511
+    "Confirmed":8584
   },
   {
     "FIPS":17099.0,
-    "Confirmed":157
+    "Confirmed":159
   },
   {
     "FIPS":17101.0,
@@ -2617,11 +2617,11 @@
   },
   {
     "FIPS":17109.0,
-    "Confirmed":94
+    "Confirmed":93
   },
   {
     "FIPS":17111.0,
-    "Confirmed":1628
+    "Confirmed":1660
   },
   {
     "FIPS":17113.0,
@@ -2629,7 +2629,7 @@
   },
   {
     "FIPS":17115.0,
-    "Confirmed":195
+    "Confirmed":199
   },
   {
     "FIPS":17117.0,
@@ -2637,7 +2637,7 @@
   },
   {
     "FIPS":17119.0,
-    "Confirmed":600
+    "Confirmed":612
   },
   {
     "FIPS":17121.0,
@@ -2661,19 +2661,19 @@
   },
   {
     "FIPS":17131.0,
-    "Confirmed":17
+    "Confirmed":18
   },
   {
     "FIPS":17133.0,
-    "Confirmed":97
+    "Confirmed":98
   },
   {
     "FIPS":17135.0,
-    "Confirmed":40
+    "Confirmed":41
   },
   {
     "FIPS":17137.0,
-    "Confirmed":39
+    "Confirmed":42
   },
   {
     "FIPS":17139.0,
@@ -2681,11 +2681,11 @@
   },
   {
     "FIPS":17141.0,
-    "Confirmed":214
+    "Confirmed":223
   },
   {
     "FIPS":17143.0,
-    "Confirmed":273
+    "Confirmed":286
   },
   {
     "FIPS":17145.0,
@@ -2705,7 +2705,7 @@
   },
   {
     "FIPS":17153.0,
-    "Confirmed":56
+    "Confirmed":57
   },
   {
     "FIPS":17155.0,
@@ -2713,19 +2713,19 @@
   },
   {
     "FIPS":17157.0,
-    "Confirmed":271
+    "Confirmed":273
   },
   {
     "FIPS":17159.0,
-    "Confirmed":3
+    "Confirmed":4
   },
   {
     "FIPS":17161.0,
-    "Confirmed":691
+    "Confirmed":694
   },
   {
     "FIPS":17163.0,
-    "Confirmed":1210
+    "Confirmed":1227
   },
   {
     "FIPS":17165.0,
@@ -2733,7 +2733,7 @@
   },
   {
     "FIPS":17167.0,
-    "Confirmed":353
+    "Confirmed":359
   },
   {
     "FIPS":17169.0,
@@ -2753,7 +2753,7 @@
   },
   {
     "FIPS":17177.0,
-    "Confirmed":210
+    "Confirmed":209
   },
   {
     "FIPS":17179.0,
@@ -2761,19 +2761,19 @@
   },
   {
     "FIPS":17181.0,
-    "Confirmed":168
+    "Confirmed":171
   },
   {
     "FIPS":17183.0,
-    "Confirmed":40
+    "Confirmed":41
   },
   {
     "FIPS":17185.0,
-    "Confirmed":5
+    "Confirmed":6
   },
   {
     "FIPS":17187.0,
-    "Confirmed":118
+    "Confirmed":120
   },
   {
     "FIPS":17189.0,
@@ -2789,19 +2789,19 @@
   },
   {
     "FIPS":17195.0,
-    "Confirmed":144
+    "Confirmed":147
   },
   {
     "FIPS":17197.0,
-    "Confirmed":5704
+    "Confirmed":5742
   },
   {
     "FIPS":17199.0,
-    "Confirmed":71
+    "Confirmed":74
   },
   {
     "FIPS":17201.0,
-    "Confirmed":2354
+    "Confirmed":2397
   },
   {
     "FIPS":17203.0,
@@ -2809,15 +2809,15 @@
   },
   {
     "FIPS":18001.0,
-    "Confirmed":20
+    "Confirmed":21
   },
   {
     "FIPS":18003.0,
-    "Confirmed":1743
+    "Confirmed":1753
   },
   {
     "FIPS":18005.0,
-    "Confirmed":522
+    "Confirmed":527
   },
   {
     "FIPS":18007.0,
@@ -2829,7 +2829,7 @@
   },
   {
     "FIPS":18011.0,
-    "Confirmed":318
+    "Confirmed":324
   },
   {
     "FIPS":18013.0,
@@ -2837,7 +2837,7 @@
   },
   {
     "FIPS":18015.0,
-    "Confirmed":93
+    "Confirmed":94
   },
   {
     "FIPS":18017.0,
@@ -2845,15 +2845,15 @@
   },
   {
     "FIPS":18019.0,
-    "Confirmed":528
+    "Confirmed":530
   },
   {
     "FIPS":18021.0,
-    "Confirmed":52
+    "Confirmed":53
   },
   {
     "FIPS":18023.0,
-    "Confirmed":240
+    "Confirmed":246
   },
   {
     "FIPS":18025.0,
@@ -2861,7 +2861,7 @@
   },
   {
     "FIPS":18027.0,
-    "Confirmed":95
+    "Confirmed":99
   },
   {
     "FIPS":18029.0,
@@ -2869,23 +2869,23 @@
   },
   {
     "FIPS":18031.0,
-    "Confirmed":230
+    "Confirmed":231
   },
   {
     "FIPS":18033.0,
-    "Confirmed":43
+    "Confirmed":44
   },
   {
     "FIPS":18035.0,
-    "Confirmed":387
+    "Confirmed":389
   },
   {
     "FIPS":18037.0,
-    "Confirmed":205
+    "Confirmed":209
   },
   {
     "FIPS":18039.0,
-    "Confirmed":1435
+    "Confirmed":1495
   },
   {
     "FIPS":18041.0,
@@ -2893,7 +2893,7 @@
   },
   {
     "FIPS":18043.0,
-    "Confirmed":321
+    "Confirmed":323
   },
   {
     "FIPS":18045.0,
@@ -2901,7 +2901,7 @@
   },
   {
     "FIPS":18047.0,
-    "Confirmed":115
+    "Confirmed":116
   },
   {
     "FIPS":18049.0,
@@ -2909,31 +2909,31 @@
   },
   {
     "FIPS":18051.0,
-    "Confirmed":18
+    "Confirmed":19
   },
   {
     "FIPS":18053.0,
-    "Confirmed":221
+    "Confirmed":225
   },
   {
     "FIPS":18055.0,
-    "Confirmed":171
+    "Confirmed":172
   },
   {
     "FIPS":18057.0,
-    "Confirmed":1180
+    "Confirmed":1183
   },
   {
     "FIPS":18059.0,
-    "Confirmed":349
+    "Confirmed":351
   },
   {
     "FIPS":18061.0,
-    "Confirmed":196
+    "Confirmed":195
   },
   {
     "FIPS":18063.0,
-    "Confirmed":1180
+    "Confirmed":1192
   },
   {
     "FIPS":18065.0,
@@ -2941,35 +2941,35 @@
   },
   {
     "FIPS":18067.0,
-    "Confirmed":437
+    "Confirmed":440
   },
   {
     "FIPS":18069.0,
-    "Confirmed":34
+    "Confirmed":38
   },
   {
     "FIPS":18071.0,
-    "Confirmed":394
+    "Confirmed":399
   },
   {
     "FIPS":18073.0,
-    "Confirmed":70
+    "Confirmed":73
   },
   {
     "FIPS":18075.0,
-    "Confirmed":53
+    "Confirmed":54
   },
   {
     "FIPS":18077.0,
-    "Confirmed":47
+    "Confirmed":49
   },
   {
     "FIPS":18079.0,
-    "Confirmed":131
+    "Confirmed":132
   },
   {
     "FIPS":18081.0,
-    "Confirmed":1120
+    "Confirmed":1121
   },
   {
     "FIPS":18083.0,
@@ -2977,43 +2977,43 @@
   },
   {
     "FIPS":18085.0,
-    "Confirmed":166
+    "Confirmed":179
   },
   {
     "FIPS":18087.0,
-    "Confirmed":102
+    "Confirmed":116
   },
   {
     "FIPS":18089.0,
-    "Confirmed":3806
+    "Confirmed":3833
   },
   {
     "FIPS":18091.0,
-    "Confirmed":436
+    "Confirmed":446
   },
   {
     "FIPS":18093.0,
-    "Confirmed":165
+    "Confirmed":167
   },
   {
     "FIPS":18095.0,
-    "Confirmed":597
+    "Confirmed":599
   },
   {
     "FIPS":18097.0,
-    "Confirmed":10037
+    "Confirmed":10095
   },
   {
     "FIPS":18099.0,
-    "Confirmed":147
+    "Confirmed":178
   },
   {
     "FIPS":18101.0,
-    "Confirmed":12
+    "Confirmed":13
   },
   {
     "FIPS":18103.0,
-    "Confirmed":141
+    "Confirmed":144
   },
   {
     "FIPS":18105.0,
@@ -3021,11 +3021,11 @@
   },
   {
     "FIPS":18107.0,
-    "Confirmed":244
+    "Confirmed":248
   },
   {
     "FIPS":18109.0,
-    "Confirmed":283
+    "Confirmed":284
   },
   {
     "FIPS":18111.0,
@@ -3033,7 +3033,7 @@
   },
   {
     "FIPS":18113.0,
-    "Confirmed":251
+    "Confirmed":268
   },
   {
     "FIPS":18115.0,
@@ -3053,7 +3053,7 @@
   },
   {
     "FIPS":18123.0,
-    "Confirmed":34
+    "Confirmed":39
   },
   {
     "FIPS":18125.0,
@@ -3061,7 +3061,7 @@
   },
   {
     "FIPS":18127.0,
-    "Confirmed":553
+    "Confirmed":558
   },
   {
     "FIPS":18129.0,
@@ -3069,15 +3069,15 @@
   },
   {
     "FIPS":18131.0,
-    "Confirmed":49
+    "Confirmed":50
   },
   {
     "FIPS":18133.0,
-    "Confirmed":137
+    "Confirmed":142
   },
   {
     "FIPS":18135.0,
-    "Confirmed":50
+    "Confirmed":52
   },
   {
     "FIPS":18137.0,
@@ -3085,19 +3085,19 @@
   },
   {
     "FIPS":18139.0,
-    "Confirmed":50
+    "Confirmed":51
   },
   {
     "FIPS":18141.0,
-    "Confirmed":1320
+    "Confirmed":1337
   },
   {
     "FIPS":18143.0,
-    "Confirmed":122
+    "Confirmed":126
   },
   {
     "FIPS":18145.0,
-    "Confirmed":398
+    "Confirmed":397
   },
   {
     "FIPS":18147.0,
@@ -3109,7 +3109,7 @@
   },
   {
     "FIPS":18151.0,
-    "Confirmed":87
+    "Confirmed":88
   },
   {
     "FIPS":18153.0,
@@ -3121,7 +3121,7 @@
   },
   {
     "FIPS":18157.0,
-    "Confirmed":421
+    "Confirmed":429
   },
   {
     "FIPS":18159.0,
@@ -3133,7 +3133,7 @@
   },
   {
     "FIPS":18163.0,
-    "Confirmed":290
+    "Confirmed":289
   },
   {
     "FIPS":18165.0,
@@ -3141,7 +3141,7 @@
   },
   {
     "FIPS":18167.0,
-    "Confirmed":175
+    "Confirmed":178
   },
   {
     "FIPS":18169.0,
@@ -3157,7 +3157,7 @@
   },
   {
     "FIPS":18175.0,
-    "Confirmed":51
+    "Confirmed":50
   },
   {
     "FIPS":18177.0,
@@ -3165,7 +3165,7 @@
   },
   {
     "FIPS":18179.0,
-    "Confirmed":32
+    "Confirmed":34
   },
   {
     "FIPS":18181.0,
@@ -3173,7 +3173,7 @@
   },
   {
     "FIPS":18183.0,
-    "Confirmed":44
+    "Confirmed":45
   },
   {
     "FIPS":19001.0,
@@ -3189,7 +3189,7 @@
   },
   {
     "FIPS":19007.0,
-    "Confirmed":14
+    "Confirmed":17
   },
   {
     "FIPS":19009.0,
@@ -3197,19 +3197,19 @@
   },
   {
     "FIPS":19011.0,
-    "Confirmed":44
+    "Confirmed":43
   },
   {
     "FIPS":19013.0,
-    "Confirmed":1759
+    "Confirmed":1775
   },
   {
     "FIPS":19015.0,
-    "Confirmed":67
+    "Confirmed":70
   },
   {
     "FIPS":19017.0,
-    "Confirmed":69
+    "Confirmed":70
   },
   {
     "FIPS":19019.0,
@@ -3217,15 +3217,15 @@
   },
   {
     "FIPS":19021.0,
-    "Confirmed":918
+    "Confirmed":997
   },
   {
     "FIPS":19023.0,
-    "Confirmed":17
+    "Confirmed":16
   },
   {
     "FIPS":19025.0,
-    "Confirmed":4
+    "Confirmed":6
   },
   {
     "FIPS":19027.0,
@@ -3241,23 +3241,23 @@
   },
   {
     "FIPS":19033.0,
-    "Confirmed":30
+    "Confirmed":33
   },
   {
     "FIPS":19035.0,
-    "Confirmed":36
+    "Confirmed":37
   },
   {
     "FIPS":19037.0,
-    "Confirmed":12
+    "Confirmed":13
   },
   {
     "FIPS":19039.0,
-    "Confirmed":64
+    "Confirmed":66
   },
   {
     "FIPS":19041.0,
-    "Confirmed":21
+    "Confirmed":25
   },
   {
     "FIPS":19043.0,
@@ -3269,15 +3269,15 @@
   },
   {
     "FIPS":19047.0,
-    "Confirmed":542
+    "Confirmed":547
   },
   {
     "FIPS":19049.0,
-    "Confirmed":929
+    "Confirmed":940
   },
   {
     "FIPS":19051.0,
-    "Confirmed":27
+    "Confirmed":28
   },
   {
     "FIPS":19053.0,
@@ -3289,23 +3289,23 @@
   },
   {
     "FIPS":19057.0,
-    "Confirmed":66
+    "Confirmed":67
   },
   {
     "FIPS":19059.0,
-    "Confirmed":27
+    "Confirmed":33
   },
   {
     "FIPS":19061.0,
-    "Confirmed":351
+    "Confirmed":355
   },
   {
     "FIPS":19063.0,
-    "Confirmed":19
+    "Confirmed":24
   },
   {
     "FIPS":19065.0,
-    "Confirmed":27
+    "Confirmed":28
   },
   {
     "FIPS":19067.0,
@@ -3313,7 +3313,7 @@
   },
   {
     "FIPS":19069.0,
-    "Confirmed":15
+    "Confirmed":17
   },
   {
     "FIPS":19071.0,
@@ -3321,7 +3321,7 @@
   },
   {
     "FIPS":19073.0,
-    "Confirmed":13
+    "Confirmed":15
   },
   {
     "FIPS":19075.0,
@@ -3329,11 +3329,11 @@
   },
   {
     "FIPS":19077.0,
-    "Confirmed":53
+    "Confirmed":54
   },
   {
     "FIPS":19079.0,
-    "Confirmed":45
+    "Confirmed":61
   },
   {
     "FIPS":19081.0,
@@ -3341,7 +3341,7 @@
   },
   {
     "FIPS":19083.0,
-    "Confirmed":19
+    "Confirmed":21
   },
   {
     "FIPS":19085.0,
@@ -3357,11 +3357,11 @@
   },
   {
     "FIPS":19091.0,
-    "Confirmed":18
+    "Confirmed":19
   },
   {
     "FIPS":19093.0,
-    "Confirmed":14
+    "Confirmed":15
   },
   {
     "FIPS":19095.0,
@@ -3373,15 +3373,15 @@
   },
   {
     "FIPS":19099.0,
-    "Confirmed":263
+    "Confirmed":269
   },
   {
     "FIPS":19101.0,
-    "Confirmed":33
+    "Confirmed":35
   },
   {
     "FIPS":19103.0,
-    "Confirmed":616
+    "Confirmed":618
   },
   {
     "FIPS":19105.0,
@@ -3393,27 +3393,27 @@
   },
   {
     "FIPS":19109.0,
-    "Confirmed":13
+    "Confirmed":14
   },
   {
     "FIPS":19111.0,
-    "Confirmed":28
+    "Confirmed":29
   },
   {
     "FIPS":19113.0,
-    "Confirmed":967
+    "Confirmed":971
   },
   {
     "FIPS":19115.0,
-    "Confirmed":346
+    "Confirmed":349
   },
   {
     "FIPS":19117.0,
-    "Confirmed":19
+    "Confirmed":22
   },
   {
     "FIPS":19119.0,
-    "Confirmed":25
+    "Confirmed":24
   },
   {
     "FIPS":19121.0,
@@ -3421,15 +3421,15 @@
   },
   {
     "FIPS":19123.0,
-    "Confirmed":97
+    "Confirmed":99
   },
   {
     "FIPS":19125.0,
-    "Confirmed":34
+    "Confirmed":35
   },
   {
     "FIPS":19127.0,
-    "Confirmed":901
+    "Confirmed":912
   },
   {
     "FIPS":19129.0,
@@ -3445,19 +3445,19 @@
   },
   {
     "FIPS":19135.0,
-    "Confirmed":38
+    "Confirmed":41
   },
   {
     "FIPS":19137.0,
-    "Confirmed":8
+    "Confirmed":9
   },
   {
     "FIPS":19139.0,
-    "Confirmed":563
+    "Confirmed":565
   },
   {
     "FIPS":19141.0,
-    "Confirmed":36
+    "Confirmed":39
   },
   {
     "FIPS":19143.0,
@@ -3473,23 +3473,23 @@
   },
   {
     "FIPS":19149.0,
-    "Confirmed":139
+    "Confirmed":146
   },
   {
     "FIPS":19151.0,
-    "Confirmed":14
+    "Confirmed":15
   },
   {
     "FIPS":19153.0,
-    "Confirmed":4406
+    "Confirmed":4541
   },
   {
     "FIPS":19155.0,
-    "Confirmed":296
+    "Confirmed":311
   },
   {
     "FIPS":19157.0,
-    "Confirmed":91
+    "Confirmed":92
   },
   {
     "FIPS":19159.0,
@@ -3497,11 +3497,11 @@
   },
   {
     "FIPS":19161.0,
-    "Confirmed":25
+    "Confirmed":28
   },
   {
     "FIPS":19163.0,
-    "Confirmed":368
+    "Confirmed":380
   },
   {
     "FIPS":19165.0,
@@ -3509,19 +3509,19 @@
   },
   {
     "FIPS":19167.0,
-    "Confirmed":290
+    "Confirmed":298
   },
   {
     "FIPS":19169.0,
-    "Confirmed":118
+    "Confirmed":126
   },
   {
     "FIPS":19171.0,
-    "Confirmed":408
+    "Confirmed":410
   },
   {
     "FIPS":19173.0,
-    "Confirmed":59
+    "Confirmed":64
   },
   {
     "FIPS":19175.0,
@@ -3533,15 +3533,15 @@
   },
   {
     "FIPS":19179.0,
-    "Confirmed":607
+    "Confirmed":628
   },
   {
     "FIPS":19181.0,
-    "Confirmed":153
+    "Confirmed":166
   },
   {
     "FIPS":19183.0,
-    "Confirmed":192
+    "Confirmed":195
   },
   {
     "FIPS":19185.0,
@@ -3549,7 +3549,7 @@
   },
   {
     "FIPS":19187.0,
-    "Confirmed":44
+    "Confirmed":62
   },
   {
     "FIPS":19189.0,
@@ -3561,7 +3561,7 @@
   },
   {
     "FIPS":19193.0,
-    "Confirmed":2817
+    "Confirmed":2837
   },
   {
     "FIPS":19195.0,
@@ -3569,7 +3569,7 @@
   },
   {
     "FIPS":19197.0,
-    "Confirmed":194
+    "Confirmed":212
   },
   {
     "FIPS":20001.0,
@@ -3593,7 +3593,7 @@
   },
   {
     "FIPS":20011.0,
-    "Confirmed":7
+    "Confirmed":8
   },
   {
     "FIPS":20013.0,
@@ -3633,7 +3633,7 @@
   },
   {
     "FIPS":20031.0,
-    "Confirmed":50
+    "Confirmed":51
   },
   {
     "FIPS":20033.0,
@@ -3681,7 +3681,7 @@
   },
   {
     "FIPS":20055.0,
-    "Confirmed":1518
+    "Confirmed":1522
   },
   {
     "FIPS":20057.0,
@@ -3753,7 +3753,7 @@
   },
   {
     "FIPS":20091.0,
-    "Confirmed":865
+    "Confirmed":887
   },
   {
     "FIPS":20093.0,
@@ -3777,7 +3777,7 @@
   },
   {
     "FIPS":20103.0,
-    "Confirmed":1094
+    "Confirmed":1099
   },
   {
     "FIPS":20105.0,
@@ -3881,7 +3881,7 @@
   },
   {
     "FIPS":20155.0,
-    "Confirmed":43
+    "Confirmed":44
   },
   {
     "FIPS":20157.0,
@@ -3917,15 +3917,15 @@
   },
   {
     "FIPS":20173.0,
-    "Confirmed":616
+    "Confirmed":625
   },
   {
     "FIPS":20175.0,
-    "Confirmed":888
+    "Confirmed":891
   },
   {
     "FIPS":20177.0,
-    "Confirmed":334
+    "Confirmed":348
   },
   {
     "FIPS":20179.0,
@@ -3989,7 +3989,7 @@
   },
   {
     "FIPS":20209.0,
-    "Confirmed":1419
+    "Confirmed":1434
   },
   {
     "FIPS":21001.0,
@@ -3997,7 +3997,7 @@
   },
   {
     "FIPS":21003.0,
-    "Confirmed":96
+    "Confirmed":100
   },
   {
     "FIPS":21005.0,
@@ -4009,7 +4009,7 @@
   },
   {
     "FIPS":21009.0,
-    "Confirmed":49
+    "Confirmed":50
   },
   {
     "FIPS":21011.0,
@@ -4017,23 +4017,23 @@
   },
   {
     "FIPS":21013.0,
-    "Confirmed":1
+    "Confirmed":2
   },
   {
     "FIPS":21015.0,
-    "Confirmed":492
+    "Confirmed":505
   },
   {
     "FIPS":21017.0,
-    "Confirmed":11
+    "Confirmed":12
   },
   {
     "FIPS":21019.0,
-    "Confirmed":40
+    "Confirmed":41
   },
   {
     "FIPS":21021.0,
-    "Confirmed":26
+    "Confirmed":28
   },
   {
     "FIPS":21023.0,
@@ -4065,7 +4065,7 @@
   },
   {
     "FIPS":21037.0,
-    "Confirmed":191
+    "Confirmed":194
   },
   {
     "FIPS":21039.0,
@@ -4073,7 +4073,7 @@
   },
   {
     "FIPS":21041.0,
-    "Confirmed":14
+    "Confirmed":15
   },
   {
     "FIPS":21043.0,
@@ -4085,11 +4085,11 @@
   },
   {
     "FIPS":21047.0,
-    "Confirmed":114
+    "Confirmed":118
   },
   {
     "FIPS":21049.0,
-    "Confirmed":43
+    "Confirmed":53
   },
   {
     "FIPS":21051.0,
@@ -4097,7 +4097,7 @@
   },
   {
     "FIPS":21053.0,
-    "Confirmed":4
+    "Confirmed":5
   },
   {
     "FIPS":21055.0,
@@ -4109,7 +4109,7 @@
   },
   {
     "FIPS":21059.0,
-    "Confirmed":330
+    "Confirmed":337
   },
   {
     "FIPS":21061.0,
@@ -4125,7 +4125,7 @@
   },
   {
     "FIPS":21067.0,
-    "Confirmed":803
+    "Confirmed":808
   },
   {
     "FIPS":21069.0,
@@ -4137,7 +4137,7 @@
   },
   {
     "FIPS":21073.0,
-    "Confirmed":63
+    "Confirmed":68
   },
   {
     "FIPS":21075.0,
@@ -4153,7 +4153,7 @@
   },
   {
     "FIPS":21081.0,
-    "Confirmed":46
+    "Confirmed":47
   },
   {
     "FIPS":21083.0,
@@ -4161,11 +4161,11 @@
   },
   {
     "FIPS":21085.0,
-    "Confirmed":127
+    "Confirmed":132
   },
   {
     "FIPS":21087.0,
-    "Confirmed":1
+    "Confirmed":2
   },
   {
     "FIPS":21089.0,
@@ -4177,7 +4177,7 @@
   },
   {
     "FIPS":21093.0,
-    "Confirmed":109
+    "Confirmed":111
   },
   {
     "FIPS":21095.0,
@@ -4185,7 +4185,7 @@
   },
   {
     "FIPS":21097.0,
-    "Confirmed":23
+    "Confirmed":27
   },
   {
     "FIPS":21099.0,
@@ -4193,7 +4193,7 @@
   },
   {
     "FIPS":21101.0,
-    "Confirmed":112
+    "Confirmed":117
   },
   {
     "FIPS":21103.0,
@@ -4213,7 +4213,7 @@
   },
   {
     "FIPS":21111.0,
-    "Confirmed":2612
+    "Confirmed":2760
   },
   {
     "FIPS":21113.0,
@@ -4225,7 +4225,7 @@
   },
   {
     "FIPS":21117.0,
-    "Confirmed":638
+    "Confirmed":653
   },
   {
     "FIPS":21119.0,
@@ -4237,7 +4237,7 @@
   },
   {
     "FIPS":21123.0,
-    "Confirmed":8
+    "Confirmed":9
   },
   {
     "FIPS":21125.0,
@@ -4265,7 +4265,7 @@
   },
   {
     "FIPS":21137.0,
-    "Confirmed":8
+    "Confirmed":9
   },
   {
     "FIPS":21139.0,
@@ -4273,7 +4273,7 @@
   },
   {
     "FIPS":21141.0,
-    "Confirmed":155
+    "Confirmed":158
   },
   {
     "FIPS":21143.0,
@@ -4281,7 +4281,7 @@
   },
   {
     "FIPS":21145.0,
-    "Confirmed":99
+    "Confirmed":107
   },
   {
     "FIPS":21147.0,
@@ -4293,7 +4293,7 @@
   },
   {
     "FIPS":21151.0,
-    "Confirmed":54
+    "Confirmed":57
   },
   {
     "FIPS":21153.0,
@@ -4301,7 +4301,7 @@
   },
   {
     "FIPS":21155.0,
-    "Confirmed":25
+    "Confirmed":27
   },
   {
     "FIPS":21157.0,
@@ -4317,7 +4317,7 @@
   },
   {
     "FIPS":21163.0,
-    "Confirmed":22
+    "Confirmed":23
   },
   {
     "FIPS":21165.0,
@@ -4333,7 +4333,7 @@
   },
   {
     "FIPS":21171.0,
-    "Confirmed":21
+    "Confirmed":25
   },
   {
     "FIPS":21173.0,
@@ -4357,11 +4357,11 @@
   },
   {
     "FIPS":21183.0,
-    "Confirmed":148
+    "Confirmed":150
   },
   {
     "FIPS":21185.0,
-    "Confirmed":103
+    "Confirmed":105
   },
   {
     "FIPS":21187.0,
@@ -4381,7 +4381,7 @@
   },
   {
     "FIPS":21195.0,
-    "Confirmed":30
+    "Confirmed":32
   },
   {
     "FIPS":21197.0,
@@ -4389,7 +4389,7 @@
   },
   {
     "FIPS":21199.0,
-    "Confirmed":61
+    "Confirmed":60
   },
   {
     "FIPS":21201.0,
@@ -4405,11 +4405,11 @@
   },
   {
     "FIPS":21207.0,
-    "Confirmed":25
+    "Confirmed":26
   },
   {
     "FIPS":21209.0,
-    "Confirmed":35
+    "Confirmed":37
   },
   {
     "FIPS":21211.0,
@@ -4429,11 +4429,11 @@
   },
   {
     "FIPS":21219.0,
-    "Confirmed":18
+    "Confirmed":23
   },
   {
     "FIPS":21221.0,
-    "Confirmed":10
+    "Confirmed":11
   },
   {
     "FIPS":21223.0,
@@ -4445,7 +4445,7 @@
   },
   {
     "FIPS":21227.0,
-    "Confirmed":1067
+    "Confirmed":1081
   },
   {
     "FIPS":21229.0,
@@ -4457,7 +4457,7 @@
   },
   {
     "FIPS":21233.0,
-    "Confirmed":33
+    "Confirmed":34
   },
   {
     "FIPS":21235.0,
@@ -4469,19 +4469,19 @@
   },
   {
     "FIPS":21239.0,
-    "Confirmed":29
+    "Confirmed":31
   },
   {
     "FIPS":22001.0,
-    "Confirmed":446
+    "Confirmed":462
   },
   {
     "FIPS":22003.0,
-    "Confirmed":185
+    "Confirmed":186
   },
   {
     "FIPS":22005.0,
-    "Confirmed":852
+    "Confirmed":861
   },
   {
     "FIPS":22007.0,
@@ -4489,11 +4489,11 @@
   },
   {
     "FIPS":22009.0,
-    "Confirmed":141
+    "Confirmed":149
   },
   {
     "FIPS":22011.0,
-    "Confirmed":81
+    "Confirmed":90
   },
   {
     "FIPS":22013.0,
@@ -4501,27 +4501,27 @@
   },
   {
     "FIPS":22015.0,
-    "Confirmed":425
+    "Confirmed":438
   },
   {
     "FIPS":22017.0,
-    "Confirmed":2633
+    "Confirmed":2676
   },
   {
     "FIPS":22019.0,
-    "Confirmed":613
+    "Confirmed":621
   },
   {
     "FIPS":22021.0,
-    "Confirmed":61
+    "Confirmed":65
   },
   {
     "FIPS":22023.0,
-    "Confirmed":6
+    "Confirmed":8
   },
   {
     "FIPS":22025.0,
-    "Confirmed":117
+    "Confirmed":119
   },
   {
     "FIPS":22027.0,
@@ -4533,19 +4533,19 @@
   },
   {
     "FIPS":22031.0,
-    "Confirmed":250
+    "Confirmed":260
   },
   {
     "FIPS":22033.0,
-    "Confirmed":3773
+    "Confirmed":3820
   },
   {
     "FIPS":22035.0,
-    "Confirmed":165
+    "Confirmed":179
   },
   {
     "FIPS":22037.0,
-    "Confirmed":198
+    "Confirmed":199
   },
   {
     "FIPS":22039.0,
@@ -4553,59 +4553,59 @@
   },
   {
     "FIPS":22041.0,
-    "Confirmed":377
+    "Confirmed":378
   },
   {
     "FIPS":22043.0,
-    "Confirmed":30
+    "Confirmed":33
   },
   {
     "FIPS":22045.0,
-    "Confirmed":418
+    "Confirmed":419
   },
   {
     "FIPS":22047.0,
-    "Confirmed":579
+    "Confirmed":584
   },
   {
     "FIPS":22049.0,
-    "Confirmed":110
+    "Confirmed":117
   },
   {
     "FIPS":22051.0,
-    "Confirmed":7738
+    "Confirmed":7763
   },
   {
     "FIPS":22053.0,
-    "Confirmed":78
+    "Confirmed":84
   },
   {
     "FIPS":22055.0,
-    "Confirmed":821
+    "Confirmed":834
   },
   {
     "FIPS":22057.0,
-    "Confirmed":878
+    "Confirmed":882
   },
   {
     "FIPS":22059.0,
-    "Confirmed":53
+    "Confirmed":56
   },
   {
     "FIPS":22061.0,
-    "Confirmed":161
+    "Confirmed":163
   },
   {
     "FIPS":22063.0,
-    "Confirmed":446
+    "Confirmed":453
   },
   {
     "FIPS":22065.0,
-    "Confirmed":106
+    "Confirmed":116
   },
   {
     "FIPS":22067.0,
-    "Confirmed":131
+    "Confirmed":132
   },
   {
     "FIPS":22069.0,
@@ -4613,39 +4613,39 @@
   },
   {
     "FIPS":22071.0,
-    "Confirmed":7174
+    "Confirmed":7192
   },
   {
     "FIPS":22073.0,
-    "Confirmed":1312
+    "Confirmed":1346
   },
   {
     "FIPS":22075.0,
-    "Confirmed":215
+    "Confirmed":217
   },
   {
     "FIPS":22077.0,
-    "Confirmed":205
+    "Confirmed":207
   },
   {
     "FIPS":22079.0,
-    "Confirmed":829
+    "Confirmed":850
   },
   {
     "FIPS":22081.0,
-    "Confirmed":50
+    "Confirmed":51
   },
   {
     "FIPS":22083.0,
-    "Confirmed":143
+    "Confirmed":148
   },
   {
     "FIPS":22085.0,
-    "Confirmed":49
+    "Confirmed":50
   },
   {
     "FIPS":22087.0,
-    "Confirmed":545
+    "Confirmed":546
   },
   {
     "FIPS":22089.0,
@@ -4653,7 +4653,7 @@
   },
   {
     "FIPS":22091.0,
-    "Confirmed":51
+    "Confirmed":52
   },
   {
     "FIPS":22093.0,
@@ -4661,27 +4661,27 @@
   },
   {
     "FIPS":22095.0,
-    "Confirmed":868
+    "Confirmed":872
   },
   {
     "FIPS":22097.0,
-    "Confirmed":269
+    "Confirmed":272
   },
   {
     "FIPS":22099.0,
-    "Confirmed":306
+    "Confirmed":311
   },
   {
     "FIPS":22101.0,
-    "Confirmed":328
+    "Confirmed":331
   },
   {
     "FIPS":22103.0,
-    "Confirmed":1790
+    "Confirmed":1799
   },
   {
     "FIPS":22105.0,
-    "Confirmed":891
+    "Confirmed":898
   },
   {
     "FIPS":22107.0,
@@ -4689,31 +4689,31 @@
   },
   {
     "FIPS":22109.0,
-    "Confirmed":709
+    "Confirmed":719
   },
   {
     "FIPS":22111.0,
-    "Confirmed":331
+    "Confirmed":333
   },
   {
     "FIPS":22113.0,
-    "Confirmed":58
+    "Confirmed":59
   },
   {
     "FIPS":22115.0,
-    "Confirmed":28
+    "Confirmed":29
   },
   {
     "FIPS":22117.0,
-    "Confirmed":444
+    "Confirmed":451
   },
   {
     "FIPS":22119.0,
-    "Confirmed":163
+    "Confirmed":171
   },
   {
     "FIPS":22121.0,
-    "Confirmed":176
+    "Confirmed":180
   },
   {
     "FIPS":22123.0,
@@ -4721,7 +4721,7 @@
   },
   {
     "FIPS":22125.0,
-    "Confirmed":215
+    "Confirmed":216
   },
   {
     "FIPS":22127.0,
@@ -4729,7 +4729,7 @@
   },
   {
     "FIPS":23001.0,
-    "Confirmed":326
+    "Confirmed":334
   },
   {
     "FIPS":23003.0,
@@ -4737,7 +4737,7 @@
   },
   {
     "FIPS":23005.0,
-    "Confirmed":1226
+    "Confirmed":1244
   },
   {
     "FIPS":23007.0,
@@ -4749,7 +4749,7 @@
   },
   {
     "FIPS":23011.0,
-    "Confirmed":127
+    "Confirmed":128
   },
   {
     "FIPS":23013.0,
@@ -4761,7 +4761,7 @@
   },
   {
     "FIPS":23017.0,
-    "Confirmed":33
+    "Confirmed":32
   },
   {
     "FIPS":23019.0,
@@ -4773,7 +4773,7 @@
   },
   {
     "FIPS":23023.0,
-    "Confirmed":31
+    "Confirmed":30
   },
   {
     "FIPS":23025.0,
@@ -4789,7 +4789,7 @@
   },
   {
     "FIPS":23031.0,
-    "Confirmed":398
+    "Confirmed":401
   },
   {
     "FIPS":24001.0,
@@ -4797,39 +4797,39 @@
   },
   {
     "FIPS":24003.0,
-    "Confirmed":4009
+    "Confirmed":4080
   },
   {
     "FIPS":24005.0,
-    "Confirmed":6457
+    "Confirmed":6476
   },
   {
     "FIPS":24009.0,
-    "Confirmed":348
+    "Confirmed":352
   },
   {
     "FIPS":24011.0,
-    "Confirmed":265
+    "Confirmed":268
   },
   {
     "FIPS":24013.0,
-    "Confirmed":940
+    "Confirmed":947
   },
   {
     "FIPS":24015.0,
-    "Confirmed":381
+    "Confirmed":388
   },
   {
     "FIPS":24017.0,
-    "Confirmed":1152
+    "Confirmed":1174
   },
   {
     "FIPS":24019.0,
-    "Confirmed":147
+    "Confirmed":152
   },
   {
     "FIPS":24021.0,
-    "Confirmed":2005
+    "Confirmed":2041
   },
   {
     "FIPS":24023.0,
@@ -4837,43 +4837,43 @@
   },
   {
     "FIPS":24025.0,
-    "Confirmed":901
+    "Confirmed":920
   },
   {
     "FIPS":24027.0,
-    "Confirmed":2004
+    "Confirmed":2033
   },
   {
     "FIPS":24029.0,
-    "Confirmed":178
+    "Confirmed":180
   },
   {
     "FIPS":24031.0,
-    "Confirmed":11924
+    "Confirmed":12226
   },
   {
     "FIPS":24033.0,
-    "Confirmed":15738
+    "Confirmed":15940
   },
   {
     "FIPS":24035.0,
-    "Confirmed":162
+    "Confirmed":161
   },
   {
     "FIPS":24037.0,
-    "Confirmed":536
+    "Confirmed":542
   },
   {
     "FIPS":24039.0,
-    "Confirmed":75
+    "Confirmed":76
   },
   {
     "FIPS":24041.0,
-    "Confirmed":103
+    "Confirmed":106
   },
   {
     "FIPS":24043.0,
-    "Confirmed":486
+    "Confirmed":516
   },
   {
     "FIPS":24045.0,
@@ -4881,23 +4881,23 @@
   },
   {
     "FIPS":24047.0,
-    "Confirmed":219
+    "Confirmed":223
   },
   {
     "FIPS":24510.0,
-    "Confirmed":5801
+    "Confirmed":5906
   },
   {
     "FIPS":25001.0,
-    "Confirmed":1435
+    "Confirmed":1443
   },
   {
     "FIPS":25003.0,
-    "Confirmed":566
+    "Confirmed":568
   },
   {
     "FIPS":25005.0,
-    "Confirmed":7453
+    "Confirmed":7508
   },
   {
     "FIPS":25007.0,
@@ -4905,23 +4905,23 @@
   },
   {
     "FIPS":25009.0,
-    "Confirmed":14857
+    "Confirmed":14969
   },
   {
     "FIPS":25011.0,
-    "Confirmed":335
+    "Confirmed":337
   },
   {
     "FIPS":25013.0,
-    "Confirmed":6237
+    "Confirmed":6268
   },
   {
     "FIPS":25015.0,
-    "Confirmed":891
+    "Confirmed":894
   },
   {
     "FIPS":25017.0,
-    "Confirmed":22403
+    "Confirmed":22485
   },
   {
     "FIPS":25019.0,
@@ -4929,19 +4929,19 @@
   },
   {
     "FIPS":25021.0,
-    "Confirmed":8613
+    "Confirmed":8625
   },
   {
     "FIPS":25023.0,
-    "Confirmed":8243
+    "Confirmed":8282
   },
   {
     "FIPS":25025.0,
-    "Confirmed":18733
+    "Confirmed":18790
   },
   {
     "FIPS":25027.0,
-    "Confirmed":11465
+    "Confirmed":11529
   },
   {
     "FIPS":26001.0,
@@ -4953,11 +4953,11 @@
   },
   {
     "FIPS":26005.0,
-    "Confirmed":221
+    "Confirmed":223
   },
   {
     "FIPS":26007.0,
-    "Confirmed":95
+    "Confirmed":96
   },
   {
     "FIPS":26009.0,
@@ -4973,11 +4973,11 @@
   },
   {
     "FIPS":26015.0,
-    "Confirmed":64
+    "Confirmed":65
   },
   {
     "FIPS":26017.0,
-    "Confirmed":322
+    "Confirmed":326
   },
   {
     "FIPS":26019.0,
@@ -4985,19 +4985,19 @@
   },
   {
     "FIPS":26021.0,
-    "Confirmed":643
+    "Confirmed":646
   },
   {
     "FIPS":26023.0,
-    "Confirmed":124
+    "Confirmed":126
   },
   {
     "FIPS":26025.0,
-    "Confirmed":392
+    "Confirmed":398
   },
   {
     "FIPS":26027.0,
-    "Confirmed":84
+    "Confirmed":85
   },
   {
     "FIPS":26029.0,
@@ -5017,11 +5017,11 @@
   },
   {
     "FIPS":26037.0,
-    "Confirmed":141
+    "Confirmed":142
   },
   {
     "FIPS":26039.0,
-    "Confirmed":58
+    "Confirmed":59
   },
   {
     "FIPS":26041.0,
@@ -5041,7 +5041,7 @@
   },
   {
     "FIPS":26049.0,
-    "Confirmed":2049
+    "Confirmed":2046
   },
   {
     "FIPS":26051.0,
@@ -5053,7 +5053,7 @@
   },
   {
     "FIPS":26055.0,
-    "Confirmed":27
+    "Confirmed":28
   },
   {
     "FIPS":26057.0,
@@ -5065,7 +5065,7 @@
   },
   {
     "FIPS":26061.0,
-    "Confirmed":6
+    "Confirmed":7
   },
   {
     "FIPS":26063.0,
@@ -5073,7 +5073,7 @@
   },
   {
     "FIPS":26065.0,
-    "Confirmed":746
+    "Confirmed":755
   },
   {
     "FIPS":26067.0,
@@ -5081,7 +5081,7 @@
   },
   {
     "FIPS":26069.0,
-    "Confirmed":96
+    "Confirmed":95
   },
   {
     "FIPS":26071.0,
@@ -5093,11 +5093,11 @@
   },
   {
     "FIPS":26075.0,
-    "Confirmed":458
+    "Confirmed":459
   },
   {
     "FIPS":26077.0,
-    "Confirmed":850
+    "Confirmed":858
   },
   {
     "FIPS":26079.0,
@@ -5105,7 +5105,7 @@
   },
   {
     "FIPS":26081.0,
-    "Confirmed":3815
+    "Confirmed":3851
   },
   {
     "FIPS":26083.0,
@@ -5117,7 +5117,7 @@
   },
   {
     "FIPS":26087.0,
-    "Confirmed":191
+    "Confirmed":192
   },
   {
     "FIPS":26089.0,
@@ -5125,11 +5125,11 @@
   },
   {
     "FIPS":26091.0,
-    "Confirmed":175
+    "Confirmed":155
   },
   {
     "FIPS":26093.0,
-    "Confirmed":398
+    "Confirmed":405
   },
   {
     "FIPS":26095.0,
@@ -5141,7 +5141,7 @@
   },
   {
     "FIPS":26099.0,
-    "Confirmed":6769
+    "Confirmed":6790
   },
   {
     "FIPS":26101.0,
@@ -5173,11 +5173,11 @@
   },
   {
     "FIPS":26115.0,
-    "Confirmed":473
+    "Confirmed":474
   },
   {
     "FIPS":26117.0,
-    "Confirmed":67
+    "Confirmed":69
   },
   {
     "FIPS":26119.0,
@@ -5185,23 +5185,23 @@
   },
   {
     "FIPS":26121.0,
-    "Confirmed":657
+    "Confirmed":675
   },
   {
     "FIPS":26123.0,
-    "Confirmed":108
+    "Confirmed":111
   },
   {
     "FIPS":26125.0,
-    "Confirmed":8425
+    "Confirmed":8438
   },
   {
     "FIPS":26127.0,
-    "Confirmed":92
+    "Confirmed":94
   },
   {
     "FIPS":26129.0,
-    "Confirmed":22
+    "Confirmed":23
   },
   {
     "FIPS":26131.0,
@@ -5221,7 +5221,7 @@
   },
   {
     "FIPS":26139.0,
-    "Confirmed":797
+    "Confirmed":807
   },
   {
     "FIPS":26141.0,
@@ -5233,15 +5233,15 @@
   },
   {
     "FIPS":26145.0,
-    "Confirmed":1057
+    "Confirmed":1065
   },
   {
     "FIPS":26147.0,
-    "Confirmed":452
+    "Confirmed":453
   },
   {
     "FIPS":26149.0,
-    "Confirmed":130
+    "Confirmed":133
   },
   {
     "FIPS":26151.0,
@@ -5261,15 +5261,15 @@
   },
   {
     "FIPS":26159.0,
-    "Confirmed":149
+    "Confirmed":150
   },
   {
     "FIPS":26161.0,
-    "Confirmed":1341
+    "Confirmed":1347
   },
   {
     "FIPS":26163.0,
-    "Confirmed":20541
+    "Confirmed":20590
   },
   {
     "FIPS":26165.0,
@@ -5281,11 +5281,11 @@
   },
   {
     "FIPS":27003.0,
-    "Confirmed":1470
+    "Confirmed":1488
   },
   {
     "FIPS":27005.0,
-    "Confirmed":41
+    "Confirmed":43
   },
   {
     "FIPS":27007.0,
@@ -5293,7 +5293,7 @@
   },
   {
     "FIPS":27009.0,
-    "Confirmed":181
+    "Confirmed":182
   },
   {
     "FIPS":27011.0,
@@ -5305,7 +5305,7 @@
   },
   {
     "FIPS":27015.0,
-    "Confirmed":17
+    "Confirmed":16
   },
   {
     "FIPS":27017.0,
@@ -5313,15 +5313,15 @@
   },
   {
     "FIPS":27019.0,
-    "Confirmed":224
+    "Confirmed":232
   },
   {
     "FIPS":27021.0,
-    "Confirmed":12
+    "Confirmed":11
   },
   {
     "FIPS":27023.0,
-    "Confirmed":51
+    "Confirmed":52
   },
   {
     "FIPS":27025.0,
@@ -5329,7 +5329,7 @@
   },
   {
     "FIPS":27027.0,
-    "Confirmed":435
+    "Confirmed":441
   },
   {
     "FIPS":27029.0,
@@ -5341,15 +5341,15 @@
   },
   {
     "FIPS":27033.0,
-    "Confirmed":77
+    "Confirmed":79
   },
   {
     "FIPS":27035.0,
-    "Confirmed":75
+    "Confirmed":77
   },
   {
     "FIPS":27037.0,
-    "Confirmed":1388
+    "Confirmed":1414
   },
   {
     "FIPS":27039.0,
@@ -5357,7 +5357,7 @@
   },
   {
     "FIPS":27041.0,
-    "Confirmed":44
+    "Confirmed":45
   },
   {
     "FIPS":27043.0,
@@ -5369,11 +5369,11 @@
   },
   {
     "FIPS":27047.0,
-    "Confirmed":130
+    "Confirmed":142
   },
   {
     "FIPS":27049.0,
-    "Confirmed":70
+    "Confirmed":71
   },
   {
     "FIPS":27051.0,
@@ -5381,7 +5381,7 @@
   },
   {
     "FIPS":27053.0,
-    "Confirmed":8738
+    "Confirmed":8867
   },
   {
     "FIPS":27055.0,
@@ -5393,7 +5393,7 @@
   },
   {
     "FIPS":27059.0,
-    "Confirmed":35
+    "Confirmed":36
   },
   {
     "FIPS":27061.0,
@@ -5401,7 +5401,7 @@
   },
   {
     "FIPS":27063.0,
-    "Confirmed":40
+    "Confirmed":42
   },
   {
     "FIPS":27065.0,
@@ -5409,7 +5409,7 @@
   },
   {
     "FIPS":27067.0,
-    "Confirmed":505
+    "Confirmed":511
   },
   {
     "FIPS":27069.0,
@@ -5441,11 +5441,11 @@
   },
   {
     "FIPS":27083.0,
-    "Confirmed":71
+    "Confirmed":81
   },
   {
     "FIPS":27085.0,
-    "Confirmed":37
+    "Confirmed":39
   },
   {
     "FIPS":27087.0,
@@ -5461,11 +5461,11 @@
   },
   {
     "FIPS":27093.0,
-    "Confirmed":45
+    "Confirmed":46
   },
   {
     "FIPS":27095.0,
-    "Confirmed":22
+    "Confirmed":23
   },
   {
     "FIPS":27097.0,
@@ -5473,11 +5473,11 @@
   },
   {
     "FIPS":27099.0,
-    "Confirmed":366
+    "Confirmed":406
   },
   {
     "FIPS":27101.0,
-    "Confirmed":39
+    "Confirmed":40
   },
   {
     "FIPS":27103.0,
@@ -5485,27 +5485,27 @@
   },
   {
     "FIPS":27105.0,
-    "Confirmed":1558
+    "Confirmed":1562
   },
   {
     "FIPS":27107.0,
-    "Confirmed":14
+    "Confirmed":15
   },
   {
     "FIPS":27109.0,
-    "Confirmed":654
+    "Confirmed":672
   },
   {
     "FIPS":27111.0,
-    "Confirmed":71
+    "Confirmed":73
   },
   {
     "FIPS":27113.0,
-    "Confirmed":21
+    "Confirmed":23
   },
   {
     "FIPS":27115.0,
-    "Confirmed":90
+    "Confirmed":93
   },
   {
     "FIPS":27117.0,
@@ -5517,11 +5517,11 @@
   },
   {
     "FIPS":27121.0,
-    "Confirmed":9
+    "Confirmed":10
   },
   {
     "FIPS":27123.0,
-    "Confirmed":3189
+    "Confirmed":3252
   },
   {
     "FIPS":27125.0,
@@ -5529,15 +5529,15 @@
   },
   {
     "FIPS":27127.0,
-    "Confirmed":6
+    "Confirmed":7
   },
   {
     "FIPS":27129.0,
-    "Confirmed":5
+    "Confirmed":7
   },
   {
     "FIPS":27131.0,
-    "Confirmed":480
+    "Confirmed":483
   },
   {
     "FIPS":27133.0,
@@ -5553,7 +5553,7 @@
   },
   {
     "FIPS":27139.0,
-    "Confirmed":455
+    "Confirmed":460
   },
   {
     "FIPS":27141.0,
@@ -5565,7 +5565,7 @@
   },
   {
     "FIPS":27145.0,
-    "Confirmed":2047
+    "Confirmed":2050
   },
   {
     "FIPS":27147.0,
@@ -5581,7 +5581,7 @@
   },
   {
     "FIPS":27153.0,
-    "Confirmed":330
+    "Confirmed":336
   },
   {
     "FIPS":27155.0,
@@ -5601,7 +5601,7 @@
   },
   {
     "FIPS":27163.0,
-    "Confirmed":670
+    "Confirmed":680
   },
   {
     "FIPS":27165.0,
@@ -5617,7 +5617,7 @@
   },
   {
     "FIPS":27171.0,
-    "Confirmed":332
+    "Confirmed":339
   },
   {
     "FIPS":27173.0,
@@ -5625,7 +5625,7 @@
   },
   {
     "FIPS":28001.0,
-    "Confirmed":202
+    "Confirmed":203
   },
   {
     "FIPS":28003.0,
@@ -5633,11 +5633,11 @@
   },
   {
     "FIPS":28005.0,
-    "Confirmed":65
+    "Confirmed":66
   },
   {
     "FIPS":28007.0,
-    "Confirmed":307
+    "Confirmed":311
   },
   {
     "FIPS":28009.0,
@@ -5645,7 +5645,7 @@
   },
   {
     "FIPS":28011.0,
-    "Confirmed":166
+    "Confirmed":169
   },
   {
     "FIPS":28013.0,
@@ -5653,7 +5653,7 @@
   },
   {
     "FIPS":28015.0,
-    "Confirmed":116
+    "Confirmed":119
   },
   {
     "FIPS":28017.0,
@@ -5661,39 +5661,39 @@
   },
   {
     "FIPS":28019.0,
-    "Confirmed":48
+    "Confirmed":50
   },
   {
     "FIPS":28021.0,
-    "Confirmed":114
+    "Confirmed":115
   },
   {
     "FIPS":28023.0,
-    "Confirmed":155
+    "Confirmed":156
   },
   {
     "FIPS":28025.0,
-    "Confirmed":118
+    "Confirmed":125
   },
   {
     "FIPS":28027.0,
-    "Confirmed":128
+    "Confirmed":131
   },
   {
     "FIPS":28029.0,
-    "Confirmed":325
+    "Confirmed":329
   },
   {
     "FIPS":28031.0,
-    "Confirmed":177
+    "Confirmed":179
   },
   {
     "FIPS":28033.0,
-    "Confirmed":559
+    "Confirmed":575
   },
   {
     "FIPS":28035.0,
-    "Confirmed":592
+    "Confirmed":595
   },
   {
     "FIPS":28037.0,
@@ -5701,7 +5701,7 @@
   },
   {
     "FIPS":28039.0,
-    "Confirmed":28
+    "Confirmed":29
   },
   {
     "FIPS":28041.0,
@@ -5709,7 +5709,7 @@
   },
   {
     "FIPS":28043.0,
-    "Confirmed":100
+    "Confirmed":107
   },
   {
     "FIPS":28045.0,
@@ -5717,19 +5717,19 @@
   },
   {
     "FIPS":28047.0,
-    "Confirmed":265
+    "Confirmed":269
   },
   {
     "FIPS":28049.0,
-    "Confirmed":1066
+    "Confirmed":1074
   },
   {
     "FIPS":28051.0,
-    "Confirmed":441
+    "Confirmed":443
   },
   {
     "FIPS":28053.0,
-    "Confirmed":60
+    "Confirmed":63
   },
   {
     "FIPS":28055.0,
@@ -5737,15 +5737,15 @@
   },
   {
     "FIPS":28057.0,
-    "Confirmed":90
+    "Confirmed":89
   },
   {
     "FIPS":28059.0,
-    "Confirmed":309
+    "Confirmed":314
   },
   {
     "FIPS":28061.0,
-    "Confirmed":166
+    "Confirmed":167
   },
   {
     "FIPS":28063.0,
@@ -5753,55 +5753,55 @@
   },
   {
     "FIPS":28065.0,
-    "Confirmed":81
+    "Confirmed":82
   },
   {
     "FIPS":28067.0,
-    "Confirmed":686
+    "Confirmed":701
   },
   {
     "FIPS":28069.0,
-    "Confirmed":149
+    "Confirmed":155
   },
   {
     "FIPS":28071.0,
-    "Confirmed":150
+    "Confirmed":154
   },
   {
     "FIPS":28073.0,
-    "Confirmed":248
+    "Confirmed":250
   },
   {
     "FIPS":28075.0,
-    "Confirmed":760
+    "Confirmed":759
   },
   {
     "FIPS":28077.0,
-    "Confirmed":108
+    "Confirmed":107
   },
   {
     "FIPS":28079.0,
-    "Confirmed":454
+    "Confirmed":452
   },
   {
     "FIPS":28081.0,
-    "Confirmed":185
+    "Confirmed":194
   },
   {
     "FIPS":28083.0,
-    "Confirmed":273
+    "Confirmed":277
   },
   {
     "FIPS":28085.0,
-    "Confirmed":278
+    "Confirmed":280
   },
   {
     "FIPS":28087.0,
-    "Confirmed":241
+    "Confirmed":247
   },
   {
     "FIPS":28089.0,
-    "Confirmed":757
+    "Confirmed":767
   },
   {
     "FIPS":28091.0,
@@ -5809,23 +5809,23 @@
   },
   {
     "FIPS":28093.0,
-    "Confirmed":85
+    "Confirmed":87
   },
   {
     "FIPS":28095.0,
-    "Confirmed":267
+    "Confirmed":269
   },
   {
     "FIPS":28097.0,
-    "Confirmed":86
+    "Confirmed":84
   },
   {
     "FIPS":28099.0,
-    "Confirmed":722
+    "Confirmed":728
   },
   {
     "FIPS":28101.0,
-    "Confirmed":283
+    "Confirmed":288
   },
   {
     "FIPS":28103.0,
@@ -5833,11 +5833,11 @@
   },
   {
     "FIPS":28105.0,
-    "Confirmed":267
+    "Confirmed":273
   },
   {
     "FIPS":28107.0,
-    "Confirmed":85
+    "Confirmed":84
   },
   {
     "FIPS":28109.0,
@@ -5849,11 +5849,11 @@
   },
   {
     "FIPS":28113.0,
-    "Confirmed":205
+    "Confirmed":204
   },
   {
     "FIPS":28115.0,
-    "Confirmed":45
+    "Confirmed":47
   },
   {
     "FIPS":28117.0,
@@ -5861,15 +5861,15 @@
   },
   {
     "FIPS":28119.0,
-    "Confirmed":31
+    "Confirmed":32
   },
   {
     "FIPS":28121.0,
-    "Confirmed":453
+    "Confirmed":456
   },
   {
     "FIPS":28123.0,
-    "Confirmed":662
+    "Confirmed":663
   },
   {
     "FIPS":28125.0,
@@ -5881,7 +5881,7 @@
   },
   {
     "FIPS":28129.0,
-    "Confirmed":153
+    "Confirmed":155
   },
   {
     "FIPS":28131.0,
@@ -5889,7 +5889,7 @@
   },
   {
     "FIPS":28133.0,
-    "Confirmed":93
+    "Confirmed":92
   },
   {
     "FIPS":28135.0,
@@ -5897,7 +5897,7 @@
   },
   {
     "FIPS":28137.0,
-    "Confirmed":88
+    "Confirmed":91
   },
   {
     "FIPS":28139.0,
@@ -5905,35 +5905,35 @@
   },
   {
     "FIPS":28141.0,
-    "Confirmed":35
+    "Confirmed":36
   },
   {
     "FIPS":28143.0,
-    "Confirmed":56
+    "Confirmed":58
   },
   {
     "FIPS":28145.0,
-    "Confirmed":86
+    "Confirmed":89
   },
   {
     "FIPS":28147.0,
-    "Confirmed":63
+    "Confirmed":64
   },
   {
     "FIPS":28149.0,
-    "Confirmed":191
+    "Confirmed":196
   },
   {
     "FIPS":28151.0,
-    "Confirmed":194
+    "Confirmed":198
   },
   {
     "FIPS":28153.0,
-    "Confirmed":235
+    "Confirmed":262
   },
   {
     "FIPS":28155.0,
-    "Confirmed":67
+    "Confirmed":84
   },
   {
     "FIPS":28157.0,
@@ -5941,19 +5941,19 @@
   },
   {
     "FIPS":28159.0,
-    "Confirmed":122
+    "Confirmed":124
   },
   {
     "FIPS":28161.0,
-    "Confirmed":97
+    "Confirmed":104
   },
   {
     "FIPS":28163.0,
-    "Confirmed":291
+    "Confirmed":296
   },
   {
     "FIPS":29001.0,
-    "Confirmed":60
+    "Confirmed":62
   },
   {
     "FIPS":29003.0,
@@ -5965,7 +5965,7 @@
   },
   {
     "FIPS":29007.0,
-    "Confirmed":97
+    "Confirmed":102
   },
   {
     "FIPS":29009.0,
@@ -5977,11 +5977,11 @@
   },
   {
     "FIPS":29013.0,
-    "Confirmed":10
+    "Confirmed":12
   },
   {
     "FIPS":29015.0,
-    "Confirmed":11
+    "Confirmed":12
   },
   {
     "FIPS":29017.0,
@@ -5989,15 +5989,15 @@
   },
   {
     "FIPS":29019.0,
-    "Confirmed":162
+    "Confirmed":169
   },
   {
     "FIPS":29021.0,
-    "Confirmed":725
+    "Confirmed":736
   },
   {
     "FIPS":29023.0,
-    "Confirmed":42
+    "Confirmed":45
   },
   {
     "FIPS":29025.0,
@@ -6005,7 +6005,7 @@
   },
   {
     "FIPS":29027.0,
-    "Confirmed":30
+    "Confirmed":32
   },
   {
     "FIPS":29029.0,
@@ -6013,11 +6013,11 @@
   },
   {
     "FIPS":29031.0,
-    "Confirmed":76
+    "Confirmed":77
   },
   {
     "FIPS":29033.0,
-    "Confirmed":8
+    "Confirmed":9
   },
   {
     "FIPS":29035.0,
@@ -6025,7 +6025,7 @@
   },
   {
     "FIPS":29037.0,
-    "Confirmed":97
+    "Confirmed":100
   },
   {
     "FIPS":29039.0,
@@ -6037,7 +6037,7 @@
   },
   {
     "FIPS":29043.0,
-    "Confirmed":27
+    "Confirmed":29
   },
   {
     "FIPS":29045.0,
@@ -6045,11 +6045,11 @@
   },
   {
     "FIPS":29047.0,
-    "Confirmed":177
+    "Confirmed":181
   },
   {
     "FIPS":29049.0,
-    "Confirmed":18
+    "Confirmed":20
   },
   {
     "FIPS":29051.0,
@@ -6069,7 +6069,7 @@
   },
   {
     "FIPS":29059.0,
-    "Confirmed":3
+    "Confirmed":4
   },
   {
     "FIPS":29061.0,
@@ -6089,11 +6089,11 @@
   },
   {
     "FIPS":29069.0,
-    "Confirmed":45
+    "Confirmed":47
   },
   {
     "FIPS":29071.0,
-    "Confirmed":143
+    "Confirmed":149
   },
   {
     "FIPS":29073.0,
@@ -6101,11 +6101,11 @@
   },
   {
     "FIPS":29075.0,
-    "Confirmed":41
+    "Confirmed":43
   },
   {
     "FIPS":29077.0,
-    "Confirmed":164
+    "Confirmed":167
   },
   {
     "FIPS":29079.0,
@@ -6133,7 +6133,7 @@
   },
   {
     "FIPS":29091.0,
-    "Confirmed":9
+    "Confirmed":10
   },
   {
     "FIPS":29093.0,
@@ -6141,15 +6141,15 @@
   },
   {
     "FIPS":29095.0,
-    "Confirmed":656
+    "Confirmed":676
   },
   {
     "FIPS":29097.0,
-    "Confirmed":39
+    "Confirmed":44
   },
   {
     "FIPS":29099.0,
-    "Confirmed":395
+    "Confirmed":396
   },
   {
     "FIPS":29101.0,
@@ -6165,7 +6165,7 @@
   },
   {
     "FIPS":29107.0,
-    "Confirmed":76
+    "Confirmed":80
   },
   {
     "FIPS":29109.0,
@@ -6217,11 +6217,11 @@
   },
   {
     "FIPS":29133.0,
-    "Confirmed":59
+    "Confirmed":61
   },
   {
     "FIPS":29135.0,
-    "Confirmed":48
+    "Confirmed":49
   },
   {
     "FIPS":29137.0,
@@ -6229,7 +6229,7 @@
   },
   {
     "FIPS":29139.0,
-    "Confirmed":9
+    "Confirmed":10
   },
   {
     "FIPS":29141.0,
@@ -6261,11 +6261,11 @@
   },
   {
     "FIPS":29155.0,
-    "Confirmed":89
+    "Confirmed":90
   },
   {
     "FIPS":29157.0,
-    "Confirmed":64
+    "Confirmed":65
   },
   {
     "FIPS":29159.0,
@@ -6281,11 +6281,11 @@
   },
   {
     "FIPS":29165.0,
-    "Confirmed":73
+    "Confirmed":74
   },
   {
     "FIPS":29167.0,
-    "Confirmed":3
+    "Confirmed":4
   },
   {
     "FIPS":29169.0,
@@ -6305,7 +6305,7 @@
   },
   {
     "FIPS":29177.0,
-    "Confirmed":22
+    "Confirmed":23
   },
   {
     "FIPS":29179.0,
@@ -6317,7 +6317,7 @@
   },
   {
     "FIPS":29183.0,
-    "Confirmed":799
+    "Confirmed":820
   },
   {
     "FIPS":29185.0,
@@ -6329,7 +6329,7 @@
   },
   {
     "FIPS":29187.0,
-    "Confirmed":36
+    "Confirmed":38
   },
   {
     "FIPS":29189.0,
@@ -6337,7 +6337,7 @@
   },
   {
     "FIPS":29195.0,
-    "Confirmed":269
+    "Confirmed":280
   },
   {
     "FIPS":29197.0,
@@ -6349,7 +6349,7 @@
   },
   {
     "FIPS":29201.0,
-    "Confirmed":113
+    "Confirmed":117
   },
   {
     "FIPS":29203.0,
@@ -6361,15 +6361,15 @@
   },
   {
     "FIPS":29207.0,
-    "Confirmed":94
+    "Confirmed":99
   },
   {
     "FIPS":29209.0,
-    "Confirmed":5
+    "Confirmed":10
   },
   {
     "FIPS":29211.0,
-    "Confirmed":61
+    "Confirmed":63
   },
   {
     "FIPS":29213.0,
@@ -6409,7 +6409,7 @@
   },
   {
     "FIPS":29510.0,
-    "Confirmed":2006
+    "Confirmed":2034
   },
   {
     "FIPS":30001.0,
@@ -6417,7 +6417,7 @@
   },
   {
     "FIPS":30003.0,
-    "Confirmed":31
+    "Confirmed":36
   },
   {
     "FIPS":30005.0,
@@ -6473,7 +6473,7 @@
   },
   {
     "FIPS":30031.0,
-    "Confirmed":155
+    "Confirmed":163
   },
   {
     "FIPS":30033.0,
@@ -6633,11 +6633,11 @@
   },
   {
     "FIPS":30111.0,
-    "Confirmed":102
+    "Confirmed":103
   },
   {
     "FIPS":31001.0,
-    "Confirmed":273
+    "Confirmed":275
   },
   {
     "FIPS":31003.0,
@@ -6657,7 +6657,7 @@
   },
   {
     "FIPS":31011.0,
-    "Confirmed":6
+    "Confirmed":7
   },
   {
     "FIPS":31013.0,
@@ -6673,11 +6673,11 @@
   },
   {
     "FIPS":31019.0,
-    "Confirmed":168
+    "Confirmed":171
   },
   {
     "FIPS":31021.0,
-    "Confirmed":8
+    "Confirmed":9
   },
   {
     "FIPS":31023.0,
@@ -6709,7 +6709,7 @@
   },
   {
     "FIPS":31037.0,
-    "Confirmed":624
+    "Confirmed":626
   },
   {
     "FIPS":31039.0,
@@ -6717,11 +6717,11 @@
   },
   {
     "FIPS":31041.0,
-    "Confirmed":31
+    "Confirmed":33
   },
   {
     "FIPS":31043.0,
-    "Confirmed":1684
+    "Confirmed":1692
   },
   {
     "FIPS":31045.0,
@@ -6729,7 +6729,7 @@
   },
   {
     "FIPS":31047.0,
-    "Confirmed":840
+    "Confirmed":841
   },
   {
     "FIPS":31049.0,
@@ -6741,11 +6741,11 @@
   },
   {
     "FIPS":31053.0,
-    "Confirmed":503
+    "Confirmed":531
   },
   {
     "FIPS":31055.0,
-    "Confirmed":4640
+    "Confirmed":4769
   },
   {
     "FIPS":31057.0,
@@ -6793,7 +6793,7 @@
   },
   {
     "FIPS":31079.0,
-    "Confirmed":1525
+    "Confirmed":1532
   },
   {
     "FIPS":31081.0,
@@ -6833,7 +6833,7 @@
   },
   {
     "FIPS":31099.0,
-    "Confirmed":11
+    "Confirmed":12
   },
   {
     "FIPS":31101.0,
@@ -6853,11 +6853,11 @@
   },
   {
     "FIPS":31109.0,
-    "Confirmed":1262
+    "Confirmed":1278
   },
   {
     "FIPS":31111.0,
-    "Confirmed":48
+    "Confirmed":47
   },
   {
     "FIPS":31113.0,
@@ -6917,7 +6917,7 @@
   },
   {
     "FIPS":31141.0,
-    "Confirmed":611
+    "Confirmed":617
   },
   {
     "FIPS":31143.0,
@@ -6937,19 +6937,19 @@
   },
   {
     "FIPS":31151.0,
-    "Confirmed":508
+    "Confirmed":510
   },
   {
     "FIPS":31153.0,
-    "Confirmed":703
+    "Confirmed":736
   },
   {
     "FIPS":31155.0,
-    "Confirmed":42
+    "Confirmed":46
   },
   {
     "FIPS":31157.0,
-    "Confirmed":120
+    "Confirmed":124
   },
   {
     "FIPS":31159.0,
@@ -6981,15 +6981,15 @@
   },
   {
     "FIPS":31173.0,
-    "Confirmed":49
+    "Confirmed":50
   },
   {
     "FIPS":31175.0,
-    "Confirmed":4
+    "Confirmed":5
   },
   {
     "FIPS":31177.0,
-    "Confirmed":32
+    "Confirmed":33
   },
   {
     "FIPS":31179.0,
@@ -7013,11 +7013,11 @@
   },
   {
     "FIPS":32003.0,
-    "Confirmed":6923
+    "Confirmed":7056
   },
   {
     "FIPS":32005.0,
-    "Confirmed":35
+    "Confirmed":37
   },
   {
     "FIPS":32007.0,
@@ -7045,7 +7045,7 @@
   },
   {
     "FIPS":32019.0,
-    "Confirmed":67
+    "Confirmed":80
   },
   {
     "FIPS":32021.0,
@@ -7065,7 +7065,7 @@
   },
   {
     "FIPS":32031.0,
-    "Confirmed":1618
+    "Confirmed":1645
   },
   {
     "FIPS":32033.0,
@@ -7073,11 +7073,11 @@
   },
   {
     "FIPS":32510.0,
-    "Confirmed":99
+    "Confirmed":102
   },
   {
     "FIPS":33001.0,
-    "Confirmed":63
+    "Confirmed":64
   },
   {
     "FIPS":33003.0,
@@ -7097,19 +7097,19 @@
   },
   {
     "FIPS":33011.0,
-    "Confirmed":2554
+    "Confirmed":2614
   },
   {
     "FIPS":33013.0,
-    "Confirmed":353
+    "Confirmed":359
   },
   {
     "FIPS":33015.0,
-    "Confirmed":1336
+    "Confirmed":1347
   },
   {
     "FIPS":33017.0,
-    "Confirmed":273
+    "Confirmed":278
   },
   {
     "FIPS":33019.0,
@@ -7117,91 +7117,91 @@
   },
   {
     "FIPS":34001.0,
-    "Confirmed":2284
+    "Confirmed":2286
   },
   {
     "FIPS":34003.0,
-    "Confirmed":18376
+    "Confirmed":18408
   },
   {
     "FIPS":34005.0,
-    "Confirmed":4700
+    "Confirmed":4725
   },
   {
     "FIPS":34007.0,
-    "Confirmed":6645
+    "Confirmed":6663
   },
   {
     "FIPS":34009.0,
-    "Confirmed":629
+    "Confirmed":630
   },
   {
     "FIPS":34011.0,
-    "Confirmed":2431
+    "Confirmed":2469
   },
   {
     "FIPS":34013.0,
-    "Confirmed":17813
+    "Confirmed":17912
   },
   {
     "FIPS":34015.0,
-    "Confirmed":2278
+    "Confirmed":2290
   },
   {
     "FIPS":34017.0,
-    "Confirmed":18852
+    "Confirmed":18875
   },
   {
     "FIPS":34019.0,
-    "Confirmed":1006
+    "Confirmed":1009
   },
   {
     "FIPS":34021.0,
-    "Confirmed":7033
+    "Confirmed":7072
   },
   {
     "FIPS":34023.0,
-    "Confirmed":16066
+    "Confirmed":16072
   },
   {
     "FIPS":34025.0,
-    "Confirmed":8332
+    "Confirmed":8379
   },
   {
     "FIPS":34027.0,
-    "Confirmed":6540
+    "Confirmed":6548
   },
   {
     "FIPS":34029.0,
-    "Confirmed":8853
+    "Confirmed":8900
   },
   {
     "FIPS":34031.0,
-    "Confirmed":16277
+    "Confirmed":16311
   },
   {
     "FIPS":34033.0,
-    "Confirmed":653
+    "Confirmed":659
   },
   {
     "FIPS":34035.0,
-    "Confirmed":4619
+    "Confirmed":4626
   },
   {
     "FIPS":34037.0,
-    "Confirmed":1128
+    "Confirmed":1131
   },
   {
     "FIPS":34039.0,
-    "Confirmed":15911
+    "Confirmed":15953
   },
   {
     "FIPS":34041.0,
-    "Confirmed":1182
+    "Confirmed":1186
   },
   {
     "FIPS":35001.0,
-    "Confirmed":1524
+    "Confirmed":1543
   },
   {
     "FIPS":35003.0,
@@ -7209,11 +7209,11 @@
   },
   {
     "FIPS":35005.0,
-    "Confirmed":50
+    "Confirmed":51
   },
   {
     "FIPS":35006.0,
-    "Confirmed":147
+    "Confirmed":148
   },
   {
     "FIPS":35007.0,
@@ -7221,7 +7221,7 @@
   },
   {
     "FIPS":35009.0,
-    "Confirmed":56
+    "Confirmed":57
   },
   {
     "FIPS":35011.0,
@@ -7229,11 +7229,11 @@
   },
   {
     "FIPS":35013.0,
-    "Confirmed":488
+    "Confirmed":509
   },
   {
     "FIPS":35015.0,
-    "Confirmed":23
+    "Confirmed":26
   },
   {
     "FIPS":35017.0,
@@ -7265,11 +7265,11 @@
   },
   {
     "FIPS":35029.0,
-    "Confirmed":10
+    "Confirmed":9
   },
   {
     "FIPS":35031.0,
-    "Confirmed":2515
+    "Confirmed":2542
   },
   {
     "FIPS":35033.0,
@@ -7277,7 +7277,7 @@
   },
   {
     "FIPS":35035.0,
-    "Confirmed":22
+    "Confirmed":23
   },
   {
     "FIPS":35037.0,
@@ -7289,15 +7289,15 @@
   },
   {
     "FIPS":35041.0,
-    "Confirmed":41
+    "Confirmed":42
   },
   {
     "FIPS":35043.0,
-    "Confirmed":575
+    "Confirmed":578
   },
   {
     "FIPS":35045.0,
-    "Confirmed":1821
+    "Confirmed":1842
   },
   {
     "FIPS":35047.0,
@@ -7313,15 +7313,15 @@
   },
   {
     "FIPS":35053.0,
-    "Confirmed":52
+    "Confirmed":54
   },
   {
     "FIPS":35055.0,
-    "Confirmed":30
+    "Confirmed":31
   },
   {
     "FIPS":35057.0,
-    "Confirmed":32
+    "Confirmed":33
   },
   {
     "FIPS":35059.0,
@@ -7329,11 +7329,11 @@
   },
   {
     "FIPS":35061.0,
-    "Confirmed":79
+    "Confirmed":80
   },
   {
     "FIPS":36001.0,
-    "Confirmed":1920
+    "Confirmed":1930
   },
   {
     "FIPS":36003.0,
@@ -7345,11 +7345,11 @@
   },
   {
     "FIPS":36007.0,
-    "Confirmed":589
+    "Confirmed":593
   },
   {
     "FIPS":36009.0,
-    "Confirmed":90
+    "Confirmed":91
   },
   {
     "FIPS":36011.0,
@@ -7357,7 +7357,7 @@
   },
   {
     "FIPS":36013.0,
-    "Confirmed":89
+    "Confirmed":95
   },
   {
     "FIPS":36015.0,
@@ -7373,7 +7373,7 @@
   },
   {
     "FIPS":36021.0,
-    "Confirmed":399
+    "Confirmed":400
   },
   {
     "FIPS":36023.0,
@@ -7385,11 +7385,11 @@
   },
   {
     "FIPS":36027.0,
-    "Confirmed":3951
+    "Confirmed":3962
   },
   {
     "FIPS":36029.0,
-    "Confirmed":6234
+    "Confirmed":6308
   },
   {
     "FIPS":36031.0,
@@ -7401,11 +7401,11 @@
   },
   {
     "FIPS":36035.0,
-    "Confirmed":213
+    "Confirmed":215
   },
   {
     "FIPS":36037.0,
-    "Confirmed":202
+    "Confirmed":205
   },
   {
     "FIPS":36039.0,
@@ -7441,43 +7441,43 @@
   },
   {
     "FIPS":36055.0,
-    "Confirmed":3048
+    "Confirmed":3081
   },
   {
     "FIPS":36057.0,
-    "Confirmed":94
+    "Confirmed":96
   },
   {
     "FIPS":36059.0,
-    "Confirmed":40644
+    "Confirmed":40713
   },
   {
     "FIPS":36061.0,
-    "Confirmed":204872
+    "Confirmed":205406
   },
   {
     "FIPS":36063.0,
-    "Confirmed":1067
+    "Confirmed":1085
   },
   {
     "FIPS":36065.0,
-    "Confirmed":1058
+    "Confirmed":1069
   },
   {
     "FIPS":36067.0,
-    "Confirmed":2256
+    "Confirmed":2295
   },
   {
     "FIPS":36069.0,
-    "Confirmed":215
+    "Confirmed":218
   },
   {
     "FIPS":36071.0,
-    "Confirmed":10460
+    "Confirmed":10471
   },
   {
     "FIPS":36073.0,
-    "Confirmed":246
+    "Confirmed":247
   },
   {
     "FIPS":36075.0,
@@ -7489,7 +7489,7 @@
   },
   {
     "FIPS":36079.0,
-    "Confirmed":1264
+    "Confirmed":1268
   },
   {
     "FIPS":36081.0,
@@ -7505,15 +7505,15 @@
   },
   {
     "FIPS":36087.0,
-    "Confirmed":13259
+    "Confirmed":13280
   },
   {
     "FIPS":36089.0,
-    "Confirmed":206
+    "Confirmed":207
   },
   {
     "FIPS":36091.0,
-    "Confirmed":489
+    "Confirmed":493
   },
   {
     "FIPS":36093.0,
@@ -7533,15 +7533,15 @@
   },
   {
     "FIPS":36101.0,
-    "Confirmed":243
+    "Confirmed":245
   },
   {
     "FIPS":36103.0,
-    "Confirmed":40062
+    "Confirmed":40153
   },
   {
     "FIPS":36105.0,
-    "Confirmed":1393
+    "Confirmed":1405
   },
   {
     "FIPS":36107.0,
@@ -7553,7 +7553,7 @@
   },
   {
     "FIPS":36111.0,
-    "Confirmed":1701
+    "Confirmed":1704
   },
   {
     "FIPS":36113.0,
@@ -7565,11 +7565,11 @@
   },
   {
     "FIPS":36117.0,
-    "Confirmed":120
+    "Confirmed":121
   },
   {
     "FIPS":36119.0,
-    "Confirmed":33691
+    "Confirmed":33767
   },
   {
     "FIPS":36121.0,
@@ -7597,7 +7597,7 @@
   },
   {
     "FIPS":37009.0,
-    "Confirmed":37
+    "Confirmed":39
   },
   {
     "FIPS":37011.0,
@@ -7605,35 +7605,35 @@
   },
   {
     "FIPS":37013.0,
-    "Confirmed":36
+    "Confirmed":39
   },
   {
     "FIPS":37015.0,
-    "Confirmed":126
+    "Confirmed":127
   },
   {
     "FIPS":37017.0,
-    "Confirmed":106
+    "Confirmed":132
   },
   {
     "FIPS":37019.0,
-    "Confirmed":110
+    "Confirmed":115
   },
   {
     "FIPS":37021.0,
-    "Confirmed":361
+    "Confirmed":374
   },
   {
     "FIPS":37023.0,
-    "Confirmed":477
+    "Confirmed":497
   },
   {
     "FIPS":37025.0,
-    "Confirmed":511
+    "Confirmed":530
   },
   {
     "FIPS":37027.0,
-    "Confirmed":161
+    "Confirmed":173
   },
   {
     "FIPS":37029.0,
@@ -7641,7 +7641,7 @@
   },
   {
     "FIPS":37031.0,
-    "Confirmed":37
+    "Confirmed":39
   },
   {
     "FIPS":37033.0,
@@ -7649,11 +7649,11 @@
   },
   {
     "FIPS":37035.0,
-    "Confirmed":255
+    "Confirmed":258
   },
   {
     "FIPS":37037.0,
-    "Confirmed":660
+    "Confirmed":677
   },
   {
     "FIPS":37039.0,
@@ -7677,15 +7677,15 @@
   },
   {
     "FIPS":37049.0,
-    "Confirmed":210
+    "Confirmed":216
   },
   {
     "FIPS":37051.0,
-    "Confirmed":721
+    "Confirmed":733
   },
   {
     "FIPS":37053.0,
-    "Confirmed":14
+    "Confirmed":15
   },
   {
     "FIPS":37055.0,
@@ -7693,35 +7693,35 @@
   },
   {
     "FIPS":37057.0,
-    "Confirmed":446
+    "Confirmed":477
   },
   {
     "FIPS":37059.0,
-    "Confirmed":105
+    "Confirmed":107
   },
   {
     "FIPS":37061.0,
-    "Confirmed":890
+    "Confirmed":915
   },
   {
     "FIPS":37063.0,
-    "Confirmed":1828
+    "Confirmed":1830
   },
   {
     "FIPS":37065.0,
-    "Confirmed":210
+    "Confirmed":214
   },
   {
     "FIPS":37067.0,
-    "Confirmed":1517
+    "Confirmed":1560
   },
   {
     "FIPS":37069.0,
-    "Confirmed":167
+    "Confirmed":169
   },
   {
     "FIPS":37071.0,
-    "Confirmed":297
+    "Confirmed":301
   },
   {
     "FIPS":37073.0,
@@ -7737,11 +7737,11 @@
   },
   {
     "FIPS":37079.0,
-    "Confirmed":81
+    "Confirmed":84
   },
   {
     "FIPS":37081.0,
-    "Confirmed":1415
+    "Confirmed":1445
   },
   {
     "FIPS":37083.0,
@@ -7749,15 +7749,15 @@
   },
   {
     "FIPS":37085.0,
-    "Confirmed":306
+    "Confirmed":309
   },
   {
     "FIPS":37087.0,
-    "Confirmed":53
+    "Confirmed":55
   },
   {
     "FIPS":37089.0,
-    "Confirmed":352
+    "Confirmed":354
   },
   {
     "FIPS":37091.0,
@@ -7765,7 +7765,7 @@
   },
   {
     "FIPS":37093.0,
-    "Confirmed":255
+    "Confirmed":259
   },
   {
     "FIPS":37095.0,
@@ -7773,7 +7773,7 @@
   },
   {
     "FIPS":37097.0,
-    "Confirmed":280
+    "Confirmed":289
   },
   {
     "FIPS":37099.0,
@@ -7781,7 +7781,7 @@
   },
   {
     "FIPS":37101.0,
-    "Confirmed":513
+    "Confirmed":519
   },
   {
     "FIPS":37103.0,
@@ -7789,7 +7789,7 @@
   },
   {
     "FIPS":37105.0,
-    "Confirmed":486
+    "Confirmed":490
   },
   {
     "FIPS":37107.0,
@@ -7797,7 +7797,7 @@
   },
   {
     "FIPS":37109.0,
-    "Confirmed":78
+    "Confirmed":87
   },
   {
     "FIPS":37111.0,
@@ -7805,7 +7805,7 @@
   },
   {
     "FIPS":37113.0,
-    "Confirmed":89
+    "Confirmed":98
   },
   {
     "FIPS":37115.0,
@@ -7817,11 +7817,11 @@
   },
   {
     "FIPS":37119.0,
-    "Confirmed":4670
+    "Confirmed":4842
   },
   {
     "FIPS":37121.0,
-    "Confirmed":15
+    "Confirmed":16
   },
   {
     "FIPS":37123.0,
@@ -7829,11 +7829,11 @@
   },
   {
     "FIPS":37125.0,
-    "Confirmed":235
+    "Confirmed":241
   },
   {
     "FIPS":37127.0,
-    "Confirmed":213
+    "Confirmed":218
   },
   {
     "FIPS":37129.0,
@@ -7845,11 +7845,11 @@
   },
   {
     "FIPS":37133.0,
-    "Confirmed":114
+    "Confirmed":117
   },
   {
     "FIPS":37135.0,
-    "Confirmed":364
+    "Confirmed":370
   },
   {
     "FIPS":37137.0,
@@ -7857,7 +7857,7 @@
   },
   {
     "FIPS":37139.0,
-    "Confirmed":112
+    "Confirmed":115
   },
   {
     "FIPS":37141.0,
@@ -7869,59 +7869,59 @@
   },
   {
     "FIPS":37145.0,
-    "Confirmed":54
+    "Confirmed":55
   },
   {
     "FIPS":37147.0,
-    "Confirmed":321
+    "Confirmed":326
   },
   {
     "FIPS":37149.0,
-    "Confirmed":39
+    "Confirmed":43
   },
   {
     "FIPS":37151.0,
-    "Confirmed":728
+    "Confirmed":730
   },
   {
     "FIPS":37153.0,
-    "Confirmed":170
+    "Confirmed":171
   },
   {
     "FIPS":37155.0,
-    "Confirmed":885
+    "Confirmed":905
   },
   {
     "FIPS":37157.0,
-    "Confirmed":102
+    "Confirmed":103
   },
   {
     "FIPS":37159.0,
-    "Confirmed":688
+    "Confirmed":707
   },
   {
     "FIPS":37161.0,
-    "Confirmed":186
+    "Confirmed":188
   },
   {
     "FIPS":37163.0,
-    "Confirmed":510
+    "Confirmed":531
   },
   {
     "FIPS":37165.0,
-    "Confirmed":87
+    "Confirmed":89
   },
   {
     "FIPS":37167.0,
-    "Confirmed":92
+    "Confirmed":96
   },
   {
     "FIPS":37169.0,
-    "Confirmed":75
+    "Confirmed":79
   },
   {
     "FIPS":37171.0,
-    "Confirmed":231
+    "Confirmed":251
   },
   {
     "FIPS":37173.0,
@@ -7937,19 +7937,19 @@
   },
   {
     "FIPS":37179.0,
-    "Confirmed":506
+    "Confirmed":533
   },
   {
     "FIPS":37181.0,
-    "Confirmed":337
+    "Confirmed":344
   },
   {
     "FIPS":37183.0,
-    "Confirmed":1901
+    "Confirmed":1977
   },
   {
     "FIPS":37185.0,
-    "Confirmed":70
+    "Confirmed":72
   },
   {
     "FIPS":37187.0,
@@ -7957,19 +7957,19 @@
   },
   {
     "FIPS":37189.0,
-    "Confirmed":31
+    "Confirmed":35
   },
   {
     "FIPS":37191.0,
-    "Confirmed":1188
+    "Confirmed":1212
   },
   {
     "FIPS":37193.0,
-    "Confirmed":500
+    "Confirmed":502
   },
   {
     "FIPS":37195.0,
-    "Confirmed":384
+    "Confirmed":403
   },
   {
     "FIPS":37197.0,
@@ -7985,7 +7985,7 @@
   },
   {
     "FIPS":38003.0,
-    "Confirmed":5
+    "Confirmed":6
   },
   {
     "FIPS":38005.0,
@@ -7997,7 +7997,7 @@
   },
   {
     "FIPS":38009.0,
-    "Confirmed":2
+    "Confirmed":3
   },
   {
     "FIPS":38011.0,
@@ -8009,11 +8009,11 @@
   },
   {
     "FIPS":38015.0,
-    "Confirmed":132
+    "Confirmed":134
   },
   {
     "FIPS":38017.0,
-    "Confirmed":1783
+    "Confirmed":1803
   },
   {
     "FIPS":38019.0,
@@ -8101,7 +8101,7 @@
   },
   {
     "FIPS":38061.0,
-    "Confirmed":41
+    "Confirmed":42
   },
   {
     "FIPS":38063.0,
@@ -8133,7 +8133,7 @@
   },
   {
     "FIPS":38077.0,
-    "Confirmed":22
+    "Confirmed":23
   },
   {
     "FIPS":38079.0,
@@ -8141,7 +8141,7 @@
   },
   {
     "FIPS":38081.0,
-    "Confirmed":3
+    "Confirmed":4
   },
   {
     "FIPS":38083.0,
@@ -8193,11 +8193,11 @@
   },
   {
     "FIPS":39001.0,
-    "Confirmed":10
+    "Confirmed":11
   },
   {
     "FIPS":39003.0,
-    "Confirmed":214
+    "Confirmed":219
   },
   {
     "FIPS":39005.0,
@@ -8205,7 +8205,7 @@
   },
   {
     "FIPS":39007.0,
-    "Confirmed":345
+    "Confirmed":347
   },
   {
     "FIPS":39009.0,
@@ -8213,11 +8213,11 @@
   },
   {
     "FIPS":39011.0,
-    "Confirmed":76
+    "Confirmed":77
   },
   {
     "FIPS":39013.0,
-    "Confirmed":439
+    "Confirmed":447
   },
   {
     "FIPS":39015.0,
@@ -8225,11 +8225,11 @@
   },
   {
     "FIPS":39017.0,
-    "Confirmed":933
+    "Confirmed":948
   },
   {
     "FIPS":39019.0,
-    "Confirmed":31
+    "Confirmed":34
   },
   {
     "FIPS":39021.0,
@@ -8237,11 +8237,11 @@
   },
   {
     "FIPS":39023.0,
-    "Confirmed":306
+    "Confirmed":313
   },
   {
     "FIPS":39025.0,
-    "Confirmed":216
+    "Confirmed":218
   },
   {
     "FIPS":39027.0,
@@ -8249,23 +8249,23 @@
   },
   {
     "FIPS":39029.0,
-    "Confirmed":889
+    "Confirmed":891
   },
   {
     "FIPS":39031.0,
-    "Confirmed":40
+    "Confirmed":45
   },
   {
     "FIPS":39033.0,
-    "Confirmed":117
+    "Confirmed":118
   },
   {
     "FIPS":39035.0,
-    "Confirmed":4669
+    "Confirmed":4732
   },
   {
     "FIPS":39037.0,
-    "Confirmed":184
+    "Confirmed":189
   },
   {
     "FIPS":39039.0,
@@ -8273,23 +8273,23 @@
   },
   {
     "FIPS":39041.0,
-    "Confirmed":344
+    "Confirmed":355
   },
   {
     "FIPS":39043.0,
-    "Confirmed":182
+    "Confirmed":185
   },
   {
     "FIPS":39045.0,
-    "Confirmed":310
+    "Confirmed":314
   },
   {
     "FIPS":39047.0,
-    "Confirmed":40
+    "Confirmed":41
   },
   {
     "FIPS":39049.0,
-    "Confirmed":6112
+    "Confirmed":6216
   },
   {
     "FIPS":39051.0,
@@ -8301,27 +8301,27 @@
   },
   {
     "FIPS":39055.0,
-    "Confirmed":295
+    "Confirmed":300
   },
   {
     "FIPS":39057.0,
-    "Confirmed":102
+    "Confirmed":105
   },
   {
     "FIPS":39059.0,
-    "Confirmed":36
+    "Confirmed":38
   },
   {
     "FIPS":39061.0,
-    "Confirmed":2739
+    "Confirmed":2767
   },
   {
     "FIPS":39063.0,
-    "Confirmed":51
+    "Confirmed":53
   },
   {
     "FIPS":39065.0,
-    "Confirmed":64
+    "Confirmed":71
   },
   {
     "FIPS":39067.0,
@@ -8341,11 +8341,11 @@
   },
   {
     "FIPS":39075.0,
-    "Confirmed":46
+    "Confirmed":54
   },
   {
     "FIPS":39077.0,
-    "Confirmed":60
+    "Confirmed":61
   },
   {
     "FIPS":39079.0,
@@ -8361,43 +8361,43 @@
   },
   {
     "FIPS":39085.0,
-    "Confirmed":318
+    "Confirmed":320
   },
   {
     "FIPS":39087.0,
-    "Confirmed":30
+    "Confirmed":31
   },
   {
     "FIPS":39089.0,
-    "Confirmed":265
+    "Confirmed":267
   },
   {
     "FIPS":39091.0,
-    "Confirmed":40
+    "Confirmed":43
   },
   {
     "FIPS":39093.0,
-    "Confirmed":709
+    "Confirmed":722
   },
   {
     "FIPS":39095.0,
-    "Confirmed":2296
+    "Confirmed":2313
   },
   {
     "FIPS":39097.0,
-    "Confirmed":162
+    "Confirmed":163
   },
   {
     "FIPS":39099.0,
-    "Confirmed":1463
+    "Confirmed":1466
   },
   {
     "FIPS":39101.0,
-    "Confirmed":2679
+    "Confirmed":2686
   },
   {
     "FIPS":39103.0,
-    "Confirmed":366
+    "Confirmed":376
   },
   {
     "FIPS":39105.0,
@@ -8405,19 +8405,19 @@
   },
   {
     "FIPS":39107.0,
-    "Confirmed":220
+    "Confirmed":223
   },
   {
     "FIPS":39109.0,
-    "Confirmed":362
+    "Confirmed":366
   },
   {
     "FIPS":39111.0,
-    "Confirmed":79
+    "Confirmed":80
   },
   {
     "FIPS":39113.0,
-    "Confirmed":695
+    "Confirmed":720
   },
   {
     "FIPS":39115.0,
@@ -8425,11 +8425,11 @@
   },
   {
     "FIPS":39117.0,
-    "Confirmed":107
+    "Confirmed":108
   },
   {
     "FIPS":39119.0,
-    "Confirmed":52
+    "Confirmed":54
   },
   {
     "FIPS":39121.0,
@@ -8437,7 +8437,7 @@
   },
   {
     "FIPS":39123.0,
-    "Confirmed":102
+    "Confirmed":104
   },
   {
     "FIPS":39125.0,
@@ -8449,7 +8449,7 @@
   },
   {
     "FIPS":39129.0,
-    "Confirmed":2095
+    "Confirmed":2096
   },
   {
     "FIPS":39131.0,
@@ -8457,7 +8457,7 @@
   },
   {
     "FIPS":39133.0,
-    "Confirmed":332
+    "Confirmed":333
   },
   {
     "FIPS":39135.0,
@@ -8469,7 +8469,7 @@
   },
   {
     "FIPS":39139.0,
-    "Confirmed":209
+    "Confirmed":216
   },
   {
     "FIPS":39141.0,
@@ -8485,7 +8485,7 @@
   },
   {
     "FIPS":39147.0,
-    "Confirmed":24
+    "Confirmed":26
   },
   {
     "FIPS":39149.0,
@@ -8493,19 +8493,19 @@
   },
   {
     "FIPS":39151.0,
-    "Confirmed":752
+    "Confirmed":782
   },
   {
     "FIPS":39153.0,
-    "Confirmed":1487
+    "Confirmed":1505
   },
   {
     "FIPS":39155.0,
-    "Confirmed":584
+    "Confirmed":594
   },
   {
     "FIPS":39157.0,
-    "Confirmed":360
+    "Confirmed":367
   },
   {
     "FIPS":39159.0,
@@ -8521,7 +8521,7 @@
   },
   {
     "FIPS":39165.0,
-    "Confirmed":390
+    "Confirmed":398
   },
   {
     "FIPS":39167.0,
@@ -8529,7 +8529,7 @@
   },
   {
     "FIPS":39169.0,
-    "Confirmed":288
+    "Confirmed":293
   },
   {
     "FIPS":39171.0,
@@ -8537,15 +8537,15 @@
   },
   {
     "FIPS":39173.0,
-    "Confirmed":303
+    "Confirmed":304
   },
   {
     "FIPS":39175.0,
-    "Confirmed":44
+    "Confirmed":48
   },
   {
     "FIPS":40001.0,
-    "Confirmed":91
+    "Confirmed":93
   },
   {
     "FIPS":40003.0,
@@ -8569,19 +8569,19 @@
   },
   {
     "FIPS":40013.0,
-    "Confirmed":32
+    "Confirmed":33
   },
   {
     "FIPS":40015.0,
-    "Confirmed":167
+    "Confirmed":168
   },
   {
     "FIPS":40017.0,
-    "Confirmed":133
+    "Confirmed":137
   },
   {
     "FIPS":40019.0,
-    "Confirmed":45
+    "Confirmed":51
   },
   {
     "FIPS":40021.0,
@@ -8589,7 +8589,7 @@
   },
   {
     "FIPS":40023.0,
-    "Confirmed":87
+    "Confirmed":90
   },
   {
     "FIPS":40025.0,
@@ -8597,7 +8597,7 @@
   },
   {
     "FIPS":40027.0,
-    "Confirmed":511
+    "Confirmed":514
   },
   {
     "FIPS":40029.0,
@@ -8605,7 +8605,7 @@
   },
   {
     "FIPS":40031.0,
-    "Confirmed":290
+    "Confirmed":293
   },
   {
     "FIPS":40033.0,
@@ -8617,11 +8617,11 @@
   },
   {
     "FIPS":40037.0,
-    "Confirmed":97
+    "Confirmed":98
   },
   {
     "FIPS":40039.0,
-    "Confirmed":30
+    "Confirmed":31
   },
   {
     "FIPS":40041.0,
@@ -8637,7 +8637,7 @@
   },
   {
     "FIPS":40047.0,
-    "Confirmed":27
+    "Confirmed":28
   },
   {
     "FIPS":40049.0,
@@ -8645,7 +8645,7 @@
   },
   {
     "FIPS":40051.0,
-    "Confirmed":100
+    "Confirmed":104
   },
   {
     "FIPS":40053.0,
@@ -8689,7 +8689,7 @@
   },
   {
     "FIPS":40073.0,
-    "Confirmed":11
+    "Confirmed":12
   },
   {
     "FIPS":40075.0,
@@ -8717,15 +8717,15 @@
   },
   {
     "FIPS":40087.0,
-    "Confirmed":106
+    "Confirmed":107
   },
   {
     "FIPS":40089.0,
-    "Confirmed":75
+    "Confirmed":77
   },
   {
     "FIPS":40091.0,
-    "Confirmed":12
+    "Confirmed":14
   },
   {
     "FIPS":40093.0,
@@ -8733,11 +8733,11 @@
   },
   {
     "FIPS":40095.0,
-    "Confirmed":8
+    "Confirmed":10
   },
   {
     "FIPS":40097.0,
-    "Confirmed":30
+    "Confirmed":31
   },
   {
     "FIPS":40099.0,
@@ -8761,7 +8761,7 @@
   },
   {
     "FIPS":40109.0,
-    "Confirmed":1309
+    "Confirmed":1328
   },
   {
     "FIPS":40111.0,
@@ -8769,7 +8769,7 @@
   },
   {
     "FIPS":40113.0,
-    "Confirmed":96
+    "Confirmed":102
   },
   {
     "FIPS":40115.0,
@@ -8777,7 +8777,7 @@
   },
   {
     "FIPS":40117.0,
-    "Confirmed":31
+    "Confirmed":32
   },
   {
     "FIPS":40119.0,
@@ -8805,23 +8805,23 @@
   },
   {
     "FIPS":40131.0,
-    "Confirmed":82
+    "Confirmed":83
   },
   {
     "FIPS":40133.0,
-    "Confirmed":28
+    "Confirmed":30
   },
   {
     "FIPS":40135.0,
-    "Confirmed":15
+    "Confirmed":16
   },
   {
     "FIPS":40137.0,
-    "Confirmed":40
+    "Confirmed":41
   },
   {
     "FIPS":40139.0,
-    "Confirmed":939
+    "Confirmed":944
   },
   {
     "FIPS":40141.0,
@@ -8829,15 +8829,15 @@
   },
   {
     "FIPS":40143.0,
-    "Confirmed":1087
+    "Confirmed":1109
   },
   {
     "FIPS":40145.0,
-    "Confirmed":150
+    "Confirmed":151
   },
   {
     "FIPS":40147.0,
-    "Confirmed":334
+    "Confirmed":338
   },
   {
     "FIPS":40149.0,
@@ -8861,7 +8861,7 @@
   },
   {
     "FIPS":41005.0,
-    "Confirmed":324
+    "Confirmed":333
   },
   {
     "FIPS":41007.0,
@@ -8873,11 +8873,11 @@
   },
   {
     "FIPS":41011.0,
-    "Confirmed":31
+    "Confirmed":32
   },
   {
     "FIPS":41013.0,
-    "Confirmed":6
+    "Confirmed":7
   },
   {
     "FIPS":41015.0,
@@ -8885,7 +8885,7 @@
   },
   {
     "FIPS":41017.0,
-    "Confirmed":128
+    "Confirmed":133
   },
   {
     "FIPS":41019.0,
@@ -8909,11 +8909,11 @@
   },
   {
     "FIPS":41029.0,
-    "Confirmed":68
+    "Confirmed":69
   },
   {
     "FIPS":41031.0,
-    "Confirmed":45
+    "Confirmed":46
   },
   {
     "FIPS":41033.0,
@@ -8929,15 +8929,15 @@
   },
   {
     "FIPS":41039.0,
-    "Confirmed":77
+    "Confirmed":80
   },
   {
     "FIPS":41041.0,
-    "Confirmed":18
+    "Confirmed":23
   },
   {
     "FIPS":41043.0,
-    "Confirmed":119
+    "Confirmed":121
   },
   {
     "FIPS":41045.0,
@@ -8945,7 +8945,7 @@
   },
   {
     "FIPS":41047.0,
-    "Confirmed":999
+    "Confirmed":1011
   },
   {
     "FIPS":41049.0,
@@ -8953,11 +8953,11 @@
   },
   {
     "FIPS":41051.0,
-    "Confirmed":1194
+    "Confirmed":1224
   },
   {
     "FIPS":41053.0,
-    "Confirmed":101
+    "Confirmed":100
   },
   {
     "FIPS":41055.0,
@@ -8969,7 +8969,7 @@
   },
   {
     "FIPS":41059.0,
-    "Confirmed":123
+    "Confirmed":124
   },
   {
     "FIPS":41061.0,
@@ -8981,11 +8981,11 @@
   },
   {
     "FIPS":41065.0,
-    "Confirmed":28
+    "Confirmed":29
   },
   {
     "FIPS":41067.0,
-    "Confirmed":752
+    "Confirmed":755
   },
   {
     "FIPS":41069.0,
@@ -8993,15 +8993,15 @@
   },
   {
     "FIPS":41071.0,
-    "Confirmed":74
+    "Confirmed":75
   },
   {
     "FIPS":42001.0,
-    "Confirmed":260
+    "Confirmed":263
   },
   {
     "FIPS":42003.0,
-    "Confirmed":1952
+    "Confirmed":1965
   },
   {
     "FIPS":42005.0,
@@ -9009,15 +9009,15 @@
   },
   {
     "FIPS":42007.0,
-    "Confirmed":594
+    "Confirmed":599
   },
   {
     "FIPS":42009.0,
-    "Confirmed":41
+    "Confirmed":42
   },
   {
     "FIPS":42011.0,
-    "Confirmed":4132
+    "Confirmed":4152
   },
   {
     "FIPS":42013.0,
@@ -9029,11 +9029,11 @@
   },
   {
     "FIPS":42017.0,
-    "Confirmed":5137
+    "Confirmed":5158
   },
   {
     "FIPS":42019.0,
-    "Confirmed":235
+    "Confirmed":240
   },
   {
     "FIPS":42021.0,
@@ -9045,7 +9045,7 @@
   },
   {
     "FIPS":42025.0,
-    "Confirmed":239
+    "Confirmed":250
   },
   {
     "FIPS":42027.0,
@@ -9053,7 +9053,7 @@
   },
   {
     "FIPS":42029.0,
-    "Confirmed":2863
+    "Confirmed":2902
   },
   {
     "FIPS":42031.0,
@@ -9069,23 +9069,23 @@
   },
   {
     "FIPS":42037.0,
-    "Confirmed":349
+    "Confirmed":352
   },
   {
     "FIPS":42039.0,
-    "Confirmed":29
+    "Confirmed":30
   },
   {
     "FIPS":42041.0,
-    "Confirmed":654
+    "Confirmed":657
   },
   {
     "FIPS":42043.0,
-    "Confirmed":1385
+    "Confirmed":1404
   },
   {
     "FIPS":42045.0,
-    "Confirmed":6548
+    "Confirmed":6587
   },
   {
     "FIPS":42047.0,
@@ -9093,7 +9093,7 @@
   },
   {
     "FIPS":42049.0,
-    "Confirmed":314
+    "Confirmed":327
   },
   {
     "FIPS":42051.0,
@@ -9105,11 +9105,11 @@
   },
   {
     "FIPS":42055.0,
-    "Confirmed":782
+    "Confirmed":785
   },
   {
     "FIPS":42057.0,
-    "Confirmed":15
+    "Confirmed":16
   },
   {
     "FIPS":42059.0,
@@ -9117,7 +9117,7 @@
   },
   {
     "FIPS":42061.0,
-    "Confirmed":232
+    "Confirmed":234
   },
   {
     "FIPS":42063.0,
@@ -9133,27 +9133,27 @@
   },
   {
     "FIPS":42069.0,
-    "Confirmed":1556
+    "Confirmed":1569
   },
   {
     "FIPS":42071.0,
-    "Confirmed":3267
+    "Confirmed":3301
   },
   {
     "FIPS":42073.0,
-    "Confirmed":83
+    "Confirmed":82
   },
   {
     "FIPS":42075.0,
-    "Confirmed":994
+    "Confirmed":997
   },
   {
     "FIPS":42077.0,
-    "Confirmed":3802
+    "Confirmed":3817
   },
   {
     "FIPS":42079.0,
-    "Confirmed":2766
+    "Confirmed":2773
   },
   {
     "FIPS":42081.0,
@@ -9161,11 +9161,11 @@
   },
   {
     "FIPS":42083.0,
-    "Confirmed":12
+    "Confirmed":13
   },
   {
     "FIPS":42085.0,
-    "Confirmed":107
+    "Confirmed":110
   },
   {
     "FIPS":42087.0,
@@ -9173,11 +9173,11 @@
   },
   {
     "FIPS":42089.0,
-    "Confirmed":1326
+    "Confirmed":1333
   },
   {
     "FIPS":42091.0,
-    "Confirmed":7242
+    "Confirmed":7351
   },
   {
     "FIPS":42093.0,
@@ -9185,19 +9185,19 @@
   },
   {
     "FIPS":42095.0,
-    "Confirmed":3120
+    "Confirmed":3124
   },
   {
     "FIPS":42097.0,
-    "Confirmed":199
+    "Confirmed":201
   },
   {
     "FIPS":42099.0,
-    "Confirmed":62
+    "Confirmed":64
   },
   {
     "FIPS":42101.0,
-    "Confirmed":23160
+    "Confirmed":23281
   },
   {
     "FIPS":42103.0,
@@ -9205,15 +9205,15 @@
   },
   {
     "FIPS":42105.0,
-    "Confirmed":4
+    "Confirmed":6
   },
   {
     "FIPS":42107.0,
-    "Confirmed":646
+    "Confirmed":651
   },
   {
     "FIPS":42109.0,
-    "Confirmed":45
+    "Confirmed":51
   },
   {
     "FIPS":42111.0,
@@ -9225,7 +9225,7 @@
   },
   {
     "FIPS":42115.0,
-    "Confirmed":111
+    "Confirmed":123
   },
   {
     "FIPS":42117.0,
@@ -9233,15 +9233,15 @@
   },
   {
     "FIPS":42119.0,
-    "Confirmed":63
+    "Confirmed":65
   },
   {
     "FIPS":42121.0,
-    "Confirmed":9
+    "Confirmed":10
   },
   {
     "FIPS":42123.0,
-    "Confirmed":4
+    "Confirmed":5
   },
   {
     "FIPS":42125.0,
@@ -9249,11 +9249,11 @@
   },
   {
     "FIPS":42127.0,
-    "Confirmed":120
+    "Confirmed":121
   },
   {
     "FIPS":42129.0,
-    "Confirmed":453
+    "Confirmed":455
   },
   {
     "FIPS":42131.0,
@@ -9261,7 +9261,7 @@
   },
   {
     "FIPS":42133.0,
-    "Confirmed":1037
+    "Confirmed":1038
   },
   {
     "FIPS":44001.0,
@@ -9473,7 +9473,7 @@
   },
   {
     "FIPS":46005.0,
-    "Confirmed":308
+    "Confirmed":341
   },
   {
     "FIPS":46007.0,
@@ -9489,7 +9489,7 @@
   },
   {
     "FIPS":46013.0,
-    "Confirmed":286
+    "Confirmed":290
   },
   {
     "FIPS":46015.0,
@@ -9497,7 +9497,7 @@
   },
   {
     "FIPS":46017.0,
-    "Confirmed":22
+    "Confirmed":21
   },
   {
     "FIPS":46019.0,
@@ -9517,11 +9517,11 @@
   },
   {
     "FIPS":46027.0,
-    "Confirmed":15
+    "Confirmed":18
   },
   {
     "FIPS":46029.0,
-    "Confirmed":38
+    "Confirmed":39
   },
   {
     "FIPS":46031.0,
@@ -9529,7 +9529,7 @@
   },
   {
     "FIPS":46033.0,
-    "Confirmed":0
+    "Confirmed":1
   },
   {
     "FIPS":46035.0,
@@ -9537,7 +9537,7 @@
   },
   {
     "FIPS":46037.0,
-    "Confirmed":13
+    "Confirmed":14
   },
   {
     "FIPS":46039.0,
@@ -9545,7 +9545,7 @@
   },
   {
     "FIPS":46041.0,
-    "Confirmed":1
+    "Confirmed":0
   },
   {
     "FIPS":46043.0,
@@ -9577,7 +9577,7 @@
   },
   {
     "FIPS":46057.0,
-    "Confirmed":4
+    "Confirmed":5
   },
   {
     "FIPS":46059.0,
@@ -9609,7 +9609,7 @@
   },
   {
     "FIPS":46073.0,
-    "Confirmed":38
+    "Confirmed":39
   },
   {
     "FIPS":46075.0,
@@ -9621,7 +9621,7 @@
   },
   {
     "FIPS":46079.0,
-    "Confirmed":10
+    "Confirmed":12
   },
   {
     "FIPS":46081.0,
@@ -9629,11 +9629,11 @@
   },
   {
     "FIPS":46083.0,
-    "Confirmed":240
+    "Confirmed":243
   },
   {
     "FIPS":46085.0,
-    "Confirmed":15
+    "Confirmed":16
   },
   {
     "FIPS":46087.0,
@@ -9649,7 +9649,7 @@
   },
   {
     "FIPS":46093.0,
-    "Confirmed":22
+    "Confirmed":24
   },
   {
     "FIPS":46095.0,
@@ -9661,7 +9661,7 @@
   },
   {
     "FIPS":46099.0,
-    "Confirmed":3377
+    "Confirmed":3385
   },
   {
     "FIPS":46101.0,
@@ -9669,11 +9669,11 @@
   },
   {
     "FIPS":46102.0,
-    "Confirmed":32
+    "Confirmed":34
   },
   {
     "FIPS":46103.0,
-    "Confirmed":257
+    "Confirmed":275
   },
   {
     "FIPS":46105.0,
@@ -9685,7 +9685,7 @@
   },
   {
     "FIPS":46109.0,
-    "Confirmed":36
+    "Confirmed":37
   },
   {
     "FIPS":46111.0,
@@ -9705,7 +9705,7 @@
   },
   {
     "FIPS":46121.0,
-    "Confirmed":28
+    "Confirmed":31
   },
   {
     "FIPS":46123.0,
@@ -9717,7 +9717,7 @@
   },
   {
     "FIPS":46127.0,
-    "Confirmed":92
+    "Confirmed":93
   },
   {
     "FIPS":46129.0,
@@ -9729,15 +9729,15 @@
   },
   {
     "FIPS":46137.0,
-    "Confirmed":1
+    "Confirmed":2
   },
   {
     "FIPS":47001.0,
-    "Confirmed":41
+    "Confirmed":42
   },
   {
     "FIPS":47003.0,
-    "Confirmed":295
+    "Confirmed":297
   },
   {
     "FIPS":47005.0,
@@ -9753,7 +9753,7 @@
   },
   {
     "FIPS":47011.0,
-    "Confirmed":161
+    "Confirmed":166
   },
   {
     "FIPS":47013.0,
@@ -9793,7 +9793,7 @@
   },
   {
     "FIPS":47031.0,
-    "Confirmed":74
+    "Confirmed":78
   },
   {
     "FIPS":47033.0,
@@ -9801,11 +9801,11 @@
   },
   {
     "FIPS":47035.0,
-    "Confirmed":119
+    "Confirmed":120
   },
   {
     "FIPS":47037.0,
-    "Confirmed":5429
+    "Confirmed":5516
   },
   {
     "FIPS":47039.0,
@@ -9817,7 +9817,7 @@
   },
   {
     "FIPS":47043.0,
-    "Confirmed":118
+    "Confirmed":120
   },
   {
     "FIPS":47045.0,
@@ -9825,7 +9825,7 @@
   },
   {
     "FIPS":47047.0,
-    "Confirmed":125
+    "Confirmed":136
   },
   {
     "FIPS":47049.0,
@@ -9841,11 +9841,11 @@
   },
   {
     "FIPS":47055.0,
-    "Confirmed":12
+    "Confirmed":13
   },
   {
     "FIPS":47057.0,
-    "Confirmed":11
+    "Confirmed":13
   },
   {
     "FIPS":47059.0,
@@ -9857,11 +9857,11 @@
   },
   {
     "FIPS":47063.0,
-    "Confirmed":43
+    "Confirmed":42
   },
   {
     "FIPS":47065.0,
-    "Confirmed":935
+    "Confirmed":964
   },
   {
     "FIPS":47067.0,
@@ -9869,7 +9869,7 @@
   },
   {
     "FIPS":47069.0,
-    "Confirmed":201
+    "Confirmed":202
   },
   {
     "FIPS":47071.0,
@@ -9889,7 +9889,7 @@
   },
   {
     "FIPS":47079.0,
-    "Confirmed":31
+    "Confirmed":32
   },
   {
     "FIPS":47081.0,
@@ -9909,7 +9909,7 @@
   },
   {
     "FIPS":47089.0,
-    "Confirmed":28
+    "Confirmed":29
   },
   {
     "FIPS":47091.0,
@@ -9917,7 +9917,7 @@
   },
   {
     "FIPS":47093.0,
-    "Confirmed":436
+    "Confirmed":435
   },
   {
     "FIPS":47095.0,
@@ -9941,11 +9941,11 @@
   },
   {
     "FIPS":47105.0,
-    "Confirmed":157
+    "Confirmed":161
   },
   {
     "FIPS":47107.0,
-    "Confirmed":144
+    "Confirmed":146
   },
   {
     "FIPS":47109.0,
@@ -9953,7 +9953,7 @@
   },
   {
     "FIPS":47111.0,
-    "Confirmed":158
+    "Confirmed":166
   },
   {
     "FIPS":47113.0,
@@ -9961,7 +9961,7 @@
   },
   {
     "FIPS":47115.0,
-    "Confirmed":42
+    "Confirmed":44
   },
   {
     "FIPS":47117.0,
@@ -9969,7 +9969,7 @@
   },
   {
     "FIPS":47119.0,
-    "Confirmed":105
+    "Confirmed":107
   },
   {
     "FIPS":47121.0,
@@ -9977,11 +9977,11 @@
   },
   {
     "FIPS":47123.0,
-    "Confirmed":69
+    "Confirmed":71
   },
   {
     "FIPS":47125.0,
-    "Confirmed":283
+    "Confirmed":286
   },
   {
     "FIPS":47127.0,
@@ -9993,7 +9993,7 @@
   },
   {
     "FIPS":47131.0,
-    "Confirmed":43
+    "Confirmed":45
   },
   {
     "FIPS":47133.0,
@@ -10009,15 +10009,15 @@
   },
   {
     "FIPS":47139.0,
-    "Confirmed":18
+    "Confirmed":19
   },
   {
     "FIPS":47141.0,
-    "Confirmed":519
+    "Confirmed":524
   },
   {
     "FIPS":47143.0,
-    "Confirmed":214
+    "Confirmed":217
   },
   {
     "FIPS":47145.0,
@@ -10025,11 +10025,11 @@
   },
   {
     "FIPS":47147.0,
-    "Confirmed":516
+    "Confirmed":523
   },
   {
     "FIPS":47149.0,
-    "Confirmed":1321
+    "Confirmed":1343
   },
   {
     "FIPS":47151.0,
@@ -10037,19 +10037,19 @@
   },
   {
     "FIPS":47153.0,
-    "Confirmed":19
+    "Confirmed":20
   },
   {
     "FIPS":47155.0,
-    "Confirmed":94
+    "Confirmed":97
   },
   {
     "FIPS":47157.0,
-    "Confirmed":5428
+    "Confirmed":5546
   },
   {
     "FIPS":47159.0,
-    "Confirmed":37
+    "Confirmed":36
   },
   {
     "FIPS":47161.0,
@@ -10061,11 +10061,11 @@
   },
   {
     "FIPS":47165.0,
-    "Confirmed":931
+    "Confirmed":938
   },
   {
     "FIPS":47167.0,
-    "Confirmed":459
+    "Confirmed":461
   },
   {
     "FIPS":47169.0,
@@ -10101,19 +10101,19 @@
   },
   {
     "FIPS":47185.0,
-    "Confirmed":34
+    "Confirmed":33
   },
   {
     "FIPS":47187.0,
-    "Confirmed":577
+    "Confirmed":589
   },
   {
     "FIPS":47189.0,
-    "Confirmed":442
+    "Confirmed":449
   },
   {
     "FIPS":48001.0,
-    "Confirmed":78
+    "Confirmed":85
   },
   {
     "FIPS":48003.0,
@@ -10137,7 +10137,7 @@
   },
   {
     "FIPS":48013.0,
-    "Confirmed":37
+    "Confirmed":38
   },
   {
     "FIPS":48015.0,
@@ -10153,7 +10153,7 @@
   },
   {
     "FIPS":48021.0,
-    "Confirmed":231
+    "Confirmed":240
   },
   {
     "FIPS":48023.0,
@@ -10165,7 +10165,7 @@
   },
   {
     "FIPS":48027.0,
-    "Confirmed":411
+    "Confirmed":423
   },
   {
     "FIPS":48029.0,
@@ -10185,15 +10185,15 @@
   },
   {
     "FIPS":48037.0,
-    "Confirmed":287
+    "Confirmed":296
   },
   {
     "FIPS":48039.0,
-    "Confirmed":941
+    "Confirmed":957
   },
   {
     "FIPS":48041.0,
-    "Confirmed":501
+    "Confirmed":517
   },
   {
     "FIPS":48043.0,
@@ -10213,11 +10213,11 @@
   },
   {
     "FIPS":48051.0,
-    "Confirmed":26
+    "Confirmed":28
   },
   {
     "FIPS":48053.0,
-    "Confirmed":45
+    "Confirmed":49
   },
   {
     "FIPS":48055.0,
@@ -10229,15 +10229,15 @@
   },
   {
     "FIPS":48059.0,
-    "Confirmed":9
+    "Confirmed":10
   },
   {
     "FIPS":48061.0,
-    "Confirmed":799
+    "Confirmed":820
   },
   {
     "FIPS":48063.0,
-    "Confirmed":84
+    "Confirmed":85
   },
   {
     "FIPS":48065.0,
@@ -10249,15 +10249,15 @@
   },
   {
     "FIPS":48069.0,
-    "Confirmed":33
+    "Confirmed":34
   },
   {
     "FIPS":48071.0,
-    "Confirmed":69
+    "Confirmed":73
   },
   {
     "FIPS":48073.0,
-    "Confirmed":47
+    "Confirmed":49
   },
   {
     "FIPS":48075.0,
@@ -10265,7 +10265,7 @@
   },
   {
     "FIPS":48077.0,
-    "Confirmed":4
+    "Confirmed":5
   },
   {
     "FIPS":48079.0,
@@ -10281,7 +10281,7 @@
   },
   {
     "FIPS":48085.0,
-    "Confirmed":1346
+    "Confirmed":1388
   },
   {
     "FIPS":48087.0,
@@ -10289,11 +10289,11 @@
   },
   {
     "FIPS":48089.0,
-    "Confirmed":23
+    "Confirmed":24
   },
   {
     "FIPS":48091.0,
-    "Confirmed":108
+    "Confirmed":111
   },
   {
     "FIPS":48093.0,
@@ -10305,7 +10305,7 @@
   },
   {
     "FIPS":48097.0,
-    "Confirmed":18
+    "Confirmed":19
   },
   {
     "FIPS":48099.0,
@@ -10337,11 +10337,11 @@
   },
   {
     "FIPS":48113.0,
-    "Confirmed":10958
+    "Confirmed":11243
   },
   {
     "FIPS":48115.0,
-    "Confirmed":43
+    "Confirmed":45
   },
   {
     "FIPS":48117.0,
@@ -10353,7 +10353,7 @@
   },
   {
     "FIPS":48121.0,
-    "Confirmed":1416
+    "Confirmed":1435
   },
   {
     "FIPS":48123.0,
@@ -10369,7 +10369,7 @@
   },
   {
     "FIPS":48129.0,
-    "Confirmed":26
+    "Confirmed":27
   },
   {
     "FIPS":48131.0,
@@ -10381,7 +10381,7 @@
   },
   {
     "FIPS":48135.0,
-    "Confirmed":167
+    "Confirmed":175
   },
   {
     "FIPS":48137.0,
@@ -10389,11 +10389,11 @@
   },
   {
     "FIPS":48139.0,
-    "Confirmed":335
+    "Confirmed":338
   },
   {
     "FIPS":48141.0,
-    "Confirmed":2872
+    "Confirmed":3069
   },
   {
     "FIPS":48143.0,
@@ -10401,7 +10401,7 @@
   },
   {
     "FIPS":48145.0,
-    "Confirmed":9
+    "Confirmed":10
   },
   {
     "FIPS":48147.0,
@@ -10409,7 +10409,7 @@
   },
   {
     "FIPS":48149.0,
-    "Confirmed":36
+    "Confirmed":38
   },
   {
     "FIPS":48151.0,
@@ -10425,11 +10425,11 @@
   },
   {
     "FIPS":48157.0,
-    "Confirmed":1916
+    "Confirmed":1951
   },
   {
     "FIPS":48159.0,
-    "Confirmed":17
+    "Confirmed":18
   },
   {
     "FIPS":48161.0,
@@ -10445,7 +10445,7 @@
   },
   {
     "FIPS":48167.0,
-    "Confirmed":857
+    "Confirmed":876
   },
   {
     "FIPS":48169.0,
@@ -10465,19 +10465,19 @@
   },
   {
     "FIPS":48177.0,
-    "Confirmed":143
+    "Confirmed":144
   },
   {
     "FIPS":48179.0,
-    "Confirmed":100
+    "Confirmed":101
   },
   {
     "FIPS":48181.0,
-    "Confirmed":350
+    "Confirmed":355
   },
   {
     "FIPS":48183.0,
-    "Confirmed":244
+    "Confirmed":249
   },
   {
     "FIPS":48185.0,
@@ -10485,7 +10485,7 @@
   },
   {
     "FIPS":48187.0,
-    "Confirmed":135
+    "Confirmed":142
   },
   {
     "FIPS":48189.0,
@@ -10497,7 +10497,7 @@
   },
   {
     "FIPS":48193.0,
-    "Confirmed":8
+    "Confirmed":9
   },
   {
     "FIPS":48195.0,
@@ -10509,15 +10509,15 @@
   },
   {
     "FIPS":48199.0,
-    "Confirmed":138
+    "Confirmed":142
   },
   {
     "FIPS":48201.0,
-    "Confirmed":13268
+    "Confirmed":13603
   },
   {
     "FIPS":48203.0,
-    "Confirmed":250
+    "Confirmed":255
   },
   {
     "FIPS":48205.0,
@@ -10529,7 +10529,7 @@
   },
   {
     "FIPS":48209.0,
-    "Confirmed":371
+    "Confirmed":385
   },
   {
     "FIPS":48211.0,
@@ -10537,15 +10537,15 @@
   },
   {
     "FIPS":48213.0,
-    "Confirmed":63
+    "Confirmed":65
   },
   {
     "FIPS":48215.0,
-    "Confirmed":610
+    "Confirmed":634
   },
   {
     "FIPS":48217.0,
-    "Confirmed":24
+    "Confirmed":25
   },
   {
     "FIPS":48219.0,
@@ -10561,7 +10561,7 @@
   },
   {
     "FIPS":48225.0,
-    "Confirmed":127
+    "Confirmed":145
   },
   {
     "FIPS":48227.0,
@@ -10569,15 +10569,15 @@
   },
   {
     "FIPS":48229.0,
-    "Confirmed":2
+    "Confirmed":3
   },
   {
     "FIPS":48231.0,
-    "Confirmed":91
+    "Confirmed":96
   },
   {
     "FIPS":48233.0,
-    "Confirmed":42
+    "Confirmed":44
   },
   {
     "FIPS":48235.0,
@@ -10601,7 +10601,7 @@
   },
   {
     "FIPS":48245.0,
-    "Confirmed":581
+    "Confirmed":585
   },
   {
     "FIPS":48247.0,
@@ -10613,11 +10613,11 @@
   },
   {
     "FIPS":48251.0,
-    "Confirmed":176
+    "Confirmed":178
   },
   {
     "FIPS":48253.0,
-    "Confirmed":637
+    "Confirmed":636
   },
   {
     "FIPS":48255.0,
@@ -10625,7 +10625,7 @@
   },
   {
     "FIPS":48257.0,
-    "Confirmed":230
+    "Confirmed":240
   },
   {
     "FIPS":48259.0,
@@ -10665,7 +10665,7 @@
   },
   {
     "FIPS":48277.0,
-    "Confirmed":151
+    "Confirmed":152
   },
   {
     "FIPS":48279.0,
@@ -10681,7 +10681,7 @@
   },
   {
     "FIPS":48285.0,
-    "Confirmed":14
+    "Confirmed":17
   },
   {
     "FIPS":48287.0,
@@ -10697,11 +10697,11 @@
   },
   {
     "FIPS":48293.0,
-    "Confirmed":27
+    "Confirmed":30
   },
   {
     "FIPS":48295.0,
-    "Confirmed":3
+    "Confirmed":4
   },
   {
     "FIPS":48297.0,
@@ -10717,11 +10717,11 @@
   },
   {
     "FIPS":48303.0,
-    "Confirmed":706
+    "Confirmed":707
   },
   {
     "FIPS":48305.0,
-    "Confirmed":7
+    "Confirmed":8
   },
   {
     "FIPS":48307.0,
@@ -10729,7 +10729,7 @@
   },
   {
     "FIPS":48309.0,
-    "Confirmed":121
+    "Confirmed":123
   },
   {
     "FIPS":48311.0,
@@ -10757,11 +10757,11 @@
   },
   {
     "FIPS":48323.0,
-    "Confirmed":120
+    "Confirmed":129
   },
   {
     "FIPS":48325.0,
-    "Confirmed":74
+    "Confirmed":76
   },
   {
     "FIPS":48327.0,
@@ -10769,7 +10769,7 @@
   },
   {
     "FIPS":48329.0,
-    "Confirmed":137
+    "Confirmed":141
   },
   {
     "FIPS":48331.0,
@@ -10789,15 +10789,15 @@
   },
   {
     "FIPS":48339.0,
-    "Confirmed":1033
+    "Confirmed":1053
   },
   {
     "FIPS":48341.0,
-    "Confirmed":840
+    "Confirmed":844
   },
   {
     "FIPS":48343.0,
-    "Confirmed":25
+    "Confirmed":27
   },
   {
     "FIPS":48345.0,
@@ -10805,11 +10805,11 @@
   },
   {
     "FIPS":48347.0,
-    "Confirmed":294
+    "Confirmed":298
   },
   {
     "FIPS":48349.0,
-    "Confirmed":58
+    "Confirmed":61
   },
   {
     "FIPS":48351.0,
@@ -10817,15 +10817,15 @@
   },
   {
     "FIPS":48353.0,
-    "Confirmed":3
+    "Confirmed":8
   },
   {
     "FIPS":48355.0,
-    "Confirmed":280
+    "Confirmed":285
   },
   {
     "FIPS":48357.0,
-    "Confirmed":50
+    "Confirmed":51
   },
   {
     "FIPS":48359.0,
@@ -10833,7 +10833,7 @@
   },
   {
     "FIPS":48361.0,
-    "Confirmed":98
+    "Confirmed":101
   },
   {
     "FIPS":48363.0,
@@ -10841,7 +10841,7 @@
   },
   {
     "FIPS":48365.0,
-    "Confirmed":199
+    "Confirmed":213
   },
   {
     "FIPS":48367.0,
@@ -10849,7 +10849,7 @@
   },
   {
     "FIPS":48369.0,
-    "Confirmed":69
+    "Confirmed":71
   },
   {
     "FIPS":48371.0,
@@ -10861,7 +10861,7 @@
   },
   {
     "FIPS":48375.0,
-    "Confirmed":2432
+    "Confirmed":2488
   },
   {
     "FIPS":48377.0,
@@ -10873,7 +10873,7 @@
   },
   {
     "FIPS":48381.0,
-    "Confirmed":711
+    "Confirmed":715
   },
   {
     "FIPS":48383.0,
@@ -10885,7 +10885,7 @@
   },
   {
     "FIPS":48387.0,
-    "Confirmed":74
+    "Confirmed":76
   },
   {
     "FIPS":48389.0,
@@ -10905,7 +10905,7 @@
   },
   {
     "FIPS":48397.0,
-    "Confirmed":171
+    "Confirmed":176
   },
   {
     "FIPS":48399.0,
@@ -10913,7 +10913,7 @@
   },
   {
     "FIPS":48401.0,
-    "Confirmed":57
+    "Confirmed":59
   },
   {
     "FIPS":48403.0,
@@ -10925,7 +10925,7 @@
   },
   {
     "FIPS":48407.0,
-    "Confirmed":14
+    "Confirmed":16
   },
   {
     "FIPS":48409.0,
@@ -10941,7 +10941,7 @@
   },
   {
     "FIPS":48415.0,
-    "Confirmed":32
+    "Confirmed":33
   },
   {
     "FIPS":48417.0,
@@ -10949,7 +10949,7 @@
   },
   {
     "FIPS":48419.0,
-    "Confirmed":207
+    "Confirmed":213
   },
   {
     "FIPS":48421.0,
@@ -10957,7 +10957,7 @@
   },
   {
     "FIPS":48423.0,
-    "Confirmed":212
+    "Confirmed":215
   },
   {
     "FIPS":48425.0,
@@ -10965,7 +10965,7 @@
   },
   {
     "FIPS":48427.0,
-    "Confirmed":37
+    "Confirmed":42
   },
   {
     "FIPS":48429.0,
@@ -10985,15 +10985,15 @@
   },
   {
     "FIPS":48437.0,
-    "Confirmed":17
+    "Confirmed":18
   },
   {
     "FIPS":48439.0,
-    "Confirmed":5623
+    "Confirmed":5761
   },
   {
     "FIPS":48441.0,
-    "Confirmed":241
+    "Confirmed":242
   },
   {
     "FIPS":48443.0,
@@ -11013,19 +11013,19 @@
   },
   {
     "FIPS":48451.0,
-    "Confirmed":107
+    "Confirmed":109
   },
   {
     "FIPS":48453.0,
-    "Confirmed":3433
+    "Confirmed":3501
   },
   {
     "FIPS":48455.0,
-    "Confirmed":15
+    "Confirmed":20
   },
   {
     "FIPS":48457.0,
-    "Confirmed":12
+    "Confirmed":14
   },
   {
     "FIPS":48459.0,
@@ -11037,7 +11037,7 @@
   },
   {
     "FIPS":48463.0,
-    "Confirmed":16
+    "Confirmed":18
   },
   {
     "FIPS":48465.0,
@@ -11049,15 +11049,15 @@
   },
   {
     "FIPS":48469.0,
-    "Confirmed":162
+    "Confirmed":167
   },
   {
     "FIPS":48471.0,
-    "Confirmed":1730
+    "Confirmed":1801
   },
   {
     "FIPS":48473.0,
-    "Confirmed":63
+    "Confirmed":64
   },
   {
     "FIPS":48475.0,
@@ -11065,15 +11065,15 @@
   },
   {
     "FIPS":48477.0,
-    "Confirmed":204
+    "Confirmed":206
   },
   {
     "FIPS":48479.0,
-    "Confirmed":552
+    "Confirmed":565
   },
   {
     "FIPS":48481.0,
-    "Confirmed":68
+    "Confirmed":70
   },
   {
     "FIPS":48483.0,
@@ -11093,7 +11093,7 @@
   },
   {
     "FIPS":48491.0,
-    "Confirmed":649
+    "Confirmed":660
   },
   {
     "FIPS":48493.0,
@@ -11105,11 +11105,11 @@
   },
   {
     "FIPS":48497.0,
-    "Confirmed":47
+    "Confirmed":50
   },
   {
     "FIPS":48499.0,
-    "Confirmed":38
+    "Confirmed":40
   },
   {
     "FIPS":48501.0,
@@ -11149,7 +11149,7 @@
   },
   {
     "FIPS":49011.0,
-    "Confirmed":494
+    "Confirmed":513
   },
   {
     "FIPS":49013.0,
@@ -11197,11 +11197,11 @@
   },
   {
     "FIPS":49035.0,
-    "Confirmed":5603
+    "Confirmed":5756
   },
   {
     "FIPS":49037.0,
-    "Confirmed":309
+    "Confirmed":312
   },
   {
     "FIPS":49039.0,
@@ -11213,11 +11213,11 @@
   },
   {
     "FIPS":49043.0,
-    "Confirmed":418
+    "Confirmed":419
   },
   {
     "FIPS":49045.0,
-    "Confirmed":136
+    "Confirmed":140
   },
   {
     "FIPS":49047.0,
@@ -11225,11 +11225,11 @@
   },
   {
     "FIPS":49049.0,
-    "Confirmed":2028
+    "Confirmed":2088
   },
   {
     "FIPS":49051.0,
-    "Confirmed":305
+    "Confirmed":313
   },
   {
     "FIPS":49053.0,
@@ -11249,7 +11249,7 @@
   },
   {
     "FIPS":50003.0,
-    "Confirmed":64
+    "Confirmed":65
   },
   {
     "FIPS":50005.0,
@@ -11257,7 +11257,7 @@
   },
   {
     "FIPS":50007.0,
-    "Confirmed":457
+    "Confirmed":491
   },
   {
     "FIPS":50009.0,
@@ -11285,7 +11285,7 @@
   },
   {
     "FIPS":50021.0,
-    "Confirmed":55
+    "Confirmed":56
   },
   {
     "FIPS":50023.0,
@@ -11301,11 +11301,11 @@
   },
   {
     "FIPS":51001.0,
-    "Confirmed":953
+    "Confirmed":966
   },
   {
     "FIPS":51003.0,
-    "Confirmed":204
+    "Confirmed":213
   },
   {
     "FIPS":51005.0,
@@ -11325,11 +11325,11 @@
   },
   {
     "FIPS":51013.0,
-    "Confirmed":2142
+    "Confirmed":2150
   },
   {
     "FIPS":51015.0,
-    "Confirmed":115
+    "Confirmed":122
   },
   {
     "FIPS":51017.0,
@@ -11337,7 +11337,7 @@
   },
   {
     "FIPS":51019.0,
-    "Confirmed":62
+    "Confirmed":63
   },
   {
     "FIPS":51021.0,
@@ -11349,7 +11349,7 @@
   },
   {
     "FIPS":51025.0,
-    "Confirmed":30
+    "Confirmed":31
   },
   {
     "FIPS":51027.0,
@@ -11357,7 +11357,7 @@
   },
   {
     "FIPS":51029.0,
-    "Confirmed":467
+    "Confirmed":469
   },
   {
     "FIPS":51031.0,
@@ -11369,7 +11369,7 @@
   },
   {
     "FIPS":51035.0,
-    "Confirmed":105
+    "Confirmed":122
   },
   {
     "FIPS":51036.0,
@@ -11377,15 +11377,15 @@
   },
   {
     "FIPS":51037.0,
-    "Confirmed":27
+    "Confirmed":28
   },
   {
     "FIPS":51041.0,
-    "Confirmed":1661
+    "Confirmed":1721
   },
   {
     "FIPS":51043.0,
-    "Confirmed":29
+    "Confirmed":31
   },
   {
     "FIPS":51045.0,
@@ -11393,7 +11393,7 @@
   },
   {
     "FIPS":51047.0,
-    "Confirmed":727
+    "Confirmed":732
   },
   {
     "FIPS":51049.0,
@@ -11405,35 +11405,35 @@
   },
   {
     "FIPS":51053.0,
-    "Confirmed":84
+    "Confirmed":90
   },
   {
     "FIPS":51057.0,
-    "Confirmed":48
+    "Confirmed":52
   },
   {
     "FIPS":51059.0,
-    "Confirmed":11596
+    "Confirmed":11815
   },
   {
     "FIPS":51061.0,
-    "Confirmed":329
+    "Confirmed":334
   },
   {
     "FIPS":51063.0,
-    "Confirmed":7
+    "Confirmed":6
   },
   {
     "FIPS":51065.0,
-    "Confirmed":92
+    "Confirmed":94
   },
   {
     "FIPS":51067.0,
-    "Confirmed":36
+    "Confirmed":37
   },
   {
     "FIPS":51069.0,
-    "Confirmed":378
+    "Confirmed":384
   },
   {
     "FIPS":51071.0,
@@ -11449,7 +11449,7 @@
   },
   {
     "FIPS":51077.0,
-    "Confirmed":42
+    "Confirmed":46
   },
   {
     "FIPS":51079.0,
@@ -11457,23 +11457,23 @@
   },
   {
     "FIPS":51081.0,
-    "Confirmed":150
+    "Confirmed":213
   },
   {
     "FIPS":51083.0,
-    "Confirmed":30
+    "Confirmed":31
   },
   {
     "FIPS":51085.0,
-    "Confirmed":331
+    "Confirmed":336
   },
   {
     "FIPS":51087.0,
-    "Confirmed":1933
+    "Confirmed":1946
   },
   {
     "FIPS":51089.0,
-    "Confirmed":145
+    "Confirmed":152
   },
   {
     "FIPS":51091.0,
@@ -11489,11 +11489,11 @@
   },
   {
     "FIPS":51097.0,
-    "Confirmed":13
+    "Confirmed":21
   },
   {
     "FIPS":51099.0,
-    "Confirmed":70
+    "Confirmed":72
   },
   {
     "FIPS":51101.0,
@@ -11509,15 +11509,15 @@
   },
   {
     "FIPS":51107.0,
-    "Confirmed":2659
+    "Confirmed":2794
   },
   {
     "FIPS":51109.0,
-    "Confirmed":81
+    "Confirmed":84
   },
   {
     "FIPS":51111.0,
-    "Confirmed":15
+    "Confirmed":16
   },
   {
     "FIPS":51113.0,
@@ -11537,7 +11537,7 @@
   },
   {
     "FIPS":51121.0,
-    "Confirmed":80
+    "Confirmed":82
   },
   {
     "FIPS":51125.0,
@@ -11545,11 +11545,11 @@
   },
   {
     "FIPS":51127.0,
-    "Confirmed":38
+    "Confirmed":39
   },
   {
     "FIPS":51131.0,
-    "Confirmed":245
+    "Confirmed":247
   },
   {
     "FIPS":51133.0,
@@ -11561,7 +11561,7 @@
   },
   {
     "FIPS":51137.0,
-    "Confirmed":111
+    "Confirmed":115
   },
   {
     "FIPS":51139.0,
@@ -11569,7 +11569,7 @@
   },
   {
     "FIPS":51141.0,
-    "Confirmed":21
+    "Confirmed":22
   },
   {
     "FIPS":51143.0,
@@ -11581,15 +11581,15 @@
   },
   {
     "FIPS":51147.0,
-    "Confirmed":143
+    "Confirmed":146
   },
   {
     "FIPS":51149.0,
-    "Confirmed":135
+    "Confirmed":142
   },
   {
     "FIPS":51153.0,
-    "Confirmed":5837
+    "Confirmed":5932
   },
   {
     "FIPS":51155.0,
@@ -11597,7 +11597,7 @@
   },
   {
     "FIPS":51157.0,
-    "Confirmed":14
+    "Confirmed":15
   },
   {
     "FIPS":51159.0,
@@ -11609,11 +11609,11 @@
   },
   {
     "FIPS":51163.0,
-    "Confirmed":19
+    "Confirmed":18
   },
   {
     "FIPS":51165.0,
-    "Confirmed":548
+    "Confirmed":555
   },
   {
     "FIPS":51167.0,
@@ -11625,7 +11625,7 @@
   },
   {
     "FIPS":51171.0,
-    "Confirmed":465
+    "Confirmed":470
   },
   {
     "FIPS":51173.0,
@@ -11637,19 +11637,19 @@
   },
   {
     "FIPS":51177.0,
-    "Confirmed":590
+    "Confirmed":593
   },
   {
     "FIPS":51179.0,
-    "Confirmed":738
+    "Confirmed":742
   },
   {
     "FIPS":51181.0,
-    "Confirmed":11
+    "Confirmed":10
   },
   {
     "FIPS":51183.0,
-    "Confirmed":165
+    "Confirmed":173
   },
   {
     "FIPS":51185.0,
@@ -11657,7 +11657,7 @@
   },
   {
     "FIPS":51187.0,
-    "Confirmed":204
+    "Confirmed":217
   },
   {
     "FIPS":51191.0,
@@ -11665,15 +11665,15 @@
   },
   {
     "FIPS":51193.0,
-    "Confirmed":76
+    "Confirmed":80
   },
   {
     "FIPS":51195.0,
-    "Confirmed":25
+    "Confirmed":27
   },
   {
     "FIPS":51197.0,
-    "Confirmed":29
+    "Confirmed":30
   },
   {
     "FIPS":51199.0,
@@ -11681,7 +11681,7 @@
   },
   {
     "FIPS":51510.0,
-    "Confirmed":2016
+    "Confirmed":2031
   },
   {
     "FIPS":51520.0,
@@ -11693,15 +11693,15 @@
   },
   {
     "FIPS":51540.0,
-    "Confirmed":128
+    "Confirmed":131
   },
   {
     "FIPS":51550.0,
-    "Confirmed":548
+    "Confirmed":554
   },
   {
     "FIPS":51570.0,
-    "Confirmed":96
+    "Confirmed":97
   },
   {
     "FIPS":51580.0,
@@ -11713,7 +11713,7 @@
   },
   {
     "FIPS":51595.0,
-    "Confirmed":86
+    "Confirmed":89
   },
   {
     "FIPS":51600.0,
@@ -11721,7 +11721,7 @@
   },
   {
     "FIPS":51610.0,
-    "Confirmed":55
+    "Confirmed":56
   },
   {
     "FIPS":51620.0,
@@ -11729,23 +11729,23 @@
   },
   {
     "FIPS":51630.0,
-    "Confirmed":172
+    "Confirmed":178
   },
   {
     "FIPS":51640.0,
-    "Confirmed":131
+    "Confirmed":140
   },
   {
     "FIPS":51650.0,
-    "Confirmed":212
+    "Confirmed":214
   },
   {
     "FIPS":51660.0,
-    "Confirmed":809
+    "Confirmed":814
   },
   {
     "FIPS":51670.0,
-    "Confirmed":98
+    "Confirmed":103
   },
   {
     "FIPS":51678.0,
@@ -11757,23 +11757,23 @@
   },
   {
     "FIPS":51683.0,
-    "Confirmed":1154
+    "Confirmed":1166
   },
   {
     "FIPS":51685.0,
-    "Confirmed":332
+    "Confirmed":339
   },
   {
     "FIPS":51690.0,
-    "Confirmed":38
+    "Confirmed":39
   },
   {
     "FIPS":51700.0,
-    "Confirmed":292
+    "Confirmed":299
   },
   {
     "FIPS":51710.0,
-    "Confirmed":539
+    "Confirmed":552
   },
   {
     "FIPS":51720.0,
@@ -11781,7 +11781,7 @@
   },
   {
     "FIPS":51730.0,
-    "Confirmed":143
+    "Confirmed":152
   },
   {
     "FIPS":51735.0,
@@ -11789,7 +11789,7 @@
   },
   {
     "FIPS":51740.0,
-    "Confirmed":322
+    "Confirmed":325
   },
   {
     "FIPS":51750.0,
@@ -11797,7 +11797,7 @@
   },
   {
     "FIPS":51760.0,
-    "Confirmed":1455
+    "Confirmed":1488
   },
   {
     "FIPS":51770.0,
@@ -11809,15 +11809,15 @@
   },
   {
     "FIPS":51790.0,
-    "Confirmed":50
+    "Confirmed":52
   },
   {
     "FIPS":51800.0,
-    "Confirmed":318
+    "Confirmed":320
   },
   {
     "FIPS":51810.0,
-    "Confirmed":752
+    "Confirmed":770
   },
   {
     "FIPS":51820.0,
@@ -11829,11 +11829,11 @@
   },
   {
     "FIPS":51840.0,
-    "Confirmed":198
+    "Confirmed":215
   },
   {
     "FIPS":53001.0,
-    "Confirmed":73
+    "Confirmed":77
   },
   {
     "FIPS":53003.0,
@@ -11841,11 +11841,11 @@
   },
   {
     "FIPS":53005.0,
-    "Confirmed":838
+    "Confirmed":852
   },
   {
     "FIPS":53007.0,
-    "Confirmed":254
+    "Confirmed":255
   },
   {
     "FIPS":53009.0,
@@ -11865,7 +11865,7 @@
   },
   {
     "FIPS":53017.0,
-    "Confirmed":172
+    "Confirmed":173
   },
   {
     "FIPS":53019.0,
@@ -11873,7 +11873,7 @@
   },
   {
     "FIPS":53021.0,
-    "Confirmed":632
+    "Confirmed":642
   },
   {
     "FIPS":53023.0,
@@ -11881,7 +11881,7 @@
   },
   {
     "FIPS":53025.0,
-    "Confirmed":211
+    "Confirmed":212
   },
   {
     "FIPS":53027.0,
@@ -11897,7 +11897,7 @@
   },
   {
     "FIPS":53033.0,
-    "Confirmed":8264
+    "Confirmed":8318
   },
   {
     "FIPS":53035.0,
@@ -11905,11 +11905,11 @@
   },
   {
     "FIPS":53037.0,
-    "Confirmed":89
+    "Confirmed":88
   },
   {
     "FIPS":53039.0,
-    "Confirmed":28
+    "Confirmed":29
   },
   {
     "FIPS":53041.0,
@@ -11925,7 +11925,7 @@
   },
   {
     "FIPS":53047.0,
-    "Confirmed":52
+    "Confirmed":53
   },
   {
     "FIPS":53049.0,
@@ -11937,7 +11937,7 @@
   },
   {
     "FIPS":53053.0,
-    "Confirmed":1968
+    "Confirmed":1991
   },
   {
     "FIPS":53055.0,
@@ -11945,19 +11945,19 @@
   },
   {
     "FIPS":53057.0,
-    "Confirmed":443
+    "Confirmed":446
   },
   {
     "FIPS":53059.0,
-    "Confirmed":4
+    "Confirmed":3
   },
   {
     "FIPS":53061.0,
-    "Confirmed":2991
+    "Confirmed":2999
   },
   {
     "FIPS":53063.0,
-    "Confirmed":627
+    "Confirmed":648
   },
   {
     "FIPS":53065.0,
@@ -11973,11 +11973,11 @@
   },
   {
     "FIPS":53071.0,
-    "Confirmed":110
+    "Confirmed":111
   },
   {
     "FIPS":53073.0,
-    "Confirmed":402
+    "Confirmed":404
   },
   {
     "FIPS":53075.0,
@@ -11985,7 +11985,7 @@
   },
   {
     "FIPS":53077.0,
-    "Confirmed":3938
+    "Confirmed":4031
   },
   {
     "FIPS":54001.0,
@@ -11993,11 +11993,11 @@
   },
   {
     "FIPS":54003.0,
-    "Confirmed":326
+    "Confirmed":336
   },
   {
     "FIPS":54005.0,
-    "Confirmed":9
+    "Confirmed":11
   },
   {
     "FIPS":54007.0,
@@ -12009,7 +12009,7 @@
   },
   {
     "FIPS":54011.0,
-    "Confirmed":67
+    "Confirmed":69
   },
   {
     "FIPS":54013.0,
@@ -12045,7 +12045,7 @@
   },
   {
     "FIPS":54029.0,
-    "Confirmed":19
+    "Confirmed":20
   },
   {
     "FIPS":54031.0,
@@ -12057,15 +12057,15 @@
   },
   {
     "FIPS":54035.0,
-    "Confirmed":137
+    "Confirmed":138
   },
   {
     "FIPS":54037.0,
-    "Confirmed":199
+    "Confirmed":204
   },
   {
     "FIPS":54039.0,
-    "Confirmed":230
+    "Confirmed":231
   },
   {
     "FIPS":54041.0,
@@ -12101,7 +12101,7 @@
   },
   {
     "FIPS":54057.0,
-    "Confirmed":47
+    "Confirmed":48
   },
   {
     "FIPS":54059.0,
@@ -12169,7 +12169,7 @@
   },
   {
     "FIPS":54091.0,
-    "Confirmed":9
+    "Confirmed":10
   },
   {
     "FIPS":54093.0,
@@ -12185,7 +12185,7 @@
   },
   {
     "FIPS":54099.0,
-    "Confirmed":102
+    "Confirmed":103
   },
   {
     "FIPS":54101.0,
@@ -12217,7 +12217,7 @@
   },
   {
     "FIPS":55005.0,
-    "Confirmed":21
+    "Confirmed":20
   },
   {
     "FIPS":55007.0,
@@ -12225,7 +12225,7 @@
   },
   {
     "FIPS":55009.0,
-    "Confirmed":2350
+    "Confirmed":2361
   },
   {
     "FIPS":55011.0,
@@ -12245,7 +12245,7 @@
   },
   {
     "FIPS":55019.0,
-    "Confirmed":35
+    "Confirmed":37
   },
   {
     "FIPS":55021.0,
@@ -12257,15 +12257,15 @@
   },
   {
     "FIPS":55025.0,
-    "Confirmed":773
+    "Confirmed":789
   },
   {
     "FIPS":55027.0,
-    "Confirmed":383
+    "Confirmed":386
   },
   {
     "FIPS":55029.0,
-    "Confirmed":38
+    "Confirmed":40
   },
   {
     "FIPS":55031.0,
@@ -12273,11 +12273,11 @@
   },
   {
     "FIPS":55033.0,
-    "Confirmed":25
+    "Confirmed":26
   },
   {
     "FIPS":55035.0,
-    "Confirmed":114
+    "Confirmed":116
   },
   {
     "FIPS":55037.0,
@@ -12285,11 +12285,11 @@
   },
   {
     "FIPS":55039.0,
-    "Confirmed":221
+    "Confirmed":225
   },
   {
     "FIPS":55041.0,
-    "Confirmed":28
+    "Confirmed":29
   },
   {
     "FIPS":55043.0,
@@ -12305,7 +12305,7 @@
   },
   {
     "FIPS":55049.0,
-    "Confirmed":17
+    "Confirmed":16
   },
   {
     "FIPS":55051.0,
@@ -12317,7 +12317,7 @@
   },
   {
     "FIPS":55055.0,
-    "Confirmed":114
+    "Confirmed":116
   },
   {
     "FIPS":55057.0,
@@ -12325,7 +12325,7 @@
   },
   {
     "FIPS":55059.0,
-    "Confirmed":1217
+    "Confirmed":1246
   },
   {
     "FIPS":55061.0,
@@ -12333,15 +12333,15 @@
   },
   {
     "FIPS":55063.0,
-    "Confirmed":58
+    "Confirmed":64
   },
   {
     "FIPS":55065.0,
-    "Confirmed":27
+    "Confirmed":28
   },
   {
     "FIPS":55067.0,
-    "Confirmed":3
+    "Confirmed":4
   },
   {
     "FIPS":55069.0,
@@ -12357,11 +12357,11 @@
   },
   {
     "FIPS":55075.0,
-    "Confirmed":32
+    "Confirmed":33
   },
   {
     "FIPS":55077.0,
-    "Confirmed":6
+    "Confirmed":5
   },
   {
     "FIPS":55078.0,
@@ -12369,7 +12369,7 @@
   },
   {
     "FIPS":55079.0,
-    "Confirmed":8108
+    "Confirmed":8388
   },
   {
     "FIPS":55081.0,
@@ -12385,11 +12385,11 @@
   },
   {
     "FIPS":55087.0,
-    "Confirmed":239
+    "Confirmed":246
   },
   {
     "FIPS":55089.0,
-    "Confirmed":170
+    "Confirmed":174
   },
   {
     "FIPS":55091.0,
@@ -12397,11 +12397,11 @@
   },
   {
     "FIPS":55093.0,
-    "Confirmed":47
+    "Confirmed":49
   },
   {
     "FIPS":55095.0,
-    "Confirmed":24
+    "Confirmed":28
   },
   {
     "FIPS":55097.0,
@@ -12413,7 +12413,7 @@
   },
   {
     "FIPS":55101.0,
-    "Confirmed":1797
+    "Confirmed":1838
   },
   {
     "FIPS":55103.0,
@@ -12421,7 +12421,7 @@
   },
   {
     "FIPS":55105.0,
-    "Confirmed":658
+    "Confirmed":671
   },
   {
     "FIPS":55107.0,
@@ -12429,7 +12429,7 @@
   },
   {
     "FIPS":55109.0,
-    "Confirmed":97
+    "Confirmed":100
   },
   {
     "FIPS":55111.0,
@@ -12441,11 +12441,11 @@
   },
   {
     "FIPS":55115.0,
-    "Confirmed":51
+    "Confirmed":53
   },
   {
     "FIPS":55117.0,
-    "Confirmed":98
+    "Confirmed":101
   },
   {
     "FIPS":55119.0,
@@ -12453,7 +12453,7 @@
   },
   {
     "FIPS":55121.0,
-    "Confirmed":29
+    "Confirmed":30
   },
   {
     "FIPS":55123.0,
@@ -12473,27 +12473,27 @@
   },
   {
     "FIPS":55131.0,
-    "Confirmed":261
+    "Confirmed":266
   },
   {
     "FIPS":55133.0,
-    "Confirmed":744
+    "Confirmed":765
   },
   {
     "FIPS":55135.0,
-    "Confirmed":45
+    "Confirmed":47
   },
   {
     "FIPS":55137.0,
-    "Confirmed":10
+    "Confirmed":9
   },
   {
     "FIPS":55139.0,
-    "Confirmed":284
+    "Confirmed":309
   },
   {
     "FIPS":55141.0,
-    "Confirmed":10
+    "Confirmed":11
   },
   {
     "FIPS":56001.0,
@@ -12505,7 +12505,7 @@
   },
   {
     "FIPS":56005.0,
-    "Confirmed":31
+    "Confirmed":32
   },
   {
     "FIPS":56007.0,
@@ -12521,7 +12521,7 @@
   },
   {
     "FIPS":56013.0,
-    "Confirmed":285
+    "Confirmed":287
   },
   {
     "FIPS":56015.0,
@@ -12569,7 +12569,7 @@
   },
   {
     "FIPS":56037.0,
-    "Confirmed":31
+    "Confirmed":32
   },
   {
     "FIPS":56039.0,
@@ -12581,7 +12581,7 @@
   },
   {
     "FIPS":56043.0,
-    "Confirmed":37
+    "Confirmed":39
   },
   {
     "FIPS":56045.0,
@@ -12629,11 +12629,11 @@
   },
   {
     "FIPS":80013.0,
-    "Confirmed":2183
+    "Confirmed":2319
   },
   {
     "FIPS":80015.0,
-    "Confirmed":10
+    "Confirmed":11
   },
   {
     "FIPS":80016.0,
@@ -12641,7 +12641,7 @@
   },
   {
     "FIPS":80017.0,
-    "Confirmed":120
+    "Confirmed":119
   },
   {
     "FIPS":80018.0,
@@ -12677,7 +12677,7 @@
   },
   {
     "FIPS":80026.0,
-    "Confirmed":45
+    "Confirmed":30
   },
   {
     "FIPS":80027.0,
@@ -12797,7 +12797,7 @@
   },
   {
     "FIPS":90001.0,
-    "Confirmed":297
+    "Confirmed":306
   },
   {
     "FIPS":90002.0,
@@ -12809,7 +12809,7 @@
   },
   {
     "FIPS":90005.0,
-    "Confirmed":249
+    "Confirmed":232
   },
   {
     "FIPS":90006.0,
@@ -12821,7 +12821,7 @@
   },
   {
     "FIPS":90009.0,
-    "Confirmed":248
+    "Confirmed":241
   },
   {
     "FIPS":90010.0,
@@ -12833,11 +12833,11 @@
   },
   {
     "FIPS":90012.0,
-    "Confirmed":89
+    "Confirmed":90
   },
   {
     "FIPS":90013.0,
-    "Confirmed":1338
+    "Confirmed":1196
   },
   {
     "FIPS":90015.0,
@@ -12849,7 +12849,7 @@
   },
   {
     "FIPS":90017.0,
-    "Confirmed":105
+    "Confirmed":84
   },
   {
     "FIPS":90018.0,
@@ -12865,11 +12865,11 @@
   },
   {
     "FIPS":90021.0,
-    "Confirmed":8
+    "Confirmed":9
   },
   {
     "FIPS":90022.0,
-    "Confirmed":85
+    "Confirmed":88
   },
   {
     "FIPS":90023.0,
@@ -12881,7 +12881,7 @@
   },
   {
     "FIPS":90025.0,
-    "Confirmed":307
+    "Confirmed":310
   },
   {
     "FIPS":90026.0,
@@ -12889,7 +12889,7 @@
   },
   {
     "FIPS":90027.0,
-    "Confirmed":74
+    "Confirmed":75
   },
   {
     "FIPS":90028.0,
@@ -12905,7 +12905,7 @@
   },
   {
     "FIPS":90031.0,
-    "Confirmed":215
+    "Confirmed":217
   },
   {
     "FIPS":90032.0,
@@ -12913,15 +12913,15 @@
   },
   {
     "FIPS":90033.0,
-    "Confirmed":10
+    "Confirmed":8
   },
   {
     "FIPS":90034.0,
-    "Confirmed":460
+    "Confirmed":426
   },
   {
     "FIPS":90035.0,
-    "Confirmed":367
+    "Confirmed":477
   },
   {
     "FIPS":90036.0,
@@ -12953,7 +12953,7 @@
   },
   {
     "FIPS":90044.0,
-    "Confirmed":2148
+    "Confirmed":2254
   },
   {
     "FIPS":90045.0,
@@ -12985,7 +12985,7 @@
   },
   {
     "FIPS":90053.0,
-    "Confirmed":28
+    "Confirmed":37
   },
   {
     "FIPS":90054.0,
@@ -13005,23 +13005,23 @@
   },
   {
     "FIPS":null,
-    "Confirmed":54
+    "Confirmed":55
   },
   {
     "FIPS":null,
-    "Confirmed":1366
+    "Confirmed":1437
   },
   {
     "FIPS":null,
-    "Confirmed":3970
+    "Confirmed":3987
   },
   {
     "FIPS":null,
-    "Confirmed":149
+    "Confirmed":152
   },
   {
     "FIPS":null,
-    "Confirmed":305
+    "Confirmed":333
   },
   {
     "FIPS":null,
@@ -13033,7 +13033,7 @@
   },
   {
     "FIPS":null,
-    "Confirmed":498
+    "Confirmed":524
   },
   {
     "FIPS":null,
@@ -13041,6 +13041,6 @@
   },
   {
     "FIPS":null,
-    "Confirmed":316
+    "Confirmed":330
   }
 ]
