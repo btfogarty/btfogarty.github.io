@@ -1,39 +1,39 @@
 [
   {
     "id":1001,
-    "value":282
+    "value":295
   },
   {
     "id":1003,
-    "value":325
+    "value":331
   },
   {
     "id":1005,
-    "value":199
+    "value":208
   },
   {
     "id":1007,
-    "value":85
+    "value":89
   },
   {
     "id":1009,
-    "value":75
+    "value":79
   },
   {
     "id":1011,
-    "value":243
+    "value":248
   },
   {
     "id":1013,
-    "value":464
+    "value":471
   },
   {
     "id":1015,
-    "value":180
+    "value":182
   },
   {
     "id":1017,
-    "value":391
+    "value":401
   },
   {
     "id":1019,
@@ -41,15 +41,15 @@
   },
   {
     "id":1021,
-    "value":117
+    "value":118
   },
   {
     "id":1023,
-    "value":157
+    "value":158
   },
   {
     "id":1025,
-    "value":161
+    "value":163
   },
   {
     "id":1027,
@@ -61,63 +61,63 @@
   },
   {
     "id":1031,
-    "value":249
+    "value":250
   },
   {
     "id":1033,
-    "value":216
+    "value":219
   },
   {
     "id":1035,
-    "value":55
+    "value":64
   },
   {
     "id":1037,
-    "value":40
+    "value":41
   },
   {
     "id":1039,
-    "value":89
+    "value":92
   },
   {
     "id":1041,
-    "value":89
+    "value":96
   },
   {
     "id":1043,
-    "value":203
+    "value":212
   },
   {
     "id":1045,
-    "value":138
+    "value":141
   },
   {
     "id":1047,
-    "value":353
+    "value":375
   },
   {
     "id":1049,
-    "value":276
+    "value":278
   },
   {
     "id":1051,
-    "value":437
+    "value":447
   },
   {
     "id":1053,
-    "value":88
+    "value":91
   },
   {
     "id":1055,
-    "value":277
+    "value":280
   },
   {
     "id":1057,
-    "value":21
+    "value":23
   },
   {
     "id":1059,
-    "value":631
+    "value":634
   },
   {
     "id":1061,
@@ -125,63 +125,63 @@
   },
   {
     "id":1063,
-    "value":102
+    "value":107
   },
   {
     "id":1065,
-    "value":209
+    "value":210
   },
   {
     "id":1067,
-    "value":89
+    "value":93
   },
   {
     "id":1069,
-    "value":253
+    "value":259
   },
   {
     "id":1071,
-    "value":97
+    "value":101
   },
   {
     "id":1073,
-    "value":2131
+    "value":2187
   },
   {
     "id":1075,
-    "value":29
+    "value":30
   },
   {
     "id":1077,
-    "value":192
+    "value":196
   },
   {
     "id":1079,
-    "value":56
+    "value":58
   },
   {
     "id":1081,
-    "value":599
+    "value":605
   },
   {
     "id":1083,
-    "value":144
+    "value":151
   },
   {
     "id":1085,
-    "value":298
+    "value":307
   },
   {
     "id":1087,
-    "value":104
+    "value":105
   },
   {
     "id":1089,
-    "value":397
+    "value":413
   },
   {
     "id":1091,
-    "value":187
+    "value":192
   },
   {
     "id":1093,
@@ -189,51 +189,51 @@
   },
   {
     "id":1095,
-    "value":752
+    "value":764
   },
   {
     "id":1097,
-    "value":2487
+    "value":2545
   },
   {
     "id":1099,
-    "value":68
+    "value":79
   },
   {
     "id":1101,
-    "value":2221
+    "value":2290
   },
   {
     "id":1103,
-    "value":429
+    "value":456
   },
   {
     "id":1105,
-    "value":52
+    "value":54
   },
   {
     "id":1107,
-    "value":126
+    "value":128
   },
   {
     "id":1109,
-    "value":259
+    "value":266
   },
   {
     "id":1111,
-    "value":132
+    "value":136
   },
   {
     "id":1113,
-    "value":221
+    "value":236
   },
   {
     "id":1115,
-    "value":141
+    "value":149
   },
   {
     "id":1117,
-    "value":560
+    "value":567
   },
   {
     "id":1119,
@@ -241,31 +241,31 @@
   },
   {
     "id":1121,
-    "value":136
+    "value":140
   },
   {
     "id":1123,
-    "value":448
+    "value":451
   },
   {
     "id":1125,
-    "value":976
+    "value":1009
   },
   {
     "id":1127,
-    "value":467
+    "value":481
   },
   {
     "id":1129,
-    "value":82
+    "value":83
   },
   {
     "id":1131,
-    "value":179
+    "value":183
   },
   {
     "id":1133,
-    "value":96
+    "value":98
   },
   {
     "id":80001,
@@ -273,6 +273,6 @@
   },
   {
     "id":90001,
-    "value":351
+    "value":363
   }
 ]
