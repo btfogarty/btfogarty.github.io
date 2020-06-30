@@ -1,75 +1,75 @@
 [
   {
     "id":1001,
-    "value":497
+    "value":521
   },
   {
     "id":1003,
-    "value":559
+    "value":626
   },
   {
     "id":1005,
-    "value":314
+    "value":319
   },
   {
     "id":1007,
-    "value":159
+    "value":162
   },
   {
     "id":1009,
-    "value":186
+    "value":196
   },
   {
     "id":1011,
-    "value":353
+    "value":360
   },
   {
     "id":1013,
-    "value":599
+    "value":602
   },
   {
     "id":1015,
-    "value":237
+    "value":261
   },
   {
     "id":1017,
-    "value":547
+    "value":571
   },
   {
     "id":1019,
-    "value":67
+    "value":70
   },
   {
     "id":1021,
-    "value":195
+    "value":203
   },
   {
     "id":1023,
-    "value":188
+    "value":191
   },
   {
     "id":1025,
-    "value":256
+    "value":261
   },
   {
     "id":1027,
-    "value":35
+    "value":48
   },
   {
     "id":1029,
-    "value":25
+    "value":30
   },
   {
     "id":1031,
-    "value":340
+    "value":346
   },
   {
     "id":1033,
-    "value":347
+    "value":358
   },
   {
     "id":1035,
-    "value":163
+    "value":176
   },
   {
     "id":1037,
@@ -77,39 +77,39 @@
   },
   {
     "id":1039,
-    "value":294
+    "value":302
   },
   {
     "id":1041,
-    "value":121
+    "value":122
   },
   {
     "id":1043,
-    "value":374
+    "value":393
   },
   {
     "id":1045,
-    "value":233
+    "value":235
   },
   {
     "id":1047,
-    "value":747
+    "value":781
   },
   {
     "id":1049,
-    "value":539
+    "value":562
   },
   {
     "id":1051,
-    "value":774
+    "value":796
   },
   {
     "id":1053,
-    "value":216
+    "value":248
   },
   {
     "id":1055,
-    "value":551
+    "value":597
   },
   {
     "id":1057,
@@ -117,11 +117,11 @@
   },
   {
     "id":1059,
-    "value":835
+    "value":831
   },
   {
     "id":1061,
-    "value":60
+    "value":59
   },
   {
     "id":1063,
@@ -129,111 +129,111 @@
   },
   {
     "id":1065,
-    "value":275
+    "value":281
   },
   {
     "id":1067,
-    "value":132
+    "value":128
   },
   {
     "id":1069,
-    "value":425
+    "value":420
   },
   {
     "id":1071,
-    "value":196
+    "value":204
   },
   {
     "id":1073,
-    "value":3682
+    "value":4053
   },
   {
     "id":1075,
-    "value":68
+    "value":70
   },
   {
     "id":1077,
-    "value":372
+    "value":392
   },
   {
     "id":1079,
-    "value":94
+    "value":97
   },
   {
     "id":1081,
-    "value":1064
+    "value":1135
   },
   {
     "id":1083,
-    "value":359
+    "value":394
   },
   {
     "id":1085,
-    "value":437
+    "value":456
   },
   {
     "id":1087,
-    "value":161
+    "value":165
   },
   {
     "id":1089,
-    "value":905
+    "value":996
   },
   {
     "id":1091,
-    "value":266
+    "value":273
   },
   {
     "id":1093,
-    "value":189
+    "value":197
   },
   {
     "id":1095,
-    "value":1408
+    "value":1453
   },
   {
     "id":1097,
-    "value":3418
+    "value":3537
   },
   {
     "id":1099,
-    "value":188
+    "value":189
   },
   {
     "id":1101,
-    "value":3582
+    "value":3727
   },
   {
     "id":1103,
-    "value":916
+    "value":939
   },
   {
     "id":1105,
-    "value":117
+    "value":132
   },
   {
     "id":1107,
-    "value":192
+    "value":198
   },
   {
     "id":1109,
-    "value":389
+    "value":395
   },
   {
     "id":1111,
-    "value":154
+    "value":163
   },
   {
     "id":1113,
-    "value":422
+    "value":452
   },
   {
     "id":1115,
-    "value":249
+    "value":277
   },
   {
     "id":1117,
-    "value":951
+    "value":1018
   },
   {
     "id":1119,
@@ -241,19 +241,19 @@
   },
   {
     "id":1121,
-    "value":223
+    "value":245
   },
   {
     "id":1123,
-    "value":543
+    "value":556
   },
   {
     "id":1125,
-    "value":1845
+    "value":1925
   },
   {
     "id":1127,
-    "value":786
+    "value":827
   },
   {
     "id":1129,
@@ -261,11 +261,11 @@
   },
   {
     "id":1131,
-    "value":270
+    "value":278
   },
   {
     "id":1133,
-    "value":218
+    "value":226
   },
   {
     "id":80001,
@@ -273,6 +273,6 @@
   },
   {
     "id":90001,
-    "value":477
+    "value":493
   }
 ]
