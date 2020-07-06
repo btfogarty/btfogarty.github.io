@@ -1,271 +1,271 @@
 [
   {
     "id":1001,
-    "value":530
+    "value":607
   },
   {
     "id":1003,
-    "value":663
+    "value":864
   },
   {
     "id":1005,
-    "value":322
+    "value":349
   },
   {
     "id":1007,
-    "value":167
+    "value":190
   },
   {
     "id":1009,
-    "value":204
+    "value":235
   },
   {
     "id":1011,
-    "value":360
+    "value":369
   },
   {
     "id":1013,
-    "value":604
+    "value":633
   },
   {
     "id":1015,
-    "value":268
+    "value":354
   },
   {
     "id":1017,
-    "value":576
+    "value":629
   },
   {
     "id":1019,
-    "value":71
+    "value":97
   },
   {
     "id":1021,
-    "value":206
+    "value":246
   },
   {
     "id":1023,
-    "value":191
+    "value":195
   },
   {
     "id":1025,
-    "value":264
+    "value":274
   },
   {
     "id":1027,
-    "value":53
+    "value":65
   },
   {
     "id":1029,
-    "value":29
+    "value":36
   },
   {
     "id":1031,
-    "value":352
+    "value":377
   },
   {
     "id":1033,
-    "value":363
+    "value":395
   },
   {
     "id":1035,
-    "value":178
+    "value":209
   },
   {
     "id":1037,
-    "value":55
+    "value":58
   },
   {
     "id":1039,
-    "value":308
+    "value":358
   },
   {
     "id":1041,
-    "value":122
+    "value":125
   },
   {
     "id":1043,
-    "value":398
+    "value":452
   },
   {
     "id":1045,
-    "value":241
+    "value":288
   },
   {
     "id":1047,
-    "value":808
+    "value":880
   },
   {
     "id":1049,
-    "value":576
+    "value":719
   },
   {
     "id":1051,
-    "value":806
+    "value":925
   },
   {
     "id":1053,
-    "value":258
+    "value":350
   },
   {
     "id":1055,
-    "value":606
+    "value":739
   },
   {
     "id":1057,
-    "value":66
+    "value":70
   },
   {
     "id":1059,
-    "value":843
+    "value":895
   },
   {
     "id":1061,
-    "value":63
+    "value":80
   },
   {
     "id":1063,
-    "value":164
+    "value":186
   },
   {
     "id":1065,
-    "value":285
+    "value":311
   },
   {
     "id":1067,
-    "value":129
+    "value":134
   },
   {
     "id":1069,
-    "value":424
+    "value":496
   },
   {
     "id":1071,
-    "value":210
+    "value":273
   },
   {
     "id":1073,
-    "value":4210
+    "value":5221
   },
   {
     "id":1075,
-    "value":71
+    "value":77
   },
   {
     "id":1077,
-    "value":410
+    "value":490
   },
   {
     "id":1079,
-    "value":100
+    "value":108
   },
   {
     "id":1081,
-    "value":1167
+    "value":1384
   },
   {
     "id":1083,
-    "value":403
+    "value":495
   },
   {
     "id":1085,
-    "value":457
+    "value":472
   },
   {
     "id":1087,
-    "value":166
-  },
-  {
-    "id":1089,
-    "value":1021
-  },
-  {
-    "id":1091,
-    "value":277
-  },
-  {
-    "id":1093,
-    "value":200
-  },
-  {
-    "id":1095,
-    "value":1495
-  },
-  {
-    "id":1097,
-    "value":3634
-  },
-  {
-    "id":1099,
     "value":194
   },
   {
+    "id":1089,
+    "value":1430
+  },
+  {
+    "id":1091,
+    "value":302
+  },
+  {
+    "id":1093,
+    "value":224
+  },
+  {
+    "id":1095,
+    "value":1711
+  },
+  {
+    "id":1097,
+    "value":4080
+  },
+  {
+    "id":1099,
+    "value":235
+  },
+  {
     "id":1101,
-    "value":3788
+    "value":4127
   },
   {
     "id":1103,
-    "value":955
+    "value":1102
   },
   {
     "id":1105,
-    "value":135
+    "value":177
   },
   {
     "id":1107,
-    "value":204
+    "value":235
   },
   {
     "id":1109,
-    "value":396
+    "value":429
   },
   {
     "id":1111,
-    "value":169
+    "value":206
   },
   {
     "id":1113,
-    "value":469
+    "value":552
   },
   {
     "id":1115,
-    "value":292
+    "value":382
   },
   {
     "id":1117,
-    "value":1056
+    "value":1284
   },
   {
     "id":1119,
-    "value":275
+    "value":285
   },
   {
     "id":1121,
-    "value":257
+    "value":309
   },
   {
     "id":1123,
-    "value":560
+    "value":591
   },
   {
     "id":1125,
-    "value":1964
+    "value":2288
   },
   {
     "id":1127,
-    "value":843
+    "value":939
   },
   {
     "id":1129,
-    "value":98
+    "value":109
   },
   {
     "id":1131,
-    "value":278
+    "value":291
   },
   {
     "id":1133,
-    "value":229
+    "value":258
   },
   {
     "id":80001,
@@ -273,6 +273,6 @@
   },
   {
     "id":90001,
-    "value":509
+    "value":503
   }
 ]
