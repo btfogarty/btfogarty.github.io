@@ -1,259 +1,259 @@
 [
   {
     "id":22001,
-    "value":1696
+    "value":1844
   },
   {
     "id":22003,
-    "value":628
+    "value":727
   },
   {
     "id":22005,
-    "value":1896
+    "value":1976
   },
   {
     "id":22007,
-    "value":449
+    "value":452
   },
   {
     "id":22009,
-    "value":619
+    "value":655
   },
   {
     "id":22011,
-    "value":471
+    "value":493
   },
   {
     "id":22013,
-    "value":297
+    "value":317
   },
   {
     "id":22015,
-    "value":1564
+    "value":1602
   },
   {
     "id":22017,
-    "value":4965
+    "value":5041
   },
   {
     "id":22019,
-    "value":4231
+    "value":4481
   },
   {
     "id":22021,
-    "value":142
+    "value":161
   },
   {
     "id":22023,
-    "value":123
+    "value":125
   },
   {
     "id":22025,
-    "value":222
+    "value":235
   },
   {
     "id":22027,
-    "value":165
+    "value":170
   },
   {
     "id":22029,
-    "value":178
+    "value":192
   },
   {
     "id":22031,
-    "value":491
+    "value":502
   },
   {
     "id":22033,
-    "value":8366
+    "value":8578
   },
   {
     "id":22035,
-    "value":483
+    "value":484
   },
   {
     "id":22037,
-    "value":396
+    "value":407
   },
   {
     "id":22039,
-    "value":441
+    "value":494
   },
   {
     "id":22041,
-    "value":628
+    "value":634
   },
   {
     "id":22043,
-    "value":154
+    "value":173
   },
   {
     "id":22045,
-    "value":1607
+    "value":1671
   },
   {
     "id":22047,
-    "value":910
+    "value":921
   },
   {
     "id":22049,
-    "value":276
+    "value":318
   },
   {
     "id":22051,
-    "value":12254
+    "value":12486
   },
   {
     "id":22053,
-    "value":753
+    "value":801
   },
   {
     "id":22055,
-    "value":4848
+    "value":5001
   },
   {
     "id":22057,
-    "value":1928
+    "value":2045
   },
   {
     "id":22059,
-    "value":144
+    "value":163
   },
   {
     "id":22061,
-    "value":505
+    "value":558
   },
   {
     "id":22063,
-    "value":1892
+    "value":1990
   },
   {
     "id":22065,
-    "value":478
+    "value":486
   },
   {
     "id":22067,
-    "value":335
+    "value":339
   },
   {
     "id":22069,
-    "value":483
+    "value":491
   },
   {
     "id":22071,
-    "value":9265
+    "value":9379
   },
   {
     "id":22073,
-    "value":3569
+    "value":3643
   },
   {
     "id":22075,
-    "value":341
+    "value":344
   },
   {
     "id":22077,
-    "value":499
+    "value":520
   },
   {
     "id":22079,
-    "value":2278
+    "value":2371
   },
   {
     "id":22081,
-    "value":129
+    "value":131
   },
   {
     "id":22083,
-    "value":372
+    "value":382
   },
   {
     "id":22085,
-    "value":304
+    "value":379
   },
   {
     "id":22087,
-    "value":816
+    "value":830
   },
   {
     "id":22089,
-    "value":1012
+    "value":1032
   },
   {
     "id":22091,
-    "value":164
+    "value":169
   },
   {
     "id":22093,
-    "value":510
+    "value":518
   },
   {
     "id":22095,
-    "value":1143
+    "value":1163
   },
   {
     "id":22097,
-    "value":1437
+    "value":1527
   },
   {
     "id":22099,
-    "value":1210
+    "value":1254
   },
   {
     "id":22101,
-    "value":1040
+    "value":1106
   },
   {
     "id":22103,
-    "value":3699
+    "value":3790
   },
   {
     "id":22105,
-    "value":2300
+    "value":2447
   },
   {
     "id":22107,
-    "value":40
+    "value":43
   },
   {
     "id":22109,
-    "value":2071
+    "value":2124
   },
   {
     "id":22111,
-    "value":499
+    "value":506
   },
   {
     "id":22113,
-    "value":764
+    "value":810
   },
   {
     "id":22115,
-    "value":386
+    "value":429
   },
   {
     "id":22117,
-    "value":942
+    "value":1000
   },
   {
     "id":22119,
-    "value":628
+    "value":674
   },
   {
     "id":22121,
-    "value":467
+    "value":479
   },
   {
     "id":22123,
-    "value":198
+    "value":205
   },
   {
     "id":22125,
-    "value":283
+    "value":289
   },
   {
     "id":22127,
-    "value":317
+    "value":327
   },
   {
     "id":80022,
@@ -261,6 +261,6 @@
   },
   {
     "id":90022,
-    "value":5
+    "value":8
   }
 ]
