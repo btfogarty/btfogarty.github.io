@@ -1,259 +1,259 @@
 [
   {
     "id":22001,
-    "value":1920
+    "value":2011
   },
   {
     "id":22003,
-    "value":753
+    "value":777
   },
   {
     "id":22005,
-    "value":2022
+    "value":2077
   },
   {
     "id":22007,
-    "value":462
+    "value":463
   },
   {
     "id":22009,
-    "value":699
+    "value":741
   },
   {
     "id":22011,
-    "value":497
+    "value":529
   },
   {
     "id":22013,
-    "value":317
+    "value":327
   },
   {
     "id":22015,
-    "value":1655
+    "value":1701
   },
   {
     "id":22017,
-    "value":5093
+    "value":5254
   },
   {
     "id":22019,
-    "value":4578
+    "value":4742
   },
   {
     "id":22021,
-    "value":158
+    "value":166
   },
   {
     "id":22023,
-    "value":145
+    "value":147
   },
   {
     "id":22025,
-    "value":233
+    "value":235
   },
   {
     "id":22027,
-    "value":178
+    "value":186
   },
   {
     "id":22029,
-    "value":204
+    "value":208
   },
   {
     "id":22031,
-    "value":519
+    "value":534
   },
   {
     "id":22033,
-    "value":8700
+    "value":8919
   },
   {
     "id":22035,
-    "value":483
+    "value":480
   },
   {
     "id":22037,
-    "value":403
+    "value":419
   },
   {
     "id":22039,
-    "value":520
+    "value":562
   },
   {
     "id":22041,
-    "value":641
+    "value":649
   },
   {
     "id":22043,
-    "value":179
+    "value":184
   },
   {
     "id":22045,
-    "value":1715
+    "value":1813
   },
   {
     "id":22047,
-    "value":933
+    "value":964
   },
   {
     "id":22049,
-    "value":320
+    "value":325
   },
   {
     "id":22051,
-    "value":12637
+    "value":12812
   },
   {
     "id":22053,
-    "value":825
+    "value":845
   },
   {
     "id":22055,
-    "value":5125
+    "value":5339
   },
   {
     "id":22057,
-    "value":2095
+    "value":2140
   },
   {
     "id":22059,
-    "value":165
+    "value":174
   },
   {
     "id":22061,
-    "value":556
+    "value":568
   },
   {
     "id":22063,
-    "value":2043
+    "value":2097
   },
   {
     "id":22065,
-    "value":497
+    "value":499
   },
   {
     "id":22067,
-    "value":345
+    "value":358
   },
   {
     "id":22069,
-    "value":493
+    "value":548
   },
   {
     "id":22071,
-    "value":9451
+    "value":9586
   },
   {
     "id":22073,
-    "value":3669
+    "value":3778
   },
   {
     "id":22075,
-    "value":344
+    "value":357
   },
   {
     "id":22077,
-    "value":539
+    "value":555
   },
   {
     "id":22079,
-    "value":2429
+    "value":2492
   },
   {
     "id":22081,
-    "value":130
+    "value":136
   },
   {
     "id":22083,
-    "value":387
+    "value":409
   },
   {
     "id":22085,
-    "value":388
+    "value":417
   },
   {
     "id":22087,
-    "value":839
+    "value":874
   },
   {
     "id":22089,
-    "value":1068
+    "value":1088
   },
   {
     "id":22091,
-    "value":198
+    "value":200
   },
   {
     "id":22093,
-    "value":519
+    "value":533
   },
   {
     "id":22095,
-    "value":1175
+    "value":1191
   },
   {
     "id":22097,
-    "value":1552
+    "value":1655
   },
   {
     "id":22099,
-    "value":1287
+    "value":1333
   },
   {
     "id":22101,
-    "value":1137
+    "value":1189
   },
   {
     "id":22103,
-    "value":3859
+    "value":3954
   },
   {
     "id":22105,
-    "value":2464
+    "value":2536
   },
   {
     "id":22107,
-    "value":43
+    "value":45
   },
   {
     "id":22109,
-    "value":2136
+    "value":2173
   },
   {
     "id":22111,
-    "value":511
+    "value":519
   },
   {
     "id":22113,
-    "value":878
+    "value":947
   },
   {
     "id":22115,
-    "value":445
+    "value":478
   },
   {
     "id":22117,
-    "value":1008
+    "value":1033
   },
   {
     "id":22119,
-    "value":682
+    "value":721
   },
   {
     "id":22121,
-    "value":484
+    "value":490
   },
   {
     "id":22123,
-    "value":206
+    "value":211
   },
   {
     "id":22125,
-    "value":307
+    "value":313
   },
   {
     "id":22127,
-    "value":334
+    "value":339
   },
   {
     "id":80022,
@@ -261,6 +261,6 @@
   },
   {
     "id":90022,
-    "value":6
+    "value":9
   }
 ]
