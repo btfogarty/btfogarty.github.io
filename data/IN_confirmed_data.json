@@ -1,263 +1,263 @@
 [
   {
     "id":18001,
-    "value":66
+    "value":70
   },
   {
     "id":18003,
-    "value":3245
+    "value":3345
   },
   {
     "id":18005,
-    "value":651
+    "value":683
   },
   {
     "id":18007,
-    "value":54
+    "value":56
   },
   {
     "id":18009,
-    "value":45
+    "value":48
   },
   {
     "id":18011,
-    "value":560
+    "value":579
   },
   {
     "id":18013,
-    "value":60
+    "value":63
   },
   {
     "id":18015,
-    "value":120
+    "value":121
   },
   {
     "id":18017,
-    "value":1692
+    "value":1715
   },
   {
     "id":18019,
-    "value":840
+    "value":912
   },
   {
     "id":18021,
-    "value":76
+    "value":83
   },
   {
     "id":18023,
-    "value":316
+    "value":326
   },
   {
     "id":18025,
-    "value":37
+    "value":40
   },
   {
     "id":18027,
-    "value":182
+    "value":204
   },
   {
     "id":18029,
-    "value":368
+    "value":398
   },
   {
     "id":18031,
-    "value":269
+    "value":277
   },
   {
     "id":18033,
-    "value":185
+    "value":198
   },
   {
     "id":18035,
-    "value":528
+    "value":556
   },
   {
     "id":18037,
-    "value":485
+    "value":550
   },
   {
     "id":18039,
-    "value":4189
+    "value":4346
   },
   {
     "id":18041,
-    "value":127
+    "value":136
   },
   {
     "id":18043,
-    "value":522
+    "value":577
   },
   {
     "id":18045,
-    "value":47
+    "value":54
   },
   {
     "id":18047,
-    "value":160
-  },
-  {
-    "id":18049,
-    "value":102
-  },
-  {
-    "id":18051,
     "value":173
   },
   {
+    "id":18049,
+    "value":109
+  },
+  {
+    "id":18051,
+    "value":180
+  },
+  {
     "id":18053,
-    "value":432
+    "value":460
   },
   {
     "id":18055,
-    "value":218
+    "value":222
   },
   {
     "id":18057,
-    "value":2082
+    "value":2230
   },
   {
     "id":18059,
-    "value":530
+    "value":570
   },
   {
     "id":18061,
-    "value":235
+    "value":248
   },
   {
     "id":18063,
-    "value":1594
+    "value":1644
   },
   {
     "id":18065,
-    "value":330
+    "value":342
   },
   {
     "id":18067,
-    "value":704
+    "value":738
   },
   {
     "id":18069,
-    "value":111
+    "value":115
   },
   {
     "id":18071,
-    "value":514
+    "value":525
   },
   {
     "id":18073,
-    "value":165
+    "value":187
   },
   {
     "id":18075,
-    "value":74
+    "value":75
   },
   {
     "id":18077,
-    "value":137
+    "value":142
   },
   {
     "id":18079,
-    "value":188
+    "value":194
   },
   {
     "id":18081,
-    "value":1491
+    "value":1549
   },
   {
     "id":18083,
-    "value":93
+    "value":105
   },
   {
     "id":18085,
-    "value":718
+    "value":760
   },
   {
     "id":18087,
-    "value":507
+    "value":524
   },
   {
     "id":18089,
-    "value":6469
+    "value":6678
   },
   {
     "id":18091,
-    "value":715
+    "value":751
   },
   {
     "id":18093,
-    "value":287
+    "value":296
   },
   {
     "id":18095,
-    "value":739
+    "value":760
   },
   {
     "id":18097,
-    "value":13245
+    "value":13700
   },
   {
     "id":18099,
-    "value":686
+    "value":702
   },
   {
     "id":18101,
-    "value":38
+    "value":39
   },
   {
     "id":18103,
-    "value":225
+    "value":236
   },
   {
     "id":18105,
-    "value":530
+    "value":596
   },
   {
     "id":18107,
-    "value":308
+    "value":317
   },
   {
     "id":18109,
-    "value":380
+    "value":393
   },
   {
     "id":18111,
-    "value":103
+    "value":105
   },
   {
     "id":18113,
-    "value":588
+    "value":599
   },
   {
     "id":18115,
-    "value":35
+    "value":36
   },
   {
     "id":18117,
-    "value":153
+    "value":158
   },
   {
     "id":18119,
-    "value":65
+    "value":70
   },
   {
     "id":18121,
-    "value":35
+    "value":40
   },
   {
     "id":18123,
-    "value":160
+    "value":163
   },
   {
     "id":18125,
-    "value":21
+    "value":25
   },
   {
     "id":18127,
-    "value":975
+    "value":1041
   },
   {
     "id":18129,
-    "value":130
+    "value":143
   },
   {
     "id":18131,
@@ -265,43 +265,43 @@
   },
   {
     "id":18133,
-    "value":198
-  },
-  {
-    "id":18135,
-    "value":90
-  },
-  {
-    "id":18137,
-    "value":168
-  },
-  {
-    "id":18139,
-    "value":73
-  },
-  {
-    "id":18141,
-    "value":2650
-  },
-  {
-    "id":18143,
     "value":207
   },
   {
+    "id":18135,
+    "value":92
+  },
+  {
+    "id":18137,
+    "value":179
+  },
+  {
+    "id":18139,
+    "value":76
+  },
+  {
+    "id":18141,
+    "value":2801
+  },
+  {
+    "id":18143,
+    "value":223
+  },
+  {
     "id":18145,
-    "value":482
+    "value":491
   },
   {
     "id":18147,
-    "value":99
+    "value":102
   },
   {
     "id":18149,
-    "value":142
+    "value":150
   },
   {
     "id":18151,
-    "value":168
+    "value":185
   },
   {
     "id":18153,
@@ -309,63 +309,63 @@
   },
   {
     "id":18155,
-    "value":36
+    "value":37
   },
   {
     "id":18157,
-    "value":921
+    "value":972
   },
   {
     "id":18159,
-    "value":63
+    "value":74
   },
   {
     "id":18161,
-    "value":20
+    "value":22
   },
   {
     "id":18163,
-    "value":1289
+    "value":1433
   },
   {
     "id":18165,
-    "value":20
+    "value":22
   },
   {
     "id":18167,
-    "value":332
+    "value":379
   },
   {
     "id":18169,
-    "value":135
+    "value":144
   },
   {
     "id":18171,
-    "value":18
+    "value":19
   },
   {
     "id":18173,
-    "value":393
+    "value":426
   },
   {
     "id":18175,
-    "value":78
+    "value":87
   },
   {
     "id":18177,
-    "value":232
+    "value":262
   },
   {
     "id":18179,
-    "value":106
+    "value":115
   },
   {
     "id":18181,
-    "value":311
+    "value":326
   },
   {
     "id":18183,
-    "value":127
+    "value":136
   },
   {
     "id":80018,
