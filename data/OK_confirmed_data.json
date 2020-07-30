@@ -1,11 +1,11 @@
 [
   {
     "id":40001,
-    "value":241
+    "value":268
   },
   {
     "id":40003,
-    "value":1
+    "value":4
   },
   {
     "id":40005,
@@ -13,39 +13,39 @@
   },
   {
     "id":40007,
-    "value":35
+    "value":36
   },
   {
     "id":40009,
-    "value":34
+    "value":40
   },
   {
     "id":40011,
-    "value":29
+    "value":38
   },
   {
     "id":40013,
-    "value":316
+    "value":359
   },
   {
     "id":40015,
-    "value":285
+    "value":328
   },
   {
     "id":40017,
-    "value":830
+    "value":941
   },
   {
     "id":40019,
-    "value":255
+    "value":277
   },
   {
     "id":40021,
-    "value":228
+    "value":274
   },
   {
     "id":40023,
-    "value":154
+    "value":158
   },
   {
     "id":40025,
@@ -53,15 +53,15 @@
   },
   {
     "id":40027,
-    "value":2120
+    "value":2382
   },
   {
     "id":40029,
-    "value":24
+    "value":27
   },
   {
     "id":40031,
-    "value":693
+    "value":735
   },
   {
     "id":40033,
@@ -69,83 +69,83 @@
   },
   {
     "id":40035,
-    "value":53
+    "value":64
   },
   {
     "id":40037,
-    "value":388
+    "value":441
   },
   {
     "id":40039,
-    "value":156
+    "value":161
   },
   {
     "id":40041,
-    "value":363
+    "value":381
   },
   {
     "id":40043,
-    "value":4
+    "value":7
   },
   {
     "id":40045,
-    "value":4
+    "value":3
   },
   {
     "id":40047,
-    "value":280
+    "value":322
   },
   {
     "id":40049,
-    "value":173
+    "value":190
   },
   {
     "id":40051,
-    "value":366
+    "value":387
   },
   {
     "id":40053,
-    "value":6
+    "value":9
   },
   {
     "id":40055,
-    "value":78
+    "value":79
   },
   {
     "id":40057,
-    "value":5
+    "value":12
   },
   {
     "id":40059,
-    "value":4
+    "value":5
   },
   {
     "id":40061,
-    "value":27
+    "value":30
   },
   {
     "id":40063,
-    "value":73
+    "value":92
   },
   {
     "id":40065,
-    "value":370
+    "value":424
   },
   {
     "id":40067,
-    "value":27
+    "value":28
   },
   {
     "id":40069,
-    "value":34
+    "value":36
   },
   {
     "id":40071,
-    "value":181
+    "value":199
   },
   {
     "id":40073,
-    "value":79
+    "value":96
   },
   {
     "id":40075,
@@ -153,35 +153,35 @@
   },
   {
     "id":40077,
-    "value":38
+    "value":57
   },
   {
     "id":40079,
-    "value":124
+    "value":167
   },
   {
     "id":40081,
-    "value":92
+    "value":106
   },
   {
     "id":40083,
-    "value":147
+    "value":164
   },
   {
     "id":40085,
-    "value":61
+    "value":62
   },
   {
     "id":40087,
-    "value":342
+    "value":367
   },
   {
     "id":40089,
-    "value":783
+    "value":809
   },
   {
     "id":40091,
-    "value":126
+    "value":141
   },
   {
     "id":40093,
@@ -189,19 +189,19 @@
   },
   {
     "id":40095,
-    "value":64
+    "value":78
   },
   {
     "id":40097,
-    "value":246
+    "value":259
   },
   {
     "id":40099,
-    "value":51
+    "value":58
   },
   {
     "id":40101,
-    "value":333
+    "value":396
   },
   {
     "id":40103,
@@ -209,103 +209,103 @@
   },
   {
     "id":40105,
-    "value":45
+    "value":51
   },
   {
     "id":40107,
-    "value":38
+    "value":49
   },
   {
     "id":40109,
-    "value":7621
+    "value":8444
   },
   {
     "id":40111,
-    "value":312
+    "value":353
   },
   {
     "id":40113,
-    "value":304
+    "value":340
   },
   {
     "id":40115,
-    "value":269
+    "value":304
   },
   {
     "id":40117,
-    "value":107
+    "value":115
   },
   {
     "id":40119,
-    "value":614
+    "value":635
   },
   {
     "id":40121,
-    "value":132
+    "value":159
   },
   {
     "id":40123,
-    "value":131
+    "value":159
   },
   {
     "id":40125,
-    "value":300
+    "value":329
   },
   {
     "id":40127,
-    "value":60
+    "value":79
   },
   {
     "id":40129,
-    "value":6
+    "value":7
   },
   {
     "id":40131,
-    "value":603
+    "value":701
   },
   {
     "id":40133,
-    "value":141
+    "value":175
   },
   {
     "id":40135,
-    "value":147
+    "value":199
   },
   {
     "id":40137,
-    "value":147
+    "value":164
   },
   {
     "id":40139,
-    "value":1018
+    "value":1026
   },
   {
     "id":40141,
-    "value":46
+    "value":51
   },
   {
     "id":40143,
-    "value":7557
+    "value":8319
   },
   {
     "id":40145,
-    "value":577
+    "value":640
   },
   {
     "id":40147,
-    "value":534
+    "value":547
   },
   {
     "id":40149,
-    "value":18
+    "value":23
   },
   {
     "id":40151,
-    "value":14
+    "value":15
   },
   {
     "id":40153,
-    "value":28
+    "value":31
   },
   {
     "id":80040,
@@ -313,6 +313,6 @@
   },
   {
     "id":90040,
-    "value":0
+    "value":18
   }
 ]
